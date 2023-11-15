@@ -1,4 +1,4 @@
-<yml_catalog date="2023-11-15 21:05">
+<yml_catalog date="2023-11-15 21:23">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -99,7 +99,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4013307534051" available="false">
+      <offer id="4013307534051" available="true">
         <price>552</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний 450мм</name>
@@ -108,7 +108,7 @@
         <quantity_in_stock>2.0</quantity_in_stock>
         <vendorprice>269.84</vendorprice>
       </offer>
-      <offer id="4013307534044" available="false">
+      <offer id="4013307534044" available="true">
         <price>284</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний 350мм</name>
@@ -135,7 +135,7 @@
         <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>128.88</vendorprice>
       </offer>
-      <offer id="4013307534068" available="false">
+      <offer id="4013307534068" available="true">
         <price>643</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний</name>
@@ -298,7 +298,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820108913592" available="false">
+      <offer id="4820108913592" available="true">
         <price>1580</price>
         <currencyId>UAH</currencyId>
         <name>Шпаклівка акрилова фінішна Caparol Glattspchtel 25 кг</name>
@@ -543,7 +543,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="84602" available="false">
+      <offer id="84602" available="true">
         <price>440</price>
         <currencyId>UAH</currencyId>
         <name>Флізелін малярний під фарбування Spektrum Fliz SF 65 Standart</name>
@@ -1018,7 +1018,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820193823349" available="false">
+      <offer id="4820193823349" available="true">
         <price>1926</price>
         <currencyId>UAH</currencyId>
         <name>Фарба структурна акрилова для фасаду Байріс Structure 14 кг.</name>
@@ -1258,7 +1258,7 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>3861.0</vendorprice>
       </offer>
-      <offer id="5906725256775" available="true">
+      <offer id="5906725256775" available="false">
         <price>2075</price>
         <currencyId>UAH</currencyId>
         <name>Фарба інтер'єрна латексна Primacol Professional SELECTA 7 матова база</name>
@@ -2145,7 +2145,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4823093904095" available="false">
+      <offer id="4823093904095" available="true">
         <price>252</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна для даху цоколя та фасадів Colorina</name>
@@ -4515,7 +4515,7 @@
         <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>397.0</vendorprice>
       </offer>
-      <offer id="5907642730768" available="false">
+      <offer id="5907642730768" available="true">
         <price>3600</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка під гідроізоляцію Hydro Tape 2К для кутів та стиків. 12см * 50м / Польща Рулон 50м</name>
@@ -4551,7 +4551,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="50305776" available="false">
+      <offer id="50305776" available="true">
         <price>406</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка конькова вентиляційна 310</name>
@@ -4569,7 +4569,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4013307535652" available="false">
+      <offer id="4013307535652" available="true">
         <price>262</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка із рисового паперу SensitiveLine (30мм x 50м) фіолетовий</name>
@@ -7884,7 +7884,7 @@
         <quantity_in_stock>2.0</quantity_in_stock>
         <vendorprice>371.0</vendorprice>
       </offer>
-      <offer id="4823048026599" available="true">
+      <offer id="4823048026599" available="false">
         <price>290.5</price>
         <currencyId>UAH</currencyId>
         <name>Пістолет для Монтажної Піни Професійний Пневматичний</name>
@@ -10215,7 +10215,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="50305774" available="false">
+      <offer id="50305774" available="true">
         <price>1683.85</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана тришарова покрівельна високопаропроникна 130г/м² 1.6х50м 80м² DACHDECKER Comfort</name>
@@ -10980,7 +10980,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>1327.2</vendorprice>
       </offer>
-      <offer id="4820193820157" available="true">
+      <offer id="4820193820157" available="false">
         <price>1896</price>
         <currencyId>UAH</currencyId>
         <name>Лак панельний для дерева акриловий Aqualack BAYRIS 10, Глянсовий</name>
@@ -14710,7 +14710,7 @@
         <quantity_in_stock>126.0</quantity_in_stock>
         <vendorprice>117.0</vendorprice>
       </offer>
-      <offer id="8711595028042" available="false">
+      <offer id="8711595028042" available="true">
         <price>311</price>
         <currencyId>UAH</currencyId>
         <name>Клей-герметик універсальний MS-полімерний еластичний Hybrifix 290мол Коричневий</name>
@@ -14728,7 +14728,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="8711595028035" available="false">
+      <offer id="8711595028035" available="true">
         <price>311</price>
         <currencyId>UAH</currencyId>
         <name>Клей-герметик універсальний MS-полімерний еластичний Hybrifix 290мл</name>
@@ -14800,7 +14800,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4007954219058" available="false">
+      <offer id="4007954219058" available="true">
         <price>240</price>
         <currencyId>UAH</currencyId>
         <name>Клей шпалерний флізеліновий Ювілейний Pufas EURO 3000 500г</name>
@@ -15195,7 +15195,7 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>1902.26</vendorprice>
       </offer>
-      <offer id="3549210022831" available="true">
+      <offer id="3549210022831" available="false">
         <price>108.8</price>
         <currencyId>UAH</currencyId>
         <name>Клей для вінілових шпалер Quelyd Вініл Vinyl 300г</name>
@@ -15294,7 +15294,7 @@
         <quantity_in_stock>29.0</quantity_in_stock>
         <vendorprice>62.19</vendorprice>
       </offer>
-      <offer id="4013307520474" available="false">
+      <offer id="4013307520474" available="true">
         <price>335</price>
         <currencyId>UAH</currencyId>
         <name>Кельма будівельна нержавіюча сталь 280 х 130 мм</name>
@@ -20898,7 +20898,7 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>411.6</vendorprice>
       </offer>
-      <offer id="4820193820584" available="false">
+      <offer id="4820193820584" available="true">
         <price>1200</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка адгезійна бетон-контакт BAYRIS 13</name>
@@ -20973,7 +20973,7 @@
         <quantity_in_stock>15.0</quantity_in_stock>
         <vendorprice>500.0</vendorprice>
       </offer>
-      <offer id="482155687941" available="true">
+      <offer id="482155687941" available="false">
         <price>616</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt 2.1, Сірий антрацит 216</name>
@@ -21103,7 +21103,7 @@
         <quantity_in_stock>1.0</quantity_in_stock>
         <vendorprice>1600.0</vendorprice>
       </offer>
-      <offer id="00003367" available="false">
+      <offer id="00003367" available="true">
         <price>1899</price>
         <currencyId>UAH</currencyId>
         <name>Грунт антикорозійний ГФ-021 25кг Сіра</name>
@@ -21355,7 +21355,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>315.00</vendorprice>
       </offer>
-      <offer id="4820193824568" available="true">
+      <offer id="4820193824568" available="false">
         <price>114</price>
         <currencyId>UAH</currencyId>
         <name>Гідрофобне просочення гідрофобізатор Delfin BAYRIS</name>
@@ -21606,7 +21606,7 @@
         <quantity_in_stock>5.0</quantity_in_stock>
         <vendorprice>85.0</vendorprice>
       </offer>
-      <offer id="5902012931004" available="false">
+      <offer id="5902012931004" available="true">
         <price>126</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний акриловий для дерева та паркету (5 кольорів) Grover W100 300 мл Сосна</name>
@@ -21687,7 +21687,7 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>238.0</vendorprice>
       </offer>
-      <offer id="5902012942123" available="true">
+      <offer id="5902012942123" available="false">
         <price>299.7</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів силіконовий нейтральний ESKARO Duax Silicone 300мл Пісочний 228</name>
@@ -21840,7 +21840,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="8711595163842" available="false">
+      <offer id="8711595163842" available="true">
         <price>143</price>
         <currencyId>UAH</currencyId>
         <name>Герметик акриловий для вентиляційних систем (сріблясто-сірий) Acryl Ducting Seal 310мл</name>
