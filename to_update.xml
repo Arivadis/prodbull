@@ -1,4 +1,4 @@
-<yml_catalog date="2023-11-15 21:48">
+<yml_catalog date="2023-11-16 20:28">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -99,7 +99,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4013307534051" available="false">
+      <offer id="4013307534051" available="true">
         <price>552</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний 450мм</name>
@@ -108,7 +108,7 @@
         <quantity_in_stock>2.0</quantity_in_stock>
         <vendorprice>269.84</vendorprice>
       </offer>
-      <offer id="4013307534044" available="false">
+      <offer id="4013307534044" available="true">
         <price>284</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний 350мм</name>
@@ -135,7 +135,7 @@
         <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>128.88</vendorprice>
       </offer>
-      <offer id="4013307534068" available="false">
+      <offer id="4013307534068" available="true">
         <price>643</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний</name>
@@ -298,7 +298,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820108913592" available="false">
+      <offer id="4820108913592" available="true">
         <price>1580</price>
         <currencyId>UAH</currencyId>
         <name>Шпаклівка акрилова фінішна Caparol Glattspchtel 25 кг</name>
@@ -543,7 +543,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="84602" available="false">
+      <offer id="84602" available="true">
         <price>440</price>
         <currencyId>UAH</currencyId>
         <name>Флізелін малярний під фарбування Spektrum Fliz SF 65 Standart</name>
@@ -864,7 +864,7 @@
         <currencyId>UAH</currencyId>
         <name>Фасадна фарба FACADE WECO водно-дисперсійна біла матова 14</name>
         <categoryId>67131755</categoryId>
-        <quantity_in_stock>22.0</quantity_in_stock>
+        <quantity_in_stock>20.0</quantity_in_stock>
         <vendorprice>958.5</vendorprice>
       </offer>
       <offer id="4820193822496" available="true">
@@ -1258,7 +1258,7 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>3861.0</vendorprice>
       </offer>
-      <offer id="5906725256775" available="true">
+      <offer id="5906725256775" available="false">
         <price>2075</price>
         <currencyId>UAH</currencyId>
         <name>Фарба інтер'єрна латексна Primacol Professional SELECTA 7 матова база</name>
@@ -2145,7 +2145,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4823093904095" available="false">
+      <offer id="4823093904095" available="true">
         <price>252</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна для даху цоколя та фасадів Colorina</name>
@@ -2322,7 +2322,7 @@
         <name>Фарба гумова універсальна Multi Flexible Paint 10, Чорний</name>
         <categoryId>105705239</categoryId>
         <vendorCode>4820193822977</vendorCode>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <vendorprice>1822.8</vendorprice>
       </offer>
       <offer id="4820193822915" available="true">
@@ -2559,7 +2559,7 @@
         <name>Універсальний технічний аерозоль Den Braven 6 in 1 Multi-Oil 400 мл</name>
         <categoryId>102090702</categoryId>
         <vendorCode>12009741</vendorCode>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <vendorprice>161.0</vendorprice>
       </offer>
       <offer id="8711595208024" available="true">
@@ -4515,7 +4515,7 @@
         <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>397.0</vendorprice>
       </offer>
-      <offer id="5907642730768" available="false">
+      <offer id="5907642730768" available="true">
         <price>3600</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка під гідроізоляцію Hydro Tape 2К для кутів та стиків. 12см * 50м / Польща Рулон 50м</name>
@@ -4551,7 +4551,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="50305776" available="false">
+      <offer id="50305776" available="true">
         <price>406</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка конькова вентиляційна 310</name>
@@ -4569,7 +4569,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4013307535652" available="false">
+      <offer id="4013307535652" available="true">
         <price>262</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка із рисового паперу SensitiveLine (30мм x 50м) фіолетовий</name>
@@ -4629,7 +4629,7 @@
         <name>Стрічка для швів і кутів гіпсокартону Американка Strait Flex Tuff Tape 57 мм*0 41 мм*30 м Червона</name>
         <categoryId>67375323</categoryId>
         <vendorCode>8011963759335</vendorCode>
-        <quantity_in_stock>137.0</quantity_in_stock>
+        <quantity_in_stock>125.0</quantity_in_stock>
         <vendorprice>650.0</vendorprice>
       </offer>
       <offer id="4013307535836" available="true">
@@ -4737,7 +4737,7 @@
         <name>Склополотно під шпаклівку Spektrum Premium SN 45 (Нідерланди) рулон 50м.п.</name>
         <categoryId>67375323</categoryId>
         <vendorCode>SN45-50</vendorCode>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>19.0</quantity_in_stock>
         <vendorprice>774.0</vendorprice>
       </offer>
       <offer id="82407" available="true">
@@ -6046,7 +6046,7 @@
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Апельсинова, 45см</name>
         <categoryId>84233811</categoryId>
         <vendorCode>Df200-2878</vendorCode>
-        <quantity_in_stock>12.0</quantity_in_stock>
+        <quantity_in_stock>11.0</quantity_in_stock>
         <vendorprice>41.0</vendorprice>
       </offer>
       <offer id="2005001" available="false">
@@ -6350,7 +6350,7 @@
         <name>Розчинник органічний для алкідних фарб Lösungsmittel BAYRIS 0.86</name>
         <categoryId>105851603</categoryId>
         <vendorCode>4841498016953</vendorCode>
-        <quantity_in_stock>37.0</quantity_in_stock>
+        <quantity_in_stock>36.0</quantity_in_stock>
         <vendorprice>163.8</vendorprice>
       </offer>
       <offer id="4841498016946" available="true">
@@ -7791,7 +7791,7 @@
         <name>Пластифікатор добавки для всіх типів бетону BAYRIS 5</name>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820409</vendorCode>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <vendorprice>163.8</vendorprice>
       </offer>
       <offer id="4820193820416" available="true">
@@ -7881,10 +7881,10 @@
         <name>Пістолет для Монтажної Піни Професійний Пневматичний (Тефлон)</name>
         <categoryId>103247208</categoryId>
         <vendorCode>36-001</vendorCode>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <vendorprice>371.0</vendorprice>
       </offer>
-      <offer id="4823048026599" available="true">
+      <offer id="4823048026599" available="false">
         <price>290.5</price>
         <currencyId>UAH</currencyId>
         <name>Пістолет для Монтажної Піни Професійний Пневматичний</name>
@@ -8016,7 +8016,7 @@
         <name>Піна монтажна GROVER GF65 Біла пістолетна 870 мл</name>
         <categoryId>85666846</categoryId>
         <vendorCode>GF 65</vendorCode>
-        <quantity_in_stock>187.0</quantity_in_stock>
+        <quantity_in_stock>175.0</quantity_in_stock>
         <vendorprice>170.0</vendorprice>
       </offer>
       <offer id="4814016005739" available="false">
@@ -8178,7 +8178,7 @@
         <name>Пензель ЛАК флейцевий жовта пластикова ручка</name>
         <categoryId>105856995</categoryId>
         <vendorCode>81343002</vendorCode>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>38.02</vendorprice>
       </offer>
       <offer id="4013307413417" available="false">
@@ -8196,7 +8196,7 @@
         <name>Пензель ЛАК флейцева жовта пластикова ручка 50мм х 14 мм</name>
         <categoryId>105856995</categoryId>
         <vendorCode>81345002</vendorCode>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>49.93</vendorprice>
       </offer>
       <offer id="4013307413394" available="true">
@@ -8349,7 +8349,7 @@
         <name>Очищувач для ПВХ та пластикових вікон REM-HELP 0,5л З розпилювачем</name>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167005962</vendorCode>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <vendorprice>138.6</vendorprice>
       </offer>
       <offer id="4820167006020" available="false">
@@ -8430,7 +8430,7 @@
         <name>Очисник від моху та лишайників Bayris</name>
         <categoryId>67126675</categoryId>
         <vendorCode>5906725261823</vendorCode>
-        <quantity_in_stock>10.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <vendorprice>138.6</vendorprice>
       </offer>
       <offer id="1866922957" available="false">
@@ -8457,7 +8457,7 @@
         <name>Очисниик інструментів та будівельних риштувань концентрат BAYRIS 5л</name>
         <categoryId>91858315</categoryId>
         <vendorCode>5906725266101</vendorCode>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <vendorprice>239.4</vendorprice>
       </offer>
       <offer id="982394227" available="false">
@@ -8520,7 +8520,7 @@
         <name>Олія для дерева ALTAX Сірий 0.75</name>
         <categoryId>105733817</categoryId>
         <vendorCode>5900172962258</vendorCode>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>537.6</vendorprice>
       </offer>
       <offer id="5900172800468" available="true">
@@ -10215,13 +10215,13 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="50305774" available="false">
+      <offer id="50305774" available="true">
         <price>1683.85</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана тришарова покрівельна високопаропроникна 130г/м² 1.6х50м 80м² DACHDECKER Comfort</name>
         <categoryId>105704400</categoryId>
         <vendorCode>Comfort 130</vendorCode>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <vendorprice>1400.0</vendorprice>
       </offer>
       <offer id="50305775" available="true">
@@ -10338,7 +10338,7 @@
         <name>Мастика гідроізоляційна Grover MW 301 7 кг / Польща</name>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 7</vendorCode>
-        <quantity_in_stock>23.0</quantity_in_stock>
+        <quantity_in_stock>21.0</quantity_in_stock>
         <vendorprice>660.0</vendorprice>
       </offer>
       <offer id="4820166525034" available="true">
@@ -10347,7 +10347,7 @@
         <name>Мастика гідроізоляційна Grover MW 301 4 кг.</name>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 4</vendorCode>
-        <quantity_in_stock>32.0</quantity_in_stock>
+        <quantity_in_stock>28.0</quantity_in_stock>
         <vendorprice>390.0</vendorprice>
       </offer>
       <offer id="4820166525027" available="true">
@@ -10356,7 +10356,7 @@
         <name>Мастика гідроізоляційна Grover MW 301 1 кг</name>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 1</vendorCode>
-        <quantity_in_stock>73.0</quantity_in_stock>
+        <quantity_in_stock>71.0</quantity_in_stock>
         <vendorprice>110.0</vendorprice>
       </offer>
       <offer id="1209622447" available="false">
@@ -10980,7 +10980,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>1327.2</vendorprice>
       </offer>
-      <offer id="4820193820157" available="true">
+      <offer id="4820193820157" available="false">
         <price>1896</price>
         <currencyId>UAH</currencyId>
         <name>Лак панельний для дерева акриловий Aqualack BAYRIS 10, Глянсовий</name>
@@ -11394,7 +11394,7 @@
         <name>Лак акриловий фасадний Aquaprotekt BAYRIS</name>
         <categoryId>105704329</categoryId>
         <vendorCode>4820193820195</vendorCode>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <vendorprice>180.6</vendorprice>
       </offer>
       <offer id="4820193822458" available="false">
@@ -14800,7 +14800,7 @@
         <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4007954219058" available="false">
+      <offer id="4007954219058" available="true">
         <price>240</price>
         <currencyId>UAH</currencyId>
         <name>Клей шпалерний флізеліновий Ювілейний Pufas EURO 3000 500г</name>
@@ -14869,7 +14869,7 @@
         <name>Клей монтажний акриловий прозорий екстраміцний Grover GA100 300мл</name>
         <categoryId>103244794</categoryId>
         <vendorCode>Ga100</vendorCode>
-        <quantity_in_stock>76.0</quantity_in_stock>
+        <quantity_in_stock>73.0</quantity_in_stock>
         <vendorprice>90.0</vendorprice>
       </offer>
       <offer id="5902012930649" available="true">
@@ -14896,7 +14896,7 @@
         <name>Клей для шпалер Флізеліновий Quelyd Fliz Спец Флізелін 300г</name>
         <categoryId>103245991</categoryId>
         <vendorCode>30080942</vendorCode>
-        <quantity_in_stock>59.0</quantity_in_stock>
+        <quantity_in_stock>85.0</quantity_in_stock>
         <vendorprice>85.0</vendorprice>
       </offer>
       <offer id="3549210010517" available="true">
@@ -15130,7 +15130,7 @@
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart 15л</name>
         <categoryId>103245991</categoryId>
         <vendorCode>6332</vendorCode>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>29.0</quantity_in_stock>
         <vendorprice>910.0</vendorprice>
       </offer>
       <offer id="1585168049" available="false">
@@ -15183,7 +15183,7 @@
         <name>Клей для паперових шпалер Quelyd Super Express 250г</name>
         <categoryId>103245991</categoryId>
         <vendorCode>Super Express</vendorCode>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <vendorprice>70.0</vendorprice>
       </offer>
       <offer id="4820166520763" available="true">
@@ -15195,13 +15195,13 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>1902.26</vendorprice>
       </offer>
-      <offer id="3549210022831" available="true">
+      <offer id="3549210022831" available="false">
         <price>108.8</price>
         <currencyId>UAH</currencyId>
         <name>Клей для вінілових шпалер Quelyd Вініл Vinyl 300г</name>
         <categoryId>103245991</categoryId>
         <vendorCode>QV 300</vendorCode>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>90.0</quantity_in_stock>
         <vendorprice>83.0</vendorprice>
       </offer>
       <offer id="7311020023706" available="true">
@@ -15210,7 +15210,7 @@
         <name>Клей готовий для склополотна та шпалер Бостик 76 Супер Bostik Wall Super 76 15л</name>
         <categoryId>103245991</categoryId>
         <vendorCode>76 15L</vendorCode>
-        <quantity_in_stock>87.0</quantity_in_stock>
+        <quantity_in_stock>85.0</quantity_in_stock>
         <vendorprice>1225.0</vendorprice>
       </offer>
       <offer id="1585225674" available="false">
@@ -16936,7 +16936,7 @@
         <name>Засіб для очищення пам'ятників PRIMACOL PROFESSIONAL 0.5л</name>
         <categoryId>91858315</categoryId>
         <vendorCode>5906725247148</vendorCode>
-        <quantity_in_stock>8.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>159.6</vendorprice>
       </offer>
       <offer id="4820167005986" available="true">
@@ -16945,7 +16945,7 @@
         <name>Засіб для очищення керамічної плитки та грес REM-HELP 0,5л З розпилювачем</name>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167005986</vendorCode>
-        <quantity_in_stock>16.0</quantity_in_stock>
+        <quantity_in_stock>14.0</quantity_in_stock>
         <vendorprice>138.6</vendorprice>
       </offer>
       <offer id="4820167005993" available="false">
@@ -16963,7 +16963,7 @@
         <name>Засіб для очищення камінів PRIMACOL PROFESSIONAL 0.5л</name>
         <categoryId>91858315</categoryId>
         <vendorCode>5906725247261</vendorCode>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <vendorprice>210.0</vendorprice>
       </offer>
       <offer id="4820167005955" available="true">
@@ -17116,7 +17116,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Шоколадна RAL 8017, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016625</vendorCode>
-        <quantity_in_stock>33.0</quantity_in_stock>
+        <quantity_in_stock>31.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498016687" available="true">
@@ -17134,7 +17134,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Чорна RAL 9005, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016595</vendorCode>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498016670" available="true">
@@ -17152,7 +17152,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Сіра RAL 7046, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016588</vendorCode>
-        <quantity_in_stock>19.0</quantity_in_stock>
+        <quantity_in_stock>17.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498017431" available="true">
@@ -17170,7 +17170,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Синя RAL 5005, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016649</vendorCode>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498016731" available="true">
@@ -17188,7 +17188,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Зелена RAL 6029, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016632</vendorCode>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>11.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498017455" available="true">
@@ -17206,7 +17206,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Жовта RAL 1003, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016663</vendorCode>
-        <quantity_in_stock>14.0</quantity_in_stock>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498017448" available="true">
@@ -17224,7 +17224,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Вишнева RAL 3005, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016656</vendorCode>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498016694" available="true">
@@ -17251,7 +17251,7 @@
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Антрацит RAL 7016, 0.9</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016618</vendorCode>
-        <quantity_in_stock>10.0</quantity_in_stock>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="4841498016601" available="true">
@@ -17260,7 +17260,7 @@
         <name>Емаль-грунт антикорозійна 3в1 Korrosionsshutz Bayris</name>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016601</vendorCode>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <vendorprice>235.2</vendorprice>
       </offer>
       <offer id="1438837681" available="false">
@@ -19436,7 +19436,7 @@
         <name>Емаль акрилова універсальна Luxdecor матова Світло-сірий, 0.75</name>
         <categoryId>67131757</categoryId>
         <vendorCode>5906725211200</vendorCode>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <vendorprice>281.4</vendorprice>
       </offer>
       <offer id="1795227534" available="false">
@@ -19839,7 +19839,7 @@
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл RAL 9005 Чорний</name>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9005 m</vendorCode>
-        <quantity_in_stock>19.0</quantity_in_stock>
+        <quantity_in_stock>17.0</quantity_in_stock>
         <vendorprice>80.0</vendorprice>
       </offer>
       <offer id="4820155685916" available="true">
@@ -20378,8 +20378,8 @@
         <name>Декоративна штукатурка перламутрова La Perla Decor ELEMENT 10 кг</name>
         <categoryId>105704730</categoryId>
         <vendorCode>La Perla</vendorCode>
-        <quantity_in_stock>2.85</quantity_in_stock>
-        <vendorprice>0.0</vendorprice>
+        <quantity_in_stock>2.75</quantity_in_stock>
+        <vendorprice>4604.6</vendorprice>
       </offer>
       <offer id="1562275972" available="false">
         <price>2998</price>
@@ -20565,7 +20565,7 @@
         <name>Ґрунтовка для металу антикорозійна 2в1 PRIMER Bayris Червоно-коричневий, 2.7</name>
         <categoryId>67485156</categoryId>
         <vendorCode>4841498016762</vendorCode>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>529.2</vendorprice>
       </offer>
       <offer id="4841498016748" available="true">
@@ -20574,7 +20574,7 @@
         <name>Ґрунтовка для металу антикорозійна 2в1 PRIMER Bayris Червоно-коричневий, 0.9</name>
         <categoryId>67485156</categoryId>
         <vendorCode>4841498016748</vendorCode>
-        <quantity_in_stock>24.0</quantity_in_stock>
+        <quantity_in_stock>22.0</quantity_in_stock>
         <vendorprice>184.8</vendorprice>
       </offer>
       <offer id="4841498016779" available="true">
@@ -20583,7 +20583,7 @@
         <name>Ґрунтовка для металу антикорозійна 2в1 PRIMER Bayris Сірий, 2.7</name>
         <categoryId>67485156</categoryId>
         <vendorCode>4841498016779</vendorCode>
-        <quantity_in_stock>14.0</quantity_in_stock>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <vendorprice>529.2</vendorprice>
       </offer>
       <offer id="4841498016755" available="true">
@@ -20592,7 +20592,7 @@
         <name>Ґрунтовка для металу антикорозійна 2в1 PRIMER Bayris</name>
         <categoryId>67485156</categoryId>
         <vendorCode>4841498016755</vendorCode>
-        <quantity_in_stock>12.0</quantity_in_stock>
+        <quantity_in_stock>10.0</quantity_in_stock>
         <vendorprice>184.8</vendorprice>
       </offer>
       <offer id="5906725255259" available="true">
@@ -20898,7 +20898,7 @@
         <quantity_in_stock>6.0</quantity_in_stock>
         <vendorprice>411.6</vendorprice>
       </offer>
-      <offer id="4820193820584" available="false">
+      <offer id="4820193820584" available="true">
         <price>1200</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка адгезійна бетон-контакт BAYRIS 13</name>
@@ -20973,7 +20973,7 @@
         <quantity_in_stock>15.0</quantity_in_stock>
         <vendorprice>500.0</vendorprice>
       </offer>
-      <offer id="482155687941" available="true">
+      <offer id="482155687941" available="false">
         <price>616</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt 2.1, Сірий антрацит 216</name>
@@ -21289,7 +21289,7 @@
         <name>Глибокоматова фарба для стель із уповільненим часом висихання Sympatia 9 5л Eskaro</name>
         <categoryId>67126675</categoryId>
         <vendorCode>Sympatia9.5</vendorCode>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>3135.74</vendorprice>
       </offer>
       <offer id="2000129388629" available="false">
@@ -21355,7 +21355,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <vendorprice>315.00</vendorprice>
       </offer>
-      <offer id="4820193824568" available="true">
+      <offer id="4820193824568" available="false">
         <price>114</price>
         <currencyId>UAH</currencyId>
         <name>Гідрофобне просочення гідрофобізатор Delfin BAYRIS</name>
@@ -21397,7 +21397,7 @@
         <name>Гідрофобізатор просочення силоксанове водовідштовхувальне Hydro Stop</name>
         <categoryId>67485156</categoryId>
         <vendorCode>4820193824582</vendorCode>
-        <quantity_in_stock>39.0</quantity_in_stock>
+        <quantity_in_stock>36.0</quantity_in_stock>
         <vendorprice>126.0</vendorprice>
       </offer>
       <offer id="4820193824599" available="true">
@@ -21469,7 +21469,7 @@
         <name>Герметик силіконовий санітарний GROVER S100 Прозорий 300 мл</name>
         <categoryId>105704350</categoryId>
         <vendorCode>S100 П</vendorCode>
-        <quantity_in_stock>69.0</quantity_in_stock>
+        <quantity_in_stock>49.0</quantity_in_stock>
         <vendorprice>110.0</vendorprice>
       </offer>
       <offer id="5902120213665" available="true">
@@ -21487,7 +21487,7 @@
         <name>Герметик силіконовий високотемпературний 315° GROVER FS100 червоний 300 мл</name>
         <categoryId>105704350</categoryId>
         <vendorCode>FS100</vendorCode>
-        <quantity_in_stock>54.0</quantity_in_stock>
+        <quantity_in_stock>42.0</quantity_in_stock>
         <vendorprice>190.0</vendorprice>
       </offer>
       <offer id="12010242" available="false">
@@ -21606,7 +21606,7 @@
         <quantity_in_stock>5.0</quantity_in_stock>
         <vendorprice>85.0</vendorprice>
       </offer>
-      <offer id="5902012931004" available="false">
+      <offer id="5902012931004" available="true">
         <price>126</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний акриловий для дерева та паркету (5 кольорів) Grover W100 300 мл Сосна</name>
@@ -21684,10 +21684,10 @@
         <name>Герметик для швів силіконовий нейтральний ESKARO Duax Silicone 300мл Темно-сіро-синій 288</name>
         <categoryId>105704350</categoryId>
         <vendorCode>Duax Silicone288</vendorCode>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <vendorprice>238.0</vendorprice>
       </offer>
-      <offer id="5902012942123" available="true">
+      <offer id="5902012942123" available="false">
         <price>299.7</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів силіконовий нейтральний ESKARO Duax Silicone 300мл Пісочний 228</name>
@@ -21974,7 +21974,7 @@
         <name>Вогнебіозахист для деревини Stop Fire Червоний BAYRIS</name>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193823394</vendorCode>
-        <quantity_in_stock>23.0</quantity_in_stock>
+        <quantity_in_stock>21.0</quantity_in_stock>
         <vendorprice>298.2</vendorprice>
       </offer>
       <offer id="4820193823448" available="false">
@@ -22223,7 +22223,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 75, 10</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62712</vendorCode>
-        <quantity_in_stock>148.0</quantity_in_stock>
+        <quantity_in_stock>146.0</quantity_in_stock>
         <vendorprice>202.17</vendorprice>
       </offer>
       <offer id="1926095491" available="false">
@@ -22248,7 +22248,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 300, 10</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62796</vendorCode>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>614.54</vendorprice>
       </offer>
       <offer id="1926095501" available="false">
@@ -22291,7 +22291,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 150, 3</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62764</vendorCode>
-        <quantity_in_stock>119.0</quantity_in_stock>
+        <quantity_in_stock>118.0</quantity_in_stock>
         <vendorprice>169.6</vendorprice>
       </offer>
       <offer id="62714" available="true">
@@ -22300,7 +22300,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 150, 10</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62714</vendorCode>
-        <quantity_in_stock>19.0</quantity_in_stock>
+        <quantity_in_stock>18.0</quantity_in_stock>
         <vendorprice>351.5</vendorprice>
       </offer>
       <offer id="62763" available="true">
@@ -22309,7 +22309,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 100, 3</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62763</vendorCode>
-        <quantity_in_stock>68.0</quantity_in_stock>
+        <quantity_in_stock>62.0</quantity_in_stock>
         <vendorprice>122.91</vendorprice>
       </offer>
       <offer id="62713" available="true">
@@ -22318,7 +22318,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 100, 10</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62713</vendorCode>
-        <quantity_in_stock>179.0</quantity_in_stock>
+        <quantity_in_stock>176.0</quantity_in_stock>
         <vendorprice>247.66</vendorprice>
       </offer>
       <offer id="62711" available="true">
@@ -22327,7 +22327,7 @@
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU</name>
         <categoryId>105704350</categoryId>
         <vendorCode>62711</vendorCode>
-        <quantity_in_stock>125.0</quantity_in_stock>
+        <quantity_in_stock>123.0</quantity_in_stock>
         <vendorprice>157.94</vendorprice>
       </offer>
       <offer id="8711595008914" available="true">
@@ -22408,7 +22408,7 @@
         <name>Біозахист для деревини концентрат 1:9 Зелений BAYRIS 5</name>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193824315</vendorCode>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <vendorprice>504.0</vendorprice>
       </offer>
       <offer id="4820193824308" available="true">
@@ -22417,7 +22417,7 @@
         <name>Біозахист для деревини концентрат 1:9 Зелений BAYRIS</name>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193824308</vendorCode>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <vendorprice>113.4</vendorprice>
       </offer>
       <offer id="4820193824339" available="true">
@@ -22426,7 +22426,7 @@
         <name>Біозахист для деревини концентрат 1:9 Безбарвний BAYRIS 5</name>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193824339</vendorCode>
-        <quantity_in_stock>18.0</quantity_in_stock>
+        <quantity_in_stock>16.0</quantity_in_stock>
         <vendorprice>504.0</vendorprice>
       </offer>
       <offer id="4820193824322" available="true">
@@ -22435,7 +22435,7 @@
         <name>Біозахист для деревини концентрат 1:9 Безбарвний BAYRIS</name>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193824322</vendorCode>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <vendorprice>113.4</vendorprice>
       </offer>
       <offer id="4820193820638" available="false">
@@ -22453,7 +22453,7 @@
         <name>Біозахисний імпрегнат для деревини AQUAGRUNT BAYRIS | Захист деревини</name>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193820621</vendorCode>
-        <quantity_in_stock>29.0</quantity_in_stock>
+        <quantity_in_stock>25.0</quantity_in_stock>
         <vendorprice>67.2</vendorprice>
       </offer>
       <offer id="4001587130711" available="true">
@@ -22498,7 +22498,7 @@
         <name>Антисептик для дерева від шашеля короїду шкідників деревини Hylotox Altax 5</name>
         <categoryId>105733949</categoryId>
         <vendorCode>5900172954802</vendorCode>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>2310.0</vendorprice>
       </offer>
       <offer id="5900172954826" available="false">
@@ -22602,7 +22602,7 @@
         <name>Антигрибковий засіб Primacol Антигриб 2 5</name>
         <categoryId>67126675</categoryId>
         <vendorCode>5907808083479</vendorCode>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>554.4</vendorprice>
       </offer>
       <offer id="5907808083530" available="true">
@@ -22611,7 +22611,7 @@
         <name>Антигрибковий засіб Primacol Антигриб 2 1</name>
         <categoryId>67126675</categoryId>
         <vendorCode>5907808083530</vendorCode>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <vendorprice>138.6</vendorprice>
       </offer>
       <offer id="5907808083462" available="true">
@@ -22620,7 +22620,7 @@
         <name>Антигрибковий засіб Primacol Антигриб 2</name>
         <categoryId>67126675</categoryId>
         <vendorCode>5907808083462</vendorCode>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <vendorprice>117.6</vendorprice>
       </offer>
       <offer id="1440441005" available="false">
