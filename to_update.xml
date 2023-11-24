@@ -1,4 +1,4 @@
-<yml_catalog date="2023-11-24 13:41">
+<yml_catalog date="2023-11-24 13:42">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -675,7 +675,7 @@
         <categoryId>85666663</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820193823189" available="false">
+      <offer id="4820193823189" available="true">
         <price>270</price>
         <currencyId>UAH</currencyId>
         <name>Фіброволокно домішка для бетону мікрофібра поліпропіленова 12 мм FIBER-PLUS 0.9</name>
@@ -693,7 +693,7 @@
         <vendorCode>4820193823172</vendorCode>
         <vendorprice>126.0</vendorprice>
       </offer>
-      <offer id="4820193823219" available="false">
+      <offer id="4820193823219" available="true">
         <price>258</price>
         <currencyId>UAH</currencyId>
         <name>Фіброволокно добавка до бетону мікрофібра поліпропіленова WECO Armo-Fiber 0.9</name>
@@ -1447,7 +1447,7 @@
         <vendorCode>ПФ-25-С</vendorCode>
         <vendorprice>1700.0</vendorprice>
       </offer>
-      <offer id="2250131643012" available="false">
+      <offer id="2250131643012" available="true">
         <price>1950</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25 кг Чорна</name>
@@ -6061,7 +6061,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2002878" available="true">
+      <offer id="2002878" available="false">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Апельсинова, 45см</name>
@@ -6338,7 +6338,7 @@
         <quantity_in_stock>7.0</quantity_in_stock>
         <vendorprice>240.0</vendorprice>
       </offer>
-      <offer id="4820108150805" available="false">
+      <offer id="4820108150805" available="true">
         <price>120</price>
         <currencyId>UAH</currencyId>
         <name>Розчинник органічний Сольвент 0.8</name>
@@ -6634,7 +6634,7 @@
         <vendorCode>5906725258465</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="5906725254412" available="false">
+      <offer id="5906725254412" available="true">
         <price>2598</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Njord Luxdecor Човен вікінгів, 5</name>
@@ -6850,7 +6850,7 @@
         <vendorCode>5906725254818</vendorCode>
         <vendorprice>369.6</vendorprice>
       </offer>
-      <offer id="5906725254399" available="false">
+      <offer id="5906725254399" available="true">
         <price>2598</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Njord Luxdecor Вулканічний пил, 5</name>
@@ -6904,7 +6904,7 @@
         <vendorCode>5906725254825</vendorCode>
         <vendorprice>369.6</vendorprice>
       </offer>
-      <offer id="5906725254313" available="false">
+      <offer id="5906725254313" available="true">
         <price>2598</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Njord Luxdecor Білий, 5</name>
@@ -6913,7 +6913,7 @@
         <vendorCode>5906725254320</vendorCode>
         <vendorprice>1818.6</vendorprice>
       </offer>
-      <offer id="5906725254610" available="false">
+      <offer id="5906725254610" available="true">
         <price>1410</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Njord Luxdecor Білий, 2.5</name>
@@ -7991,7 +7991,7 @@
         <vendorCode>Foam GG 870</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="5948966014851" available="false">
+      <offer id="5948966014851" available="true">
         <price>358</price>
         <currencyId>UAH</currencyId>
         <name>Піна монтажна професійна зимова Den Braven Super Foam 825 мл</name>
@@ -8482,7 +8482,7 @@
         <vendorCode>100124</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="5906725266095" available="false">
+      <offer id="5906725266095" available="true">
         <price>324</price>
         <currencyId>UAH</currencyId>
         <name>Очисник бетонозмішувача концентрат BAYRIS 5 л</name>
@@ -11590,7 +11590,7 @@
         <vendorCode>5900172962708</vendorCode>
         <vendorprice>319.2</vendorprice>
       </offer>
-      <offer id="5900172962760" available="false">
+      <offer id="5900172962760" available="true">
         <price>456</price>
         <currencyId>UAH</currencyId>
         <name>Лазурна просочення для дерева Altax Profi-Lasur Protector Палісандр 0.75</name>
@@ -11716,7 +11716,7 @@
         <vendorCode>5900172962944</vendorCode>
         <vendorprice>2982.00</vendorprice>
       </offer>
-      <offer id="5900172962852" available="false">
+      <offer id="5900172962852" available="true">
         <price>1392</price>
         <currencyId>UAH</currencyId>
         <name>Лазур просочення для дерева Altax Profi-Lasur Protector Палісандр 2.5</name>
@@ -17111,7 +17111,7 @@
         <vendorCode>Sloten Spray</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820167005948" available="false">
+      <offer id="4820167005948" available="true">
         <price>222</price>
         <currencyId>UAH</currencyId>
         <name>Засіб для видалення цементу та будівельних розчинів. REM-HELP 0,5л З розпилювачем</name>
@@ -17442,7 +17442,7 @@
         <vendorCode>NTF 3024</vendorCode>
         <vendorprice>147.0</vendorprice>
       </offer>
-      <offer id="4820155680843" available="true">
+      <offer id="4820155680843" available="false">
         <price>216.9</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 1026 Жовтий</name>
@@ -19297,7 +19297,7 @@
         <vendorCode>Biodur 106-21</vendorCode>
         <vendorprice>550.0</vendorprice>
       </offer>
-      <offer id="4820155685527" available="false">
+      <offer id="4820155685527" available="true">
         <price>678</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint 2.1, Сірий 104</name>
@@ -19315,7 +19315,7 @@
         <vendorCode>Biodur 118-21</vendorCode>
         <vendorprice>660.0</vendorprice>
       </offer>
-      <offer id="4820155685558" available="false">
+      <offer id="4820155685558" available="true">
         <price>678</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint 2.1, Коричневий 117</name>
@@ -19369,7 +19369,7 @@
         <vendorCode>Biodur 118-07</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820155685497" available="false">
+      <offer id="4820155685497" available="true">
         <price>274</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint 0.7, Коричневий 117</name>
@@ -19534,7 +19534,7 @@
         <vendorCode>5906725254085</vendorCode>
         <vendorprice>907.2</vendorprice>
       </offer>
-      <offer id="5906725211187" available="false">
+      <offer id="5906725211187" available="true">
         <price>402</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor матова Слонова кістка, 0.75</name>
@@ -19955,7 +19955,7 @@
         <vendorCode>WEISSLACK SM B1</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820108917804" available="false">
+      <offer id="4820108917804" available="true">
         <price>399</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова біла Alpina Aqua Weisslack SM В1</name>
@@ -20649,7 +20649,7 @@
         <vendorCode>UNIWECO1</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820193822557" available="false">
+      <offer id="4820193822557" available="true">
         <price>438</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка кварцова QUARTZ-GRUNT WECO 7</name>
@@ -20658,7 +20658,7 @@
         <vendorCode>QUARTZWECO7</vendorCode>
         <vendorprice>328.5</vendorprice>
       </offer>
-      <offer id="4820193822564" available="false">
+      <offer id="4820193822564" available="true">
         <price>834</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка кварцова QUARTZ-GRUNT WECO 14</name>
@@ -20896,7 +20896,7 @@
         <vendorCode>Primer 6000</vendorCode>
         <vendorprice>1260.00</vendorprice>
       </offer>
-      <offer id="4820193824025" available="false">
+      <offer id="4820193824025" available="true">
         <price>330</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка силікатна концентрат 1:4 глибокого проникнення Silikat Grunt PR3</name>
@@ -21109,7 +21109,7 @@
         <vendorCode>Biodur 205-21</vendorCode>
         <vendorprice>500.0</vendorprice>
       </offer>
-      <offer id="482155687941" available="false">
+      <offer id="482155687941" available="true">
         <price>616</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt 2.1, Сірий антрацит 216</name>
