@@ -1,4 +1,4 @@
-<yml_catalog date="2023-11-30 20:45">
+<yml_catalog date="2023-11-30 20:57">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -858,7 +858,7 @@
         <categoryId>67131755</categoryId>
         <vendorprice>495.0</vendorprice>
       </offer>
-      <offer id="4820193822519" available="true">
+      <offer id="4820193822519" available="false">
         <price>1278</price>
         <currencyId>UAH</currencyId>
         <name>Фасадна фарба FACADE WECO водно-дисперсійна біла матова 14</name>
@@ -4976,7 +4976,7 @@
         <vendorCode>Df200-8433</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003218" available="false">
+      <offer id="2003218" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сонома, 45см</name>
@@ -5029,7 +5029,7 @@
         <vendorCode>Df200-8426</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003188" available="true">
+      <offer id="2003188" available="false">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сантану світлий, 45см</name>
@@ -8038,7 +8038,7 @@
         <vendorCode>FR45</vendorCode>
         <vendorprice>245.0</vendorprice>
       </offer>
-      <offer id="12010347" available="false">
+      <offer id="12010347" available="true">
         <price>204</price>
         <currencyId>UAH</currencyId>
         <name>Піна монтажна будівельна ручна поліуританова Den Braven PU-Foam HH B3 750мл</name>
@@ -8219,7 +8219,7 @@
         <vendorCode>81343002</vendorCode>
         <vendorprice>38.02</vendorprice>
       </offer>
-      <offer id="4013307413417" available="false">
+      <offer id="4013307413417" available="true">
         <price>103</price>
         <currencyId>UAH</currencyId>
         <name>Пензель ЛАК флейцева жовта пластикова ручка 70мм х 16 мм</name>
@@ -14994,7 +14994,7 @@
         <vendorCode>1581</vendorCode>
         <vendorprice>71.0</vendorprice>
       </offer>
-      <offer id="3549210022824" available="false">
+      <offer id="3549210022824" available="true">
         <price>124</price>
         <currencyId>UAH</currencyId>
         <name>Клей для шпалер Флізеліновий Quelyd Fliz Спец Флізелін 300г</name>
@@ -15232,7 +15232,7 @@
         <vendorCode>6332</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="7311020063320" available="true">
+      <offer id="7311020063320" available="false">
         <price>1175.02</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart 15л</name>
@@ -19792,7 +19792,7 @@
         <categoryId>67131757</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="5906725229366" available="false">
+      <offer id="5906725229366" available="true">
         <price>460</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor глянcова Піщана буря, 0.75</name>
@@ -19922,7 +19922,7 @@
         <vendorCode>5906725210777</vendorCode>
         <vendorprice>322.0</vendorprice>
       </offer>
-      <offer id="4820108917835" available="false">
+      <offer id="4820108917835" available="true">
         <price>996</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова біла Alpina Aqua Weisslack SM В1 Шовковисто-матова, 2.5</name>
@@ -20279,7 +20279,7 @@
         <vendorCode>NT 9010</vendorCode>
         <vendorprice>80.0</vendorprice>
       </offer>
-      <offer id="4820155680829" available="true">
+      <offer id="4820155680829" available="false">
         <price>195</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль супер хром Срібло NEW TON 400 мл</name>
@@ -20504,7 +20504,7 @@
         <vendorCode>La Perla</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="50305623" available="true">
+      <offer id="50305623" available="false">
         <price>5874</price>
         <currencyId>UAH</currencyId>
         <name>Декоративна штукатурка перламутрова La Perla Decor ELEMENT 10 кг</name>
@@ -22025,7 +22025,7 @@
         <vendorCode>джойстик X3</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="8711595195386" available="false">
+      <offer id="8711595195386" available="true">
         <price>130.9</price>
         <currencyId>UAH</currencyId>
         <name>Гарячий герметик (Чорний) Den Braven Fire Sealant 1200°C (300 мл)</name>
@@ -22053,7 +22053,7 @@
         <vendorCode>Aquastop facade 3</vendorCode>
         <vendorprice>735.87</vendorprice>
       </offer>
-      <offer id="4820166522101" available="true">
+      <offer id="4820166522101" available="false">
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Водорозчинний зміцнюючий ґрунт-концентрат Eskaro Aquastop facade</name>
