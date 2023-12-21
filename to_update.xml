@@ -1,4 +1,4 @@
-<yml_catalog date="2023-12-21 19:55">
+<yml_catalog date="2023-12-21 19:56">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -108,7 +108,7 @@
         <vendorCode>91374502</vendorCode>
         <vendorprice>269.84</vendorprice>
       </offer>
-      <offer id="4013307534044" available="true">
+      <offer id="4013307534044" available="false">
         <price>284</price>
         <currencyId>UAH</currencyId>
         <name>Шпатель нержавіючий COLOR EXPERT ручка 2К ергоном фасадний 350мм</name>
@@ -860,7 +860,7 @@
         <categoryId>67131755</categoryId>
         <vendorprice>495.0</vendorprice>
       </offer>
-      <offer id="4820193822519" available="false">
+      <offer id="4820193822519" available="true">
         <price>1278</price>
         <currencyId>UAH</currencyId>
         <name>Фасадна фарба FACADE WECO водно-дисперсійна біла матова 14</name>
@@ -1619,7 +1619,7 @@
         <vendorCode>4820193824377</vendorCode>
         <vendorprice>210.0</vendorprice>
       </offer>
-      <offer id="4820193824476" available="true">
+      <offer id="4820193824476" available="false">
         <price>300</price>
         <currencyId>UAH</currencyId>
         <name>Фарба для даху стійка Profi Roof Paint BAYRIS 1, Сірий (RAL 7046)</name>
@@ -2026,7 +2026,7 @@
         <categoryId>67131755</categoryId>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="4823093911062" available="true">
+      <offer id="4823093911062" available="false">
         <price>1955</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна для даху цоколя та фасадів Colorina 12, Графіт RAL 7024</name>
@@ -2164,7 +2164,7 @@
         <vendorCode>4820193822878</vendorCode>
         <vendorprice>940.8</vendorprice>
       </offer>
-      <offer id="4820193822694" available="false">
+      <offer id="4820193822694" available="true">
         <price>1344</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 5, Червоно-коричневий</name>
@@ -2254,7 +2254,7 @@
         <vendorCode>4820193822687</vendorCode>
         <vendorprice>575.4</vendorprice>
       </offer>
-      <offer id="4820193822779" available="false">
+      <offer id="4820193822779" available="true">
         <price>822</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 3, Сірий</name>
@@ -2344,7 +2344,7 @@
         <vendorCode>4820193822946</vendorCode>
         <vendorprice>1822.8</vendorprice>
       </offer>
-      <offer id="4820193822960" available="false">
+      <offer id="4820193822960" available="true">
         <price>2604</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 10, Коричневий</name>
@@ -2362,7 +2362,7 @@
         <vendorCode>4820193822922</vendorCode>
         <vendorprice>1822.8</vendorprice>
       </offer>
-      <offer id="4820193822953" available="false">
+      <offer id="4820193822953" available="true">
         <price>2604</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 10, Жовто-коричневий</name>
@@ -2371,7 +2371,7 @@
         <vendorCode>4820193822953</vendorCode>
         <vendorprice>1822.8</vendorprice>
       </offer>
-      <offer id="4820193822939" available="false">
+      <offer id="4820193822939" available="true">
         <price>2604</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 10, Графітовий</name>
@@ -2407,7 +2407,7 @@
         <vendorCode>4820193822854</vendorCode>
         <vendorprice>201.6</vendorprice>
       </offer>
-      <offer id="4820193822670" available="false">
+      <offer id="4820193822670" available="true">
         <price>288</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 1, Червоно-коричневий</name>
@@ -2416,7 +2416,7 @@
         <vendorCode>4820193822670</vendorCode>
         <vendorprice>201.6</vendorprice>
       </offer>
-      <offer id="4820193822762" available="false">
+      <offer id="4820193822762" available="true">
         <price>288</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 1, Сірий</name>
@@ -2443,7 +2443,7 @@
         <vendorCode>4820193822700</vendorCode>
         <vendorprice>201.6</vendorprice>
       </offer>
-      <offer id="4820193822793" available="false">
+      <offer id="4820193822793" available="true">
         <price>288</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 1, Жовто-коричневий</name>
@@ -4850,7 +4850,7 @@
         <vendorCode>Aqua-Silicone 300мл Бесц.</vendorCode>
         <vendorprice>157.0</vendorprice>
       </offer>
-      <offer id="2005269" available="false">
+      <offer id="2005269" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Японський дуб, 90см</name>
@@ -4931,7 +4931,7 @@
         <vendorCode>Df200-2163</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005271" available="false">
+      <offer id="2005271" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Махагон темний, 90см</name>
@@ -4975,7 +4975,7 @@
         <vendorCode>Df200-8295</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003249" available="false">
+      <offer id="2003249" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Мармур Ромео білий, 45см</name>
@@ -4984,7 +4984,7 @@
         <vendorCode>Df200-3249</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005595" available="false">
+      <offer id="2005595" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сонома, 90см</name>
@@ -5037,7 +5037,7 @@
         <vendorCode>Df200-3199</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005584" available="true">
+      <offer id="2005584" available="false">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сантану світлий, 90см</name>
@@ -5055,7 +5055,7 @@
         <vendorCode>Df200-8426</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003188" available="false">
+      <offer id="2003188" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сантану світлий, 45см</name>
@@ -5091,7 +5091,7 @@
         <vendorCode>Df200-2741</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005315" available="false">
+      <offer id="2005315" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дачна сосна, 90см</name>
@@ -5118,7 +5118,7 @@
         <vendorCode>Df200-2236</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005093" available="false">
+      <offer id="2005093" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Горіх золотий, 90см</name>
@@ -5127,7 +5127,7 @@
         <vendorCode>Df200-5093</vendorCode>
         <vendorprice>82.0</vendorprice>
       </offer>
-      <offer id="2008006" available="true">
+      <offer id="2008006" available="false">
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Горіх золотий, 67.5см</name>
@@ -5136,7 +5136,7 @@
         <vendorCode>Df200-8006</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2001317" available="false">
+      <offer id="2001317" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Горіх золотий, 45см</name>
@@ -5145,7 +5145,7 @@
         <vendorCode>Df200-1317</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005176" available="false">
+      <offer id="2005176" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Волоський горіх, 90см</name>
@@ -5189,7 +5189,7 @@
         <vendorCode>Df200-8325</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003063" available="false">
+      <offer id="2003063" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Вітражна прозора, 45см</name>
@@ -5198,7 +5198,7 @@
         <vendorCode>Df200-3063</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005157" available="false">
+      <offer id="2005157" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, В'яз японський, 90см</name>
@@ -5225,7 +5225,7 @@
         <vendorCode>Df200-1604</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005418" available="false">
+      <offer id="2005418" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Бук червоний, 90см</name>
@@ -5287,7 +5287,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2008075" available="true">
+      <offer id="2008075" available="false">
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Чорний мармур, 67.5см</name>
@@ -5347,7 +5347,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2002880" available="false">
+      <offer id="2002880" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Червоний кіноварь, 45см</name>
@@ -5455,7 +5455,7 @@
         <vendorCode>Df200-2592</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005312" available="true">
+      <offer id="2005312" available="false">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Сірий мармур, 90см</name>
@@ -5500,7 +5500,7 @@
         <vendorCode>Df200-8130</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2002614" available="false">
+      <offer id="2002614" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Сірий каррарський мармур, 45см</name>
@@ -5550,7 +5550,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2001994" available="false">
+      <offer id="2001994" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Синя, 45см</name>
@@ -5635,7 +5635,7 @@
         <vendorCode>Df200-1995</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005605" available="false">
+      <offer id="2005605" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур Ромео, 90см</name>
@@ -5653,7 +5653,7 @@
         <vendorCode>Df200-8288</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003242" available="false">
+      <offer id="2003242" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур Ромео, 45см</name>
@@ -5679,7 +5679,7 @@
         <vendorCode>Df200-8293</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2003247" available="false">
+      <offer id="2003247" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур Ромео срібло, 45см</name>
@@ -5714,7 +5714,7 @@
         <vendorCode>Df200-3248</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005277" available="false">
+      <offer id="2005277" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур білий із чорним, 90см</name>
@@ -5732,7 +5732,7 @@
         <vendorCode>Df200-8064</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2002254" available="false">
+      <offer id="2002254" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур білий із чорним, 45см</name>
@@ -5757,7 +5757,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2003237" available="false">
+      <offer id="2003237" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, М'ятна, 45см</name>
@@ -5832,7 +5832,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2002214" available="false">
+      <offer id="2002214" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Кремова, 45см</name>
@@ -5907,7 +5907,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2002423" available="false">
+      <offer id="2002423" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Зелений, 45см</name>
@@ -5957,7 +5957,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2001276" available="false">
+      <offer id="2001276" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Жовта, 45см</name>
@@ -5984,7 +5984,7 @@
         <vendorCode>Df200-8078</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2001899" available="false">
+      <offer id="2001899" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Дерево біле, 45см</name>
@@ -6009,7 +6009,7 @@
         <categoryId>84233811</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2001993" available="false">
+      <offer id="2001993" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Блакитна, 45см</name>
@@ -6096,7 +6096,7 @@
         <vendorCode>Df200-2878</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2005001" available="false">
+      <offer id="2005001" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Білий, Матова, 90см</name>
@@ -6105,7 +6105,7 @@
         <vendorCode>Df200-5001</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2008001" available="false">
+      <offer id="2008001" available="true">
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Білий, Матова, 67.5см</name>
@@ -6114,7 +6114,7 @@
         <vendorCode>Df200-8001</vendorCode>
         <vendorprice>62.0</vendorprice>
       </offer>
-      <offer id="2000100" available="false">
+      <offer id="2000100" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Білий, Матова, 45см</name>
@@ -6160,7 +6160,7 @@
         <vendorCode>610167122</vendorCode>
         <vendorprice>87.00</vendorprice>
       </offer>
-      <offer id="4013307301660" available="true">
+      <offer id="4013307301660" available="false">
         <price>163</price>
         <currencyId>UAH</currencyId>
         <name>Ручка телескопічна 300см діаметр 25мм сталь. 200 см х 25 мм</name>
@@ -6277,7 +6277,7 @@
         <vendorCode>95870027</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4013307302131" available="true">
+      <offer id="4013307302131" available="false">
         <price>31</price>
         <currencyId>UAH</currencyId>
         <name>Ролик Міні ФСФ поліестр 12мм (чорні смуги)</name>
@@ -6706,7 +6706,7 @@
         <vendorCode>5906725254429</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="5906725254726" available="false">
+      <offer id="5906725254726" available="true">
         <price>1410</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Njord Luxdecor Туманний луг, 2.5</name>
@@ -7506,7 +7506,7 @@
         <vendorCode>5906725209344</vendorCode>
         <vendorprice>1512.0</vendorprice>
       </offer>
-      <offer id="5906725209450" available="true">
+      <offer id="5906725209450" available="false">
         <price>312</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Luxdecor Безбарвний, 1</name>
@@ -7768,7 +7768,7 @@
         <vendorCode>PS1С</vendorCode>
         <vendorprice>450.0</vendorprice>
       </offer>
-      <offer id="50305780" available="false">
+      <offer id="50305780" available="true">
         <price>699</price>
         <currencyId>UAH</currencyId>
         <name>Плівка пароізоляційна покрівельна армована Біла PR1 (60 м2)</name>
@@ -7804,7 +7804,7 @@
         <vendorCode>3793Z124</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="1540" available="false">
+      <offer id="1540" available="true">
         <price>580</price>
         <currencyId>UAH</currencyId>
         <name>Плівка гідроізоляційна покрівельна Сіра HS1 (60 м2)</name>
@@ -7813,7 +7813,7 @@
         <vendorCode>HS1</vendorCode>
         <vendorprice>450.0</vendorprice>
       </offer>
-      <offer id="50305773" available="false">
+      <offer id="50305773" available="true">
         <price>699</price>
         <currencyId>UAH</currencyId>
         <name>Плівка гідроізоляційна покрівельна армована HR1 (60 м2) жовта</name>
@@ -8005,7 +8005,7 @@
         <vendorCode>4820193820522</vendorCode>
         <vendorprice>46.2</vendorprice>
       </offer>
-      <offer id="4820193822236" available="false">
+      <offer id="4820193822236" available="true">
         <price>196</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор Для Теплих Підлог в стяжку розчин (Добавка в Бетон) «Thermal Floor. Тепла Підлога» WECO 5л</name>
@@ -8354,7 +8354,7 @@
         <vendorCode>81508102</vendorCode>
         <vendorprice>259.75</vendorprice>
       </offer>
-      <offer id="4823048026650" available="false">
+      <offer id="4823048026650" available="true">
         <price>35</price>
         <currencyId>UAH</currencyId>
         <name>Пензель плаский 3 (70мм) дерев'яна ручка</name>
@@ -8469,7 +8469,7 @@
         <vendorCode>96000512</vendorCode>
         <vendorprice>55.58</vendorprice>
       </offer>
-      <offer id="4013307474111" available="false">
+      <offer id="4013307474111" available="true">
         <price>176</price>
         <currencyId>UAH</currencyId>
         <name>Паперова клейка стрічка ЗП 48мм x 50м</name>
@@ -8478,7 +8478,7 @@
         <vendorCode>96014802</vendorCode>
         <vendorprice>128.93</vendorprice>
       </offer>
-      <offer id="4013307474029" available="false">
+      <offer id="4013307474029" available="true">
         <price>69</price>
         <currencyId>UAH</currencyId>
         <name>Паперова клейка стрічка ЗП 24мм х 50м.</name>
@@ -8533,7 +8533,7 @@
         <vendorCode>PU-Cleaner 500 мл</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820167005962" available="true">
+      <offer id="4820167005962" available="false">
         <price>198</price>
         <currencyId>UAH</currencyId>
         <name>Очищувач для ПВХ та пластикових вікон REM-HELP 0,5л З розпилювачем</name>
@@ -11708,7 +11708,7 @@
         <vendorCode>5900172250324</vendorCode>
         <vendorprice>1722.0</vendorprice>
       </offer>
-      <offer id="5900172250317" available="true">
+      <offer id="5900172250317" available="false">
         <price>2460</price>
         <currencyId>UAH</currencyId>
         <name>Лак для підлоги акриловий паркетний ALTAX 2.5 Прозорий Глянцева.</name>
@@ -11783,7 +11783,7 @@
         <vendorCode>5900172251314</vendorCode>
         <vendorprice>609.0</vendorprice>
       </offer>
-      <offer id="4820193821581" available="true">
+      <offer id="4820193821581" available="false">
         <price>774</price>
         <currencyId>UAH</currencyId>
         <name>Лак для каменю акриловий глянсовий Aquastone BAYRIS 2.5</name>
@@ -11801,7 +11801,7 @@
         <vendorCode>4820193820225</vendorCode>
         <vendorprice>176.4</vendorprice>
       </offer>
-      <offer id="4820166523030" available="true">
+      <offer id="4820166523030" available="false">
         <price>530</price>
         <currencyId>UAH</currencyId>
         <name>Лак для каменю Grover GV 451 2.5л</name>
@@ -12411,7 +12411,7 @@
         <vendorCode>Zilan2000</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="100" available="true">
+      <offer id="100" available="false">
         <price>1431</price>
         <currencyId>UAH</currencyId>
         <name>Композитна армуюча стрічка для кутів Американка Strait Flex Uno-Bead 57мм (65мкм) синя</name>
@@ -15703,7 +15703,7 @@
         <vendorCode>6332</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="7311020063320" available="false">
+      <offer id="7311020063320" available="true">
         <price>1175.02</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart 15л</name>
@@ -16455,7 +16455,7 @@
         <vendorCode>80-373</vendorCode>
         <vendorprice>233.76</vendorprice>
       </offer>
-      <offer id="4820166520466" available="true">
+      <offer id="4820166520466" available="false">
         <price>2380</price>
         <currencyId>UAH</currencyId>
         <name>Зміцнюючий ґрунт-концентрат 1:10 Eskaro Aquastop professional 10л</name>
@@ -16745,7 +16745,7 @@
         <vendorCode>96785502</vendorCode>
         <vendorprice>98.61</vendorprice>
       </offer>
-      <offer id="4013307535768" available="false">
+      <offer id="4013307535768" available="true">
         <price>463</price>
         <currencyId>UAH</currencyId>
         <name>Захисна плівка з паперовою малярною стрічкою CoverQuick 270cm x 16м</name>
@@ -17931,7 +17931,7 @@
         <vendorCode>NTF 3026</vendorCode>
         <vendorprice>147.0</vendorprice>
       </offer>
-      <offer id="4820155680850" available="false">
+      <offer id="4820155680850" available="true">
         <price>241</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 3024 Помаранчевий</name>
@@ -17940,7 +17940,7 @@
         <vendorCode>NTF 3024</vendorCode>
         <vendorprice>147.0</vendorprice>
       </offer>
-      <offer id="4820155680843" available="false">
+      <offer id="4820155680843" available="true">
         <price>216.9</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 1026 Жовтий</name>
@@ -20239,7 +20239,7 @@
         <categoryId>67131757</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="5906725210944" available="false">
+      <offer id="5906725210944" available="true">
         <price>460</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor глянcова Червоні корали, 0.75</name>
@@ -21037,7 +21037,7 @@
         <vendorCode>La Perla</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="50305623" available="false">
+      <offer id="50305623" available="true">
         <price>5874</price>
         <currencyId>UAH</currencyId>
         <name>Декоративна штукатурка перламутрова La Perla Decor ELEMENT 10 кг</name>
@@ -21290,7 +21290,7 @@
         <vendorCode>AquastopHydro Primer1</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820166527311" available="false">
+      <offer id="4820166527311" available="true">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка для гідроізоляції Eskaro Aquastop Hydro Primer</name>
@@ -21944,7 +21944,7 @@
         <vendorCode>Семин 7</vendorCode>
         <vendorprice>0.0</vendorprice>
       </offer>
-      <offer id="3585501006692" available="false">
+      <offer id="3585501006692" available="true">
         <price>1120</price>
         <currencyId>UAH</currencyId>
         <name>Готова фінішна шпаклівка Semin Sem-Joint (Семін Сем-джоїнт) 25 кг</name>
@@ -21953,7 +21953,7 @@
         <vendorCode>Семин 25</vendorCode>
         <vendorprice>1000.0</vendorprice>
       </offer>
-      <offer id="4740381006999" available="true">
+      <offer id="4740381006999" available="false">
         <price>3618.45</price>
         <currencyId>UAH</currencyId>
         <name>Глибокоматова фарба для стель із уповільненим часом висихання Sympatia 9 5л Eskaro</name>
@@ -22220,7 +22220,7 @@
         <categoryId>105704350</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="8711595111089" available="false">
+      <offer id="8711595111089" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний силакриловий у кольорах Woodflex Soft Den Braven 310мл Ясен</name>
@@ -22274,7 +22274,7 @@
         <vendorCode>8711595083027</vendorCode>
         <vendorprice>85.0</vendorprice>
       </offer>
-      <offer id="8711595132183" available="false">
+      <offer id="8711595132183" available="true">
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний силакриловий у кольорах Woodflex Soft Den Braven 310мл Венге</name>
@@ -22599,7 +22599,7 @@
         <vendorCode>2000060630009</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820166520756" available="true">
+      <offer id="4820166520756" available="false">
         <price>625</price>
         <currencyId>UAH</currencyId>
         <name>Вологостійкий Клей для Дререва Столярний Eskaro Puiduliim B-3 клас D3 2 5л</name>
@@ -22770,7 +22770,7 @@
         <vendorCode>NF-1 WECO tranparent</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="453978" available="false">
+      <offer id="453978" available="true">
         <price>2121</price>
         <currencyId>UAH</currencyId>
         <name>Віск для сауни лазні Satu Saunavaha 2.7</name>
@@ -22779,7 +22779,7 @@
         <vendorCode>SATU SAUNAVAHA 2.7</vendorCode>
         <vendorprice>1600.0</vendorprice>
       </offer>
-      <offer id="6414621097686" available="false">
+      <offer id="6414621097686" available="true">
         <price>697</price>
         <currencyId>UAH</currencyId>
         <name>Віск для сауни лазні Satu Saunavaha</name>
@@ -23071,7 +23071,7 @@
         <vendorCode>Aluband (5 см/10 м)</vendorCode>
         <vendorprice>180.0</vendorprice>
       </offer>
-      <offer id="8711595008945" available="false">
+      <offer id="8711595008945" available="true">
         <price>722.26</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка для гідроізоляції 15см*10м Den Braven Aluband</name>
@@ -23081,7 +23081,7 @@
         <vendorCode>Aluband (15 см/10 м)</vendorCode>
         <vendorprice>505.0</vendorprice>
       </offer>
-      <offer id="8711595008938" available="false">
+      <offer id="8711595008938" available="true">
         <price>539</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка для гідроізоляції 10см*10м Den Braven Aluband</name>
@@ -23288,7 +23288,7 @@
         <vendorCode>12009737</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="8711595189484" available="true">
+      <offer id="8711595189484" available="false">
         <price>267</price>
         <currencyId>UAH</currencyId>
         <name>Антикорозійний алюмо-цинковий спрей Den Braven Zinc-Alu Spray (400 мл)</name>
@@ -23585,7 +23585,7 @@
         <vendorCode>Castle TWE02</vendorCode>
         <vendorprice>1150.00</vendorprice>
       </offer>
-      <offer id="2000129481498" available="false">
+      <offer id="2000129481498" available="true">
         <price>1546</price>
         <currencyId>UAH</currencyId>
         <name>Escaro Mattilda База TR матова фарба для стін і стелі 2,7л</name>
