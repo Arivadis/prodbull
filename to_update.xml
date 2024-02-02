@@ -1,4 +1,4 @@
-<yml_catalog date="2024-01-24 11:09">
+<yml_catalog date="2024-02-02 11:16">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -89,6 +89,14 @@
         <vendorCode>4820102173152</vendorCode>
         <vendorprice>65.00</vendorprice>
       </offer>
+      <offer id="Защитное масло для сауны и бани Bionic House" available="false">
+        <price>274</price>
+        <currencyId>UAH</currencyId>
+        <name>Защитное масло для сауны и бани Bionic House</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <vendorCode>Bionic House 0.8</vendorCode>
+        <vendorprice>220.00</vendorprice>
+      </offer>
       <offer id="id_2592" available="false">
         <price>0</price>
         <currencyId>UAH</currencyId>
@@ -97,11 +105,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="FR00003367" available="true">
-        <price>1899</price>
+        <price>2110</price>
         <currencyId>UAH</currencyId>
         <name>Грунт антикорозійний ГФ-021 25кг Червоно-коричневий</name>
         <quantity_in_stock>3.0</quantity_in_stock>
-        <oldprice>2110</oldprice>
         <categoryId>105728655</categoryId>
         <vendorCode>FR00003367</vendorCode>
         <vendorprice>1750.0</vendorprice>
@@ -611,21 +618,19 @@
         <vendorprice>87.0</vendorprice>
       </offer>
       <offer id="9000101107967" available="true">
-        <price>419.4</price>
+        <price>466</price>
         <currencyId>UAH</currencyId>
         <name>Силіконовий клей-герметик для акваріумів SOUDAL SILIRUB AQ 310 мл Чорний</name>
         <quantity_in_stock>11</quantity_in_stock>
-        <oldprice>466</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>9000101107967</vendorCode>
         <vendorprice>342.00</vendorprice>
       </offer>
       <offer id="9000101107966" available="true">
-        <price>418.5</price>
+        <price>465</price>
         <currencyId>UAH</currencyId>
         <name>Силіконовий клей-герметик для акваріумів SOUDAL SILIRUB AQ 310мл</name>
         <quantity_in_stock>6.0</quantity_in_stock>
-        <oldprice>465</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>9000101107966</vendorCode>
         <vendorprice>0.0</vendorprice>
@@ -832,7 +837,7 @@
         <price>670</price>
         <currencyId>UAH</currencyId>
         <name>Склохолст під шпаклівку Спектрум ST40 рулон ( Нідерланди)</name>
-        <quantity_in_stock>20.0</quantity_in_stock>
+        <quantity_in_stock>18.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>10-280</vendorCode>
         <vendorprice>612.0</vendorprice>
@@ -841,7 +846,7 @@
         <price>197</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Спектрум ST40 рулон 20м. ( Нідерланди)</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>ST40-20</vendorCode>
         <vendorprice>255.0</vendorprice>
@@ -898,7 +903,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws17396</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>181.00</vendorprice>
       </offer>
       <offer id="8758" available="false">
         <price>199</price>
@@ -973,11 +978,10 @@
         <vendorprice>92.0</vendorprice>
       </offer>
       <offer id="8711595195386" available="true">
-        <price>130.9</price>
+        <price>154</price>
         <currencyId>UAH</currencyId>
         <name>Гарячий герметик (Чорний) Den Braven Fire Sealant 1200°C (300 мл)</name>
-        <quantity_in_stock>119.0</quantity_in_stock>
-        <oldprice>154</oldprice>
+        <quantity_in_stock>118.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>12010308</vendorCode>
         <vendorprice>81.0</vendorprice>
@@ -1064,21 +1068,19 @@
         <vendorprice>120.0</vendorprice>
       </offer>
       <offer id="8711595189729" available="true">
-        <price>241.2</price>
+        <price>268</price>
         <currencyId>UAH</currencyId>
         <name>Універсальний технічний аерозоль Den Braven 6 in 1 Multi-Oil 400 мл</name>
         <quantity_in_stock>31.0</quantity_in_stock>
-        <oldprice>268</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>12009741</vendorCode>
         <vendorprice>147.0</vendorprice>
       </offer>
       <offer id="8711595189705" available="false">
-        <price>191.7</price>
+        <price>213</price>
         <currencyId>UAH</currencyId>
         <name>Мастило для обробки металу Cutting Tapping Drilling Oil 400мл</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>213</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>12009740</vendorCode>
         <vendorprice>78.0</vendorprice>
@@ -1111,11 +1113,10 @@
         <vendorprice>112.0</vendorprice>
       </offer>
       <offer id="8711595189507" available="true">
-        <price>176.4</price>
+        <price>196</price>
         <currencyId>UAH</currencyId>
         <name>Захисний засіб спрей від зварювальних бризок Welding Spray 400мл</name>
         <quantity_in_stock>7.0</quantity_in_stock>
-        <oldprice>196</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>12009730</vendorCode>
         <vendorprice>106.0</vendorprice>
@@ -1130,11 +1131,10 @@
         <vendorprice>136.0</vendorprice>
       </offer>
       <offer id="8711595189460" available="false">
-        <price>283.5</price>
+        <price>315</price>
         <currencyId>UAH</currencyId>
         <name>Спрей для холодного цинкування Den Braven Zinc Spray (400 мл)</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>315</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>12009728</vendorCode>
         <vendorprice>187.0</vendorprice>
@@ -1176,21 +1176,19 @@
         <vendorprice>144.0</vendorprice>
       </offer>
       <offer id="8711595175548" available="true">
-        <price>571.5</price>
+        <price>635</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка покрівельна для гідроізоляції Loodband 10см/10м корич. RAL8016</name>
         <quantity_in_stock>3.0</quantity_in_stock>
-        <oldprice>635</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>Lood10см10м RAL8016</vendorCode>
         <vendorprice>369.0</vendorprice>
       </offer>
       <offer id="8711595136785" available="true">
-        <price>351.9</price>
+        <price>414</price>
         <currencyId>UAH</currencyId>
         <name>Клей-піна для будівельних блоків Den Braven PU Stone Adhesive 750 мл</name>
         <quantity_in_stock>108.0</quantity_in_stock>
-        <oldprice>414</oldprice>
         <categoryId>85666846</categoryId>
         <vendorCode>PU Stone Adhesive 750</vendorCode>
         <vendorprice>117.0</vendorprice>
@@ -1208,7 +1206,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний силакриловий у кольорах Woodflex Soft Den Braven 310мл Ясен</name>
-        <quantity_in_stock>39.0</quantity_in_stock>
+        <quantity_in_stock>38.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>8711595111089</vendorCode>
         <vendorprice>85.0</vendorprice>
@@ -1223,11 +1221,10 @@
         <vendorprice>730.0</vendorprice>
       </offer>
       <offer id="8711595102872" available="false">
-        <price>874.8</price>
+        <price>972</price>
         <currencyId>UAH</currencyId>
         <name>Пістолет для монтажної піни професійний Den Braven Foamgun 355</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>972</oldprice>
         <categoryId>103247208</categoryId>
         <vendorCode>211312</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -1263,7 +1260,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний силакриловий у кольорах Woodflex Soft Den Braven 310мл Дуб</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>14.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>8711595082969</vendorCode>
         <vendorprice>85.0</vendorprice>
@@ -1287,11 +1284,10 @@
         <vendorprice>85.0</vendorprice>
       </offer>
       <offer id="8711595081528" available="true">
-        <price>571.5</price>
+        <price>635</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка покрівельна для гідроізоляції Loodband 10см/10м</name>
         <quantity_in_stock>4.0</quantity_in_stock>
-        <oldprice>635</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>Loodband 10см/10м Красный</vendorCode>
         <vendorprice>397.0</vendorprice>
@@ -1318,7 +1314,7 @@
         <price>311</price>
         <currencyId>UAH</currencyId>
         <name>Клей-герметик універсальний MS-полімерний еластичний Hybrifix 290мол Коричневий</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>103244794</categoryId>
         <vendorCode>10620200</vendorCode>
         <vendorprice>148.0</vendorprice>
@@ -1333,11 +1329,10 @@
         <vendorprice>148.0</vendorprice>
       </offer>
       <offer id="8711595013024" available="true">
-        <price>115.2</price>
+        <price>128</price>
         <currencyId>UAH</currencyId>
         <name>Клей ціаноакрилатний Den Braven Super Adhesive 20г що швидко схоплюється.</name>
         <quantity_in_stock>53.0</quantity_in_stock>
-        <oldprice>128</oldprice>
         <categoryId>67369292</categoryId>
         <vendorCode>200862</vendorCode>
         <vendorprice>72.0</vendorprice>
@@ -1355,17 +1350,16 @@
         <price>420</price>
         <currencyId>UAH</currencyId>
         <name>Силіконовий клей-герметик для акваріумів Aqua-Silicone 300мл</name>
-        <quantity_in_stock>53.0</quantity_in_stock>
+        <quantity_in_stock>51.0</quantity_in_stock>
         <categoryId>103244794</categoryId>
         <vendorCode>Aqua-Silicone 300мл Бесц.</vendorCode>
         <vendorprice>157.0</vendorprice>
       </offer>
       <offer id="8711595008945" available="true">
-        <price>722.26</price>
+        <price>938</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка для гідроізоляції 15см*10м Den Braven Aluband</name>
         <quantity_in_stock>4.0</quantity_in_stock>
-        <oldprice>938</oldprice>
         <categoryId>85667100</categoryId>
         <vendorCode>Aluband (15 см/10 м)</vendorCode>
         <vendorprice>505.0</vendorprice>
@@ -1392,7 +1386,7 @@
         <price>144</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силакриловий універсальний Den Braven Acryl-W 300 мл Чорний</name>
-        <quantity_in_stock>62.0</quantity_in_stock>
+        <quantity_in_stock>57.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>10052301</vendorCode>
         <vendorprice>85.0</vendorprice>
@@ -1401,7 +1395,7 @@
         <price>144</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силакриловий універсальний Den Braven Acryl-W 300 мл Коричневий</name>
-        <quantity_in_stock>54.0</quantity_in_stock>
+        <quantity_in_stock>50.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>10024201</vendorCode>
         <vendorprice>85.0</vendorprice>
@@ -1410,7 +1404,7 @@
         <price>144</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силакриловий універсальний Den Braven Acryl-W 300 мл Сірий</name>
-        <quantity_in_stock>144.0</quantity_in_stock>
+        <quantity_in_stock>47.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>10013601</vendorCode>
         <vendorprice>85.0</vendorprice>
@@ -1581,7 +1575,7 @@
         <price>356</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Spektrum Premium SN 50 20</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>SN50-20</vendorCode>
         <vendorprice>345.0</vendorprice>
@@ -1680,7 +1674,7 @@
         <price>880</price>
         <currencyId>UAH</currencyId>
         <name>Флізелін малярний під фарбування Spektrum Fliz SF 120 Premium</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>83301</vendorCode>
         <vendorprice>900.0</vendorprice>
@@ -1689,7 +1683,7 @@
         <price>890</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Spektrum Premium SN 50</name>
-        <quantity_in_stock>12.0</quantity_in_stock>
+        <quantity_in_stock>11.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>SN50-50</vendorCode>
         <vendorprice>862.5</vendorprice>
@@ -1707,7 +1701,7 @@
         <price>983</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Spektrum Premium SN 45 (Нідерланди) рулон 50м.п.</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>10.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>SN45-50</vendorCode>
         <vendorprice>806.25</vendorprice>
@@ -1788,7 +1782,7 @@
         <price>388</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Spektrum Premium SN 40 20</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>SN40-20</vendorCode>
         <vendorprice>300.0</vendorprice>
@@ -1886,7 +1880,7 @@
         <price>170</price>
         <currencyId>UAH</currencyId>
         <name>Сухий клей для шпалер Spektrum Універсальний 500 г</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>83724</vendorCode>
         <vendorprice>0.0</vendorprice>
@@ -1901,21 +1895,19 @@
         <vendorprice>615.0</vendorprice>
       </offer>
       <offer id="7311020063337" available="true">
-        <price>712.8</price>
+        <price>792</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
-        <oldprice>792</oldprice>
+        <quantity_in_stock>23.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>7311020063337</vendorCode>
         <vendorprice>435.0</vendorprice>
       </offer>
       <offer id="7311020063320" available="true">
-        <price>1373.4</price>
+        <price>1526</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart 15л</name>
-        <quantity_in_stock>25.0</quantity_in_stock>
-        <oldprice>1526</oldprice>
+        <quantity_in_stock>56.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>6332</vendorCode>
         <vendorprice>1087.5</vendorprice>
@@ -1930,21 +1922,19 @@
         <vendorprice>1697.5</vendorprice>
       </offer>
       <offer id="7311020023706" available="true">
-        <price>1520</price>
+        <price>1900</price>
         <currencyId>UAH</currencyId>
         <name>Клей готовий для склополотна та шпалер Бостик 76 Супер Bostik Wall Super 76 15л</name>
-        <quantity_in_stock>22.0</quantity_in_stock>
-        <oldprice>1900</oldprice>
+        <quantity_in_stock>47.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>76 15L</vendorCode>
         <vendorprice>1387.5</vendorprice>
       </offer>
       <offer id="7311020023690" available="true">
-        <price>736.8</price>
+        <price>921</price>
         <currencyId>UAH</currencyId>
         <name>Клей готовий для склополотна та шпалер Bostik 76 Wall Super</name>
-        <quantity_in_stock>29.0</quantity_in_stock>
-        <oldprice>921</oldprice>
+        <quantity_in_stock>24.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>83010</vendorCode>
         <vendorprice>555.0</vendorprice>
@@ -2079,7 +2069,7 @@
         <price>249</price>
         <currencyId>UAH</currencyId>
         <name>Турбо-зажигалка карманная Украина 66816</name>
-        <quantity_in_stock>10.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws66816</vendorCode>
         <vendorprice>47.0</vendorprice>
@@ -2088,7 +2078,7 @@
         <price>299</price>
         <currencyId>UAH</currencyId>
         <name>Зажигалка спиральная USB TH-705 2IN1 Газ + USB</name>
-        <quantity_in_stock>10.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws22179</vendorCode>
         <vendorprice>47.0</vendorprice>
@@ -2106,7 +2096,7 @@
         <price>199</price>
         <currencyId>UAH</currencyId>
         <name>Зажигалка электрическая, зажигалка аккумуляторная, Зажигалка с зарядкой от usb. Цвет: платиновый</name>
-        <quantity_in_stock>10.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws68391-4</vendorCode>
         <vendorprice>47.0</vendorprice>
@@ -2286,10 +2276,10 @@
         <price>449</price>
         <currencyId>UAH</currencyId>
         <name>Фонарик ручной тактический Bailong BL-P03-P50, водонепроницаемый фонарик, ручной фонарик led</name>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws89961</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>292.00</vendorprice>
       </offer>
       <offer id="68730" available="false">
         <price>449</price>
@@ -3294,7 +3284,7 @@
         <price>218</price>
         <currencyId>UAH</currencyId>
         <name>Затирка для швів плитки та мозаїки фуга Kiilto Saumalaasti</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>105704464</categoryId>
         <vendorCode>33890</vendorCode>
         <vendorprice>125.0</vendorprice>
@@ -3312,7 +3302,7 @@
         <price>218</price>
         <currencyId>UAH</currencyId>
         <name>Затирка для швів плитки та мозаїки фуга Kiilto Saumalaasti</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>105704464</categoryId>
         <vendorCode>33888</vendorCode>
         <vendorprice>122.34</vendorprice>
@@ -3438,7 +3428,7 @@
         <price>221</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 100, 3</name>
-        <quantity_in_stock>35.0</quantity_in_stock>
+        <quantity_in_stock>34.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>62763</vendorCode>
         <vendorprice>125.0</vendorprice>
@@ -3456,7 +3446,7 @@
         <price>527</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 150, 10</name>
-        <quantity_in_stock>64.0</quantity_in_stock>
+        <quantity_in_stock>63.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>62714</vendorCode>
         <vendorprice>355.0</vendorprice>
@@ -3465,7 +3455,7 @@
         <price>412</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 100, 10</name>
-        <quantity_in_stock>170.0</quantity_in_stock>
+        <quantity_in_stock>155.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>62713</vendorCode>
         <vendorprice>247.66</vendorprice>
@@ -3474,7 +3464,7 @@
         <price>336</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 75, 10</name>
-        <quantity_in_stock>142.0</quantity_in_stock>
+        <quantity_in_stock>141.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>62712</vendorCode>
         <vendorprice>202.17</vendorprice>
@@ -3579,11 +3569,10 @@
         <vendorprice>180.0</vendorprice>
       </offer>
       <offer id="5948966017012" available="true">
-        <price>376.55</price>
+        <price>443</price>
         <currencyId>UAH</currencyId>
         <name>Піна монтажна Вогнестійка Протипожежна Den Braven PU Foam GG B1 750мл</name>
         <quantity_in_stock>294.0</quantity_in_stock>
-        <oldprice>443</oldprice>
         <categoryId>85666846</categoryId>
         <vendorCode>8011963759301</vendorCode>
         <vendorprice>233.0</vendorprice>
@@ -3592,7 +3581,7 @@
         <price>358</price>
         <currencyId>UAH</currencyId>
         <name>Піна монтажна професійна зимова Den Braven Super Foam 825 мл</name>
-        <quantity_in_stock>378.0</quantity_in_stock>
+        <quantity_in_stock>372.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>Den Braven Super Foam, 82</vendorCode>
         <vendorprice>165.0</vendorprice>
@@ -3673,7 +3662,7 @@
         <price>1139</price>
         <currencyId>UAH</currencyId>
         <name>Затирка епоксидна фуга ESKARO DUAX EPOXY для швів плитки та мозаїки 2 кг Графітово-сірий 248</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <categoryId>105704464</categoryId>
         <vendorCode>5907642730911</vendorCode>
         <vendorprice>820.69</vendorprice>
@@ -3709,7 +3698,7 @@
         <price>1139</price>
         <currencyId>UAH</currencyId>
         <name>Затирка епоксидна фуга ESKARO DUAX EPOXY для швів плитки та мозаїки 2 кг Сріблясто-сірий 246</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>105704464</categoryId>
         <vendorCode>5907642730836</vendorCode>
         <vendorprice>814.0</vendorprice>
@@ -3727,7 +3716,7 @@
         <price>969</price>
         <currencyId>UAH</currencyId>
         <name>Затирка епоксидна фуга для швів плитки та мозаїки ESKARO DUAX EPOXY 2 кг</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>105704464</categoryId>
         <vendorCode>5907642730799</vendorCode>
         <vendorprice>723.12</vendorprice>
@@ -3745,7 +3734,7 @@
         <price>2999</price>
         <currencyId>UAH</currencyId>
         <name>Двокомпонентна Гідроізоляція для Басейнів Ємностей Фундаментів Eskaro Aquastop Hydro 2K / 20кг (Польща)</name>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <categoryId>85667100</categoryId>
         <vendorCode>5907642730492</vendorCode>
         <vendorprice>1920.0</vendorprice>
@@ -4471,7 +4460,7 @@
         <price>1410</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Njord Luxdecor Білий, 2.5</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>105733833</categoryId>
         <vendorCode>5906725254610</vendorCode>
         <vendorprice>987.0</vendorprice>
@@ -4804,7 +4793,7 @@
         <price>846</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для дерева біозахисний імпрегнат Luxdecor Сірий, 3</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>105733833</categoryId>
         <vendorCode>5906725246943</vendorCode>
         <vendorprice>592.2</vendorprice>
@@ -4930,7 +4919,7 @@
         <price>460</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor глянcова Піщана буря, 0.75</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>5906725229366</vendorCode>
         <vendorprice>322.0</vendorprice>
@@ -5083,7 +5072,7 @@
         <price>840</price>
         <currencyId>UAH</currencyId>
         <name>Грифельна Фарба для Шкільних Дощ Primacol Decorative (Сіра) 750мл / Польща Чорний</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>105705265</categoryId>
         <vendorCode>5906725214430</vendorCode>
         <vendorprice>588.0</vendorprice>
@@ -5110,7 +5099,7 @@
         <price>402</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor матова Слонова кістка, 0.75</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>5906725211187</vendorCode>
         <vendorprice>281.4</vendorprice>
@@ -5155,7 +5144,7 @@
         <price>402</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor матова Чорний, 0.75</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>5906725211118</vendorCode>
         <vendorprice>281.4</vendorprice>
@@ -5227,7 +5216,7 @@
         <price>402</price>
         <currencyId>UAH</currencyId>
         <name>Емаль акрилова універсальна Luxdecor матова</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>5906725210791</vendorCode>
         <vendorprice>281.4</vendorprice>
@@ -5245,7 +5234,7 @@
         <price>858</price>
         <currencyId>UAH</currencyId>
         <name>Магнітна фарба Primacol Decorative 750мл</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>105705265</categoryId>
         <vendorCode>5906725210753</vendorCode>
         <vendorprice>600.6</vendorprice>
@@ -5692,101 +5681,91 @@
         <vendorprice>814.0</vendorprice>
       </offer>
       <offer id="5902120213924" available="true">
-        <price>170.25</price>
+        <price>227</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий санітарний GROVER S100 Прозорий 300 мл</name>
-        <quantity_in_stock>57.0</quantity_in_stock>
-        <oldprice>227</oldprice>
+        <quantity_in_stock>81.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>S100 П</vendorCode>
         <vendorprice>110.0</vendorprice>
       </offer>
       <offer id="5902120213665" available="true">
-        <price>170.25</price>
+        <price>227</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий санітарний GROVER S100 Білий 300 мл</name>
-        <quantity_in_stock>26.0</quantity_in_stock>
-        <oldprice>227</oldprice>
+        <quantity_in_stock>55.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>S100 Б</vendorCode>
         <vendorprice>110.0</vendorprice>
       </offer>
       <offer id="5902120209965" available="true">
-        <price>246.6</price>
+        <price>274</price>
         <currencyId>UAH</currencyId>
         <name>Клей-піна поліуретанова всесезонна для монтажу теплоізоляції GROVER FX 45 Біла 718 мл</name>
-        <quantity_in_stock>130.0</quantity_in_stock>
-        <oldprice>274</oldprice>
+        <quantity_in_stock>109.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>FX45</vendorCode>
         <vendorprice>185.0</vendorprice>
       </offer>
       <offer id="5902120209682" available="true">
-        <price>230.3</price>
+        <price>245</price>
         <currencyId>UAH</currencyId>
         <name>Монтажна піна ручна з аплікатором GROVER F50 стандартна 750 мл.</name>
         <quantity_in_stock>20.0</quantity_in_stock>
-        <oldprice>245</oldprice>
         <categoryId>85666846</categoryId>
         <vendorCode>03.03.0003</vendorCode>
         <vendorprice>175.0</vendorprice>
       </offer>
       <offer id="5902120209385" available="true">
-        <price>237.15</price>
+        <price>279</price>
         <currencyId>UAH</currencyId>
         <name>Піна монтажна GROVER GF65 Біла пістолетна 870 мл</name>
-        <quantity_in_stock>132.0</quantity_in_stock>
-        <oldprice>279</oldprice>
+        <quantity_in_stock>134.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>GF 65</vendorCode>
         <vendorprice>185.0</vendorprice>
       </offer>
       <offer id="5902120208609" available="true">
-        <price>104.4</price>
+        <price>116</price>
         <currencyId>UAH</currencyId>
         <name>Герметик акриловий універсальний для внутрішніх та зовнішніх робіт GROVER Білий A100</name>
         <quantity_in_stock>293.0</quantity_in_stock>
-        <oldprice>116</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>A100</vendorCode>
         <vendorprice>86.0</vendorprice>
       </offer>
       <offer id="5902120205707" available="true">
-        <price>147.06</price>
+        <price>171</price>
         <currencyId>UAH</currencyId>
         <name>Клей акриловий універсальний екстраміцний Білий Grover GA110 300мл</name>
         <quantity_in_stock>115.0</quantity_in_stock>
-        <oldprice>171</oldprice>
         <categoryId>103244794</categoryId>
         <vendorCode>Ga110</vendorCode>
         <vendorprice>102.0</vendorprice>
       </offer>
       <offer id="5902120205684" available="true">
-        <price>187.2</price>
+        <price>208</price>
         <currencyId>UAH</currencyId>
         <name>Клей рідкі цвяхи GROVER GR70 надміцний прозорий 300 мл.</name>
-        <quantity_in_stock>86.0</quantity_in_stock>
-        <oldprice>208</oldprice>
+        <quantity_in_stock>80.0</quantity_in_stock>
         <categoryId>103244794</categoryId>
         <vendorCode>GR70</vendorCode>
         <vendorprice>142.0</vendorprice>
       </offer>
       <offer id="5902120205387" available="true">
-        <price>136</price>
+        <price>160</price>
         <currencyId>UAH</currencyId>
         <name>Клей рідкі цвяхи GROVER GR100 багатоцільовий для важких конструкцій та дзеркал бежевий 300мл</name>
-        <quantity_in_stock>37.0</quantity_in_stock>
-        <oldprice>160</oldprice>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <categoryId>103244794</categoryId>
         <vendorCode>GR100</vendorCode>
         <vendorprice>102.0</vendorprice>
       </offer>
       <offer id="5902120175437" available="true">
-        <price>346.8</price>
+        <price>408</price>
         <currencyId>UAH</currencyId>
         <name>Піна Монтажна Вогнестійка Протипожежна (B1) GROVER FR 45 750 мл</name>
-        <quantity_in_stock>65.0</quantity_in_stock>
-        <oldprice>408</oldprice>
+        <quantity_in_stock>61.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>FR45</vendorCode>
         <vendorprice>245.0</vendorprice>
@@ -5831,7 +5810,7 @@
         <price>276</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів нейтральний силіконовий ESKARO Duax Silicone 300мл Середньо сірий 241</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012942192</vendorCode>
         <vendorprice>220.0</vendorprice>
@@ -5840,7 +5819,7 @@
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів нейтральний силіконовий ESKARO Duax Silicone 300мл Сірий 240</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012942185</vendorCode>
         <vendorprice>252.13</vendorprice>
@@ -5849,7 +5828,7 @@
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів нейтральний силіконовий ESKARO Duax Silicone 300мл Світлий мармур 239</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012942178</vendorCode>
         <vendorprice>252.13</vendorprice>
@@ -5867,7 +5846,7 @@
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів силіконовий нейтральний ESKARO Duax Silicone 300мл Какао 233</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012942154</vendorCode>
         <vendorprice>252.13</vendorprice>
@@ -5894,7 +5873,7 @@
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів силіконовий нейтральний ESKARO Duax Silicone 300мл Пісочний 228</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012942123</vendorCode>
         <vendorprice>252.13</vendorprice>
@@ -5903,7 +5882,7 @@
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Герметик для швів нейтральний силіконовий ESKARO Duax Silicone 300мл</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012942116</vendorCode>
         <vendorprice>252.13</vendorprice>
@@ -5918,11 +5897,10 @@
         <vendorprice>226.0</vendorprice>
       </offer>
       <offer id="5902012934166" available="true">
-        <price>232.05</price>
+        <price>273</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий високотемпературний 315° GROVER FS100 червоний 300 мл</name>
-        <quantity_in_stock>49.0</quantity_in_stock>
-        <oldprice>273</oldprice>
+        <quantity_in_stock>44.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>FS100</vendorCode>
         <vendorprice>190.0</vendorprice>
@@ -5940,10 +5918,10 @@
         <price>127</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний акриловий для дерева та паркету (5 кольорів) Grover W100 300 мл ГОРІХ</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>W 100 орех</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>77.0</vendorprice>
       </offer>
       <offer id="5902012930960" available="true">
         <price>127</price>
@@ -5958,10 +5936,10 @@
         <price>127</price>
         <currencyId>UAH</currencyId>
         <name>Герметик паркетний акриловий для дерева та паркету (5 кольорів) Grover W100 300 мл</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>W 100 дуб</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>77.06</vendorprice>
       </offer>
       <offer id="5902012930922" available="false">
         <price>127</price>
@@ -5973,51 +5951,46 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="5902012930847" available="true">
-        <price>170.25</price>
+        <price>227</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий універсальний GROVER U100 Прозорий 300 мл</name>
         <quantity_in_stock>39.0</quantity_in_stock>
-        <oldprice>227</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>U100 Б</vendorCode>
         <vendorprice>110.0</vendorprice>
       </offer>
       <offer id="5902012930649" available="true">
-        <price>279.2</price>
+        <price>349</price>
         <currencyId>UAH</currencyId>
         <name>Клей монтажний MS-полімерний багатоцільовий 10в1 GROVER H300 Прозорий 300 мл</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>349</oldprice>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <categoryId>103244794</categoryId>
         <vendorCode>H300</vendorCode>
         <vendorprice>220.0</vendorprice>
       </offer>
       <offer id="5902012930625" available="true">
-        <price>135.85</price>
+        <price>143</price>
         <currencyId>UAH</currencyId>
         <name>Герметик жаростійкий силікатний для печей та камінів чорний GROVER F100 300 мл</name>
-        <quantity_in_stock>106.0</quantity_in_stock>
-        <oldprice>143</oldprice>
+        <quantity_in_stock>103.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012930625</vendorCode>
         <vendorprice>103.0</vendorprice>
       </offer>
       <offer id="5901157649850" available="true">
-        <price>131.75</price>
+        <price>155</price>
         <currencyId>UAH</currencyId>
         <name>Клей монтажний акриловий прозорий екстраміцний Grover GA100 300мл</name>
-        <quantity_in_stock>107.0</quantity_in_stock>
-        <oldprice>155</oldprice>
+        <quantity_in_stock>105.0</quantity_in_stock>
         <categoryId>103244794</categoryId>
         <vendorCode>Ga100</vendorCode>
         <vendorprice>86.0</vendorprice>
       </offer>
       <offer id="59011570989874" available="false">
-        <price>150.66</price>
+        <price>186</price>
         <currencyId>UAH</currencyId>
         <name>Герметик бітумний покрівельний GROVER B100 чорний 300 мл</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>186</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>5901157649874</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -6260,7 +6233,7 @@
         <price>1992</price>
         <currencyId>UAH</currencyId>
         <name>Захист деревини Garden Lazur Altax Каштан 9</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>105733833</categoryId>
         <vendorCode>5900172962654</vendorCode>
         <vendorprice>1394.4</vendorprice>
@@ -7067,11 +7040,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="574951850366" available="false">
-        <price>387.2</price>
+        <price>440</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор для Теплої Підлоги Механічний з датчиком 3м RTC Castle</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>440</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>RTC Castle</vendorCode>
         <vendorprice>290.00</vendorprice>
@@ -7149,11 +7121,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="5425014228687" available="true">
-        <price>149.4</price>
+        <price>166</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка скотч двостороння для мембран та нетканих полотен MEMBRANA TAPE - 15мм x 25м</name>
-        <quantity_in_stock>10.0</quantity_in_stock>
-        <oldprice>166</oldprice>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>105704400</categoryId>
         <vendorCode>5425014228687</vendorCode>
         <vendorprice>105.0</vendorprice>
@@ -7177,11 +7148,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="50305781" available="true">
-        <price>1445.4</price>
+        <price>1606</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана гідроізоляційна покрівельна Hidroactive 100г/м² 1.6х50м 80м² Dachdecker</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>1606</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>50305781</vendorCode>
         <vendorprice>1090.0</vendorprice>
@@ -7196,21 +7166,19 @@
         <vendorprice>594.6</vendorprice>
       </offer>
       <offer id="50305779" available="true">
-        <price>1692</price>
+        <price>1880</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана пароізоляційна покрівельна з відбивачем Alutex 100г/м² 1.6х50м 80м² Dachdecker</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>1880</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>50305779</vendorCode>
         <vendorprice>1450.0</vendorprice>
       </offer>
       <offer id="50305778" available="true">
-        <price>1445.4</price>
+        <price>1606</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана пароізоляційна покрівельна Paroactive 100г/м² 1.6х50м 80м² Dachdecker</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>1606</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>50305778</vendorCode>
         <vendorprice>1170.0</vendorprice>
@@ -7234,21 +7202,19 @@
         <vendorprice>315.0</vendorprice>
       </offer>
       <offer id="50305775" available="true">
-        <price>1497.6</price>
+        <price>1664</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана покрівельна супердифузійна Classic 115г/м² 1.6х50м 80м² Dachdecker</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>1664</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>50305775</vendorCode>
         <vendorprice>1231.0</vendorprice>
       </offer>
       <offer id="50305774" available="false">
-        <price>1683.85</price>
+        <price>1981</price>
         <currencyId>UAH</currencyId>
         <name>Мембрана тришарова покрівельна високопаропроникна 130г/м² 1.6х50м 80м² DACHDECKER Comfort</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>1981</oldprice>
         <categoryId>105704400</categoryId>
         <vendorCode>50305774</vendorCode>
         <vendorprice>1400.0</vendorprice>
@@ -7272,11 +7238,10 @@
         <vendorprice>450.0</vendorprice>
       </offer>
       <offer id="50305649" available="true">
-        <price>1520.1</price>
+        <price>1689</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка для швів та кутів гіпсокартону еластична "Американка" STRAIT FLEX Original 61мм*0 64мм*30м / Помаранчева</name>
         <quantity_in_stock>1.0</quantity_in_stock>
-        <oldprice>1689</oldprice>
         <categoryId>67375323</categoryId>
         <vendorCode>8011963759336</vendorCode>
         <vendorprice>1220.0</vendorprice>
@@ -7387,7 +7352,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113392</categoryId>
         <vendorCode>ws59527</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>325.00</vendorprice>
       </offer>
       <offer id="5018" available="false">
         <price>519</price>
@@ -8059,7 +8024,7 @@
         <price>756</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка для металу антикорозійна 2в1 PRIMER Bayris Сірий, 2.7</name>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <categoryId>67485156</categoryId>
         <vendorCode>4841498016779</vendorCode>
         <vendorprice>529.2</vendorprice>
@@ -8113,7 +8078,7 @@
         <price>924</price>
         <currencyId>UAH</currencyId>
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Антрацит RAL 7016, 2.7</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016700</vendorCode>
         <vendorprice>646.8</vendorprice>
@@ -8131,7 +8096,7 @@
         <price>924</price>
         <currencyId>UAH</currencyId>
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Чорна RAL 9005, 2.7</name>
-        <quantity_in_stock>19.0</quantity_in_stock>
+        <quantity_in_stock>18.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016687</vendorCode>
         <vendorprice>646.8</vendorprice>
@@ -8194,7 +8159,7 @@
         <price>336</price>
         <currencyId>UAH</currencyId>
         <name>Емаль-ґрунт антикорозійна 3в1 Korrosionsshutz Bayris Антрацит RAL 7016, 0.9</name>
-        <quantity_in_stock>14.0</quantity_in_stock>
+        <quantity_in_stock>9.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016618</vendorCode>
         <vendorprice>235.2</vendorprice>
@@ -8203,7 +8168,7 @@
         <price>336</price>
         <currencyId>UAH</currencyId>
         <name>Емаль-грунт антикорозійна 3в1 Korrosionsshutz Bayris</name>
-        <quantity_in_stock>11.0</quantity_in_stock>
+        <quantity_in_stock>10.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016601</vendorCode>
         <vendorprice>235.2</vendorprice>
@@ -8437,7 +8402,7 @@
         <price>270</price>
         <currencyId>UAH</currencyId>
         <name>Емаль універсальна алкідна Universal BAYRIS 0.9, Шоколадна</name>
-        <quantity_in_stock>18.0</quantity_in_stock>
+        <quantity_in_stock>17.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016342</vendorCode>
         <vendorprice>189.0</vendorprice>
@@ -8511,21 +8476,19 @@
         <vendorprice>170.0</vendorprice>
       </offer>
       <offer id="4823093905658" available="false">
-        <price>3582</price>
+        <price>3980</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка антикорозійна ГФ-021 50, Червоно-коричневий</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>3980</oldprice>
         <categoryId>105728655</categoryId>
         <vendorCode>4823093905658</vendorCode>
         <vendorprice>2587.0</vendorprice>
       </offer>
       <offer id="4823093905641" available="false">
-        <price>3582</price>
+        <price>3980</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка антикорозійна ГФ-021 50, Сірий</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
-        <oldprice>3980</oldprice>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>105728655</categoryId>
         <vendorCode>4823093905641</vendorCode>
         <vendorprice>3500.0</vendorprice>
@@ -8908,51 +8871,46 @@
         <vendorprice>186.0</vendorprice>
       </offer>
       <offer id="4823093903128" available="true">
-        <price>238</price>
+        <price>280</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка антикорозійна ГФ-021 FAZENDA 2.8, Червоно-коричневий</name>
         <quantity_in_stock>2.0</quantity_in_stock>
-        <oldprice>280</oldprice>
         <categoryId>105728655</categoryId>
         <vendorCode>4823093903128</vendorCode>
         <vendorprice>200.0</vendorprice>
       </offer>
       <offer id="4823093903111" available="true">
-        <price>99.45</price>
+        <price>117</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка антикорозійна ГФ-021 FAZENDA 0.9, Червоно-коричневий</name>
         <quantity_in_stock>6.0</quantity_in_stock>
-        <oldprice>117</oldprice>
         <categoryId>105728655</categoryId>
         <vendorCode>4823093903111</vendorCode>
         <vendorprice>75.0</vendorprice>
       </offer>
       <offer id="4823093903104" available="true">
-        <price>238</price>
+        <price>280</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка антикорозійна ГФ-021 FAZENDA 2.8, Сірий</name>
         <quantity_in_stock>10.0</quantity_in_stock>
-        <oldprice>280</oldprice>
         <categoryId>105728655</categoryId>
         <vendorCode>4823093903104</vendorCode>
         <vendorprice>212.0</vendorprice>
       </offer>
       <offer id="4823093903098" available="true">
-        <price>99.45</price>
+        <price>117</price>
         <currencyId>UAH</currencyId>
         <name>Грунтовка антикорозійна ГФ-021 FAZENDA</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
-        <oldprice>117</oldprice>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>105728655</categoryId>
         <vendorCode>4823093903098</vendorCode>
         <vendorprice>75.0</vendorprice>
       </offer>
       <offer id="4823048026599" available="false">
-        <price>290.5</price>
+        <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Пістолет для Монтажної Піни Професійний Пневматичний</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>350</oldprice>
         <categoryId>103247208</categoryId>
         <vendorCode>88673</vendorCode>
         <vendorprice>219.0</vendorprice>
@@ -8961,7 +8919,7 @@
         <price>616</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt 2.1, Сірий антрацит 216</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>15.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 216-21</vendorCode>
         <vendorprice>500.0</vendorprice>
@@ -8985,11 +8943,10 @@
         <vendorprice>218.0</vendorprice>
       </offer>
       <offer id="4820224950426" available="true">
-        <price>214.97</price>
+        <price>259</price>
         <currencyId>UAH</currencyId>
         <name>Клей-піна монтажна 60 секунд професійна LACRYSIL 800мл</name>
-        <quantity_in_stock>40.0</quantity_in_stock>
-        <oldprice>259</oldprice>
+        <quantity_in_stock>38.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>4820224950426</vendorCode>
         <vendorprice>180.0</vendorprice>
@@ -9941,7 +9898,7 @@
         <price>1344</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 5, Графітовий</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105705239</categoryId>
         <vendorCode>4820193822755</vendorCode>
         <vendorprice>940.8</vendorprice>
@@ -9959,7 +9916,7 @@
         <price>288</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint 1, Графітовий</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105705239</categoryId>
         <vendorCode>4820193822731</vendorCode>
         <vendorprice>201.6</vendorprice>
@@ -10067,7 +10024,7 @@
         <price>282</price>
         <currencyId>UAH</currencyId>
         <name>Фарба гумова універсальна Multi Flexible Paint</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>105705239</categoryId>
         <vendorCode>4820193822618</vendorCode>
         <vendorprice>197.4</vendorprice>
@@ -10147,7 +10104,7 @@
         <price>1278</price>
         <currencyId>UAH</currencyId>
         <name>Фасадна фарба FACADE WECO водно-дисперсійна біла матова 14</name>
-        <quantity_in_stock>8.1</quantity_in_stock>
+        <quantity_in_stock>5.95</quantity_in_stock>
         <categoryId>67131755</categoryId>
         <vendorprice>958.5</vendorprice>
       </offer>
@@ -10468,7 +10425,7 @@
         <price>588</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка адгезійна бетон-контакт BAYRIS 6.2</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>67485156</categoryId>
         <vendorCode>4820193820577</vendorCode>
         <vendorprice>411.6</vendorprice>
@@ -10477,7 +10434,7 @@
         <price>276</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка адгезійна бетон-контакт BAYRIS</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>67485156</categoryId>
         <vendorCode>4820193820560</vendorCode>
         <vendorprice>193.2</vendorprice>
@@ -10504,7 +10461,7 @@
         <price>66</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавка в бетон для теплої підлоги BAYRIS</name>
-        <quantity_in_stock>505.0</quantity_in_stock>
+        <quantity_in_stock>500.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820522</vendorCode>
         <vendorprice>46.2</vendorprice>
@@ -10513,7 +10470,7 @@
         <price>480</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавки в бетон для теплої підлоги BAYRIS 10</name>
-        <quantity_in_stock>129.0</quantity_in_stock>
+        <quantity_in_stock>121.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820515</vendorCode>
         <vendorprice>336.0</vendorprice>
@@ -10522,7 +10479,7 @@
         <price>282</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавки в бетон для теплої підлоги BAYRIS 5</name>
-        <quantity_in_stock>180.0</quantity_in_stock>
+        <quantity_in_stock>175.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820508</vendorCode>
         <vendorprice>197.4</vendorprice>
@@ -10531,7 +10488,7 @@
         <price>556</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор протиморозний добавка для бетонів і стяжок BAYRIS 10</name>
-        <quantity_in_stock>58.0</quantity_in_stock>
+        <quantity_in_stock>54.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820492</vendorCode>
         <vendorprice>432.6</vendorprice>
@@ -10540,7 +10497,7 @@
         <price>297</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор протиморозний добавка для бетонів і стяжок BAYRIS 5</name>
-        <quantity_in_stock>102.0</quantity_in_stock>
+        <quantity_in_stock>92.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820485</vendorCode>
         <vendorprice>231.0</vendorprice>
@@ -10859,7 +10816,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167006006</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>134.40</vendorprice>
       </offer>
       <offer id="4820167005993" available="false">
         <price>168</price>
@@ -10874,7 +10831,7 @@
         <price>198</price>
         <currencyId>UAH</currencyId>
         <name>Засіб для очищення керамічної плитки та грес REM-HELP 0,5л З розпилювачем</name>
-        <quantity_in_stock>10.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167005986</vendorCode>
         <vendorprice>138.6</vendorprice>
@@ -10883,7 +10840,7 @@
         <price>144</price>
         <currencyId>UAH</currencyId>
         <name>Засіб для очищення скла REM-HELP 0,5л З розпилювачем</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167005979</vendorCode>
         <vendorprice>100.8</vendorprice>
@@ -10892,7 +10849,7 @@
         <price>198</price>
         <currencyId>UAH</currencyId>
         <name>Очищувач для ПВХ та пластикових вікон REM-HELP 0,5л З розпилювачем</name>
-        <quantity_in_stock>12.0</quantity_in_stock>
+        <quantity_in_stock>9.0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167005962</vendorCode>
         <vendorprice>138.6</vendorprice>
@@ -10910,7 +10867,7 @@
         <price>222</price>
         <currencyId>UAH</currencyId>
         <name>Засіб для видалення цементу та будівельних розчинів. REM-HELP 0,5л З розпилювачем</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>4820167005948</vendorCode>
         <vendorprice>155.4</vendorprice>
@@ -10934,21 +10891,19 @@
         <vendorprice>152.12</vendorprice>
       </offer>
       <offer id="4820166526284" available="true">
-        <price>383.4</price>
+        <price>426</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка 20cм х 25м для армування кутів під гідроізоляцію ESKARO Hydro Tape / Польща</name>
         <quantity_in_stock>91.0</quantity_in_stock>
-        <oldprice>426</oldprice>
         <categoryId>85667100</categoryId>
         <vendorCode>4820166526284</vendorCode>
         <vendorprice>276.43</vendorprice>
       </offer>
       <offer id="4820166526277" available="true">
-        <price>212.64</price>
+        <price>265.8</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка 10cм х 25м для армування кутів під гідроізоляцію ESKARO Hydro Tape</name>
         <quantity_in_stock>87.0</quantity_in_stock>
-        <oldprice>265.8</oldprice>
         <categoryId>85667100</categoryId>
         <vendorCode>4820166526277</vendorCode>
         <vendorprice>155.0</vendorprice>
@@ -10981,31 +10936,28 @@
         <vendorprice>189.27</vendorprice>
       </offer>
       <offer id="4820166525041" available="true">
-        <price>909.75</price>
+        <price>1213</price>
         <currencyId>UAH</currencyId>
         <name>Мастика гідроізоляційна Grover MW 301 7 кг / Польща</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
-        <oldprice>1213</oldprice>
+        <quantity_in_stock>94.0</quantity_in_stock>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 7</vendorCode>
-        <vendorprice>672.91</vendorprice>
+        <vendorprice>640.0</vendorprice>
       </offer>
       <offer id="4820166525034" available="true">
-        <price>528.75</price>
+        <price>705</price>
         <currencyId>UAH</currencyId>
         <name>Мастика гідроізоляційна Grover MW 301 4 кг.</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
-        <oldprice>705</oldprice>
+        <quantity_in_stock>139.0</quantity_in_stock>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 4</vendorCode>
-        <vendorprice>401.22</vendorprice>
+        <vendorprice>380.0</vendorprice>
       </offer>
       <offer id="4820166525027" available="true">
-        <price>194.25</price>
+        <price>259</price>
         <currencyId>UAH</currencyId>
         <name>Мастика гідроізоляційна Grover MW 301 1 кг</name>
-        <quantity_in_stock>35.0</quantity_in_stock>
-        <oldprice>259</oldprice>
+        <quantity_in_stock>132.0</quantity_in_stock>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 1</vendorCode>
         <vendorprice>110.0</vendorprice>
@@ -11014,7 +10966,7 @@
         <price>122</price>
         <currencyId>UAH</currencyId>
         <name>Засіб протигрибковий Grover AM1</name>
-        <quantity_in_stock>40.0</quantity_in_stock>
+        <quantity_in_stock>39.0</quantity_in_stock>
         <categoryId>67126675</categoryId>
         <vendorCode>AM1 0.5</vendorCode>
         <vendorprice>61.45</vendorprice>
@@ -11122,7 +11074,7 @@
         <price>310</price>
         <currencyId>UAH</currencyId>
         <name>Зміцнюючий ґрунт-концентрат 1:10 Eskaro Aquastop professional 1л</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>67485156</categoryId>
         <vendorCode>80-373</vendorCode>
         <vendorprice>233.76</vendorprice>
@@ -11131,7 +11083,7 @@
         <price>82</price>
         <currencyId>UAH</currencyId>
         <name>Розчинник синтетичний Biodur Synthetic Thinner</name>
-        <quantity_in_stock>31.0</quantity_in_stock>
+        <quantity_in_stock>19.0</quantity_in_stock>
         <categoryId>105851603</categoryId>
         <vendorCode>B-02</vendorCode>
         <vendorprice>49.0</vendorprice>
@@ -11149,7 +11101,7 @@
         <price>85</price>
         <currencyId>UAH</currencyId>
         <name>Очищувач монтажної піни Piton 500 мл</name>
-        <quantity_in_stock>50.0</quantity_in_stock>
+        <quantity_in_stock>45.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>опп</vendorCode>
         <vendorprice>70.0</vendorprice>
@@ -11158,7 +11110,7 @@
         <price>169</price>
         <currencyId>UAH</currencyId>
         <name>Емаль-аерозоль для побутової техніки New Ton біла 400 мл</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT1</vendorCode>
         <vendorprice>120.0</vendorprice>
@@ -11176,7 +11128,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Змивка старої фарби аерозоль Piton 400 мл</name>
-        <quantity_in_stock>28.0</quantity_in_stock>
+        <quantity_in_stock>25.0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>зсф</vendorCode>
         <vendorprice>90.0</vendorprice>
@@ -11265,7 +11217,7 @@
         <price>274</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 210-07</vendorCode>
         <vendorprice>180.0</vendorprice>
@@ -11301,7 +11253,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл</name>
-        <quantity_in_stock>29.0</quantity_in_stock>
+        <quantity_in_stock>28.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 6010 m</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11310,7 +11262,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл</name>
-        <quantity_in_stock>20.0</quantity_in_stock>
+        <quantity_in_stock>18.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 6006 m</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11319,7 +11271,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл RAL 8017 Темно-коричневий</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 8017 m</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11346,7 +11298,7 @@
         <price>678</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint 2.1, Коричневий 117</name>
-        <quantity_in_stock>8.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 117-21</vendorCode>
         <vendorprice>550.0</vendorprice>
@@ -11382,7 +11334,7 @@
         <price>678</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint 2.1, Антично-мідний 103</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 103-21</vendorCode>
         <vendorprice>550.0</vendorprice>
@@ -11391,7 +11343,7 @@
         <price>274</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint 0.7, Коричневий 117</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 117-07</vendorCode>
         <vendorprice>200.0</vendorprice>
@@ -11409,7 +11361,7 @@
         <price>274</price>
         <currencyId>UAH</currencyId>
         <name>Емаль молоткова Biodur 3в1 Hammer Paint</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 105-07</vendorCode>
         <vendorprice>200.0</vendorprice>
@@ -11460,11 +11412,10 @@
         <vendorprice>80.0</vendorprice>
       </offer>
       <offer id="4820155685312" available="true">
-        <price>181.45</price>
+        <price>191</price>
         <currencyId>UAH</currencyId>
         <name>Мастило аерозоль для ланцюгів Piton 400 мл</name>
         <quantity_in_stock>19.0</quantity_in_stock>
-        <oldprice>191</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>Piton 400</vendorCode>
         <vendorprice>120.0</vendorprice>
@@ -11527,7 +11478,7 @@
         <price>195</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль для пластику New Ton 400 мл</name>
-        <quantity_in_stock>11.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>4820155680973</vendorCode>
         <vendorprice>135.0</vendorprice>
@@ -11545,7 +11496,7 @@
         <price>195</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль для пластику New Ton 400 мл Структурна антрацит</name>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>4820155680959</vendorCode>
         <vendorprice>135.0</vendorprice>
@@ -11560,21 +11511,19 @@
         <vendorprice>150.0</vendorprice>
       </offer>
       <offer id="4820155680874" available="true">
-        <price>216.9</price>
+        <price>241</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл</name>
         <quantity_in_stock>5.0</quantity_in_stock>
-        <oldprice>241</oldprice>
         <categoryId>105705116</categoryId>
         <vendorCode>NTF 5016</vendorCode>
         <vendorprice>150.0</vendorprice>
       </offer>
       <offer id="4820155680867" available="true">
-        <price>216.9</price>
+        <price>241</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 3026</name>
         <quantity_in_stock>5.0</quantity_in_stock>
-        <oldprice>241</oldprice>
         <categoryId>105705116</categoryId>
         <vendorCode>NTF 3026</vendorCode>
         <vendorprice>150.0</vendorprice>
@@ -11589,21 +11538,19 @@
         <vendorprice>150.0</vendorprice>
       </offer>
       <offer id="4820155680843" available="true">
-        <price>216.9</price>
+        <price>241</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 1026 Жовтий</name>
         <quantity_in_stock>1.0</quantity_in_stock>
-        <oldprice>241</oldprice>
         <categoryId>105705116</categoryId>
         <vendorCode>NTF 1026</vendorCode>
         <vendorprice>150.0</vendorprice>
       </offer>
       <offer id="4820155680836" available="true">
-        <price>216.9</price>
+        <price>241</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 0096</name>
         <quantity_in_stock>11.0</quantity_in_stock>
-        <oldprice>241</oldprice>
         <categoryId>105705116</categoryId>
         <vendorCode>NTF 0096</vendorCode>
         <vendorprice>150.0</vendorprice>
@@ -11639,7 +11586,7 @@
         <price>224</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль жаростійка NewTon 400 мл Сріблястий</name>
-        <quantity_in_stock>17.0</quantity_in_stock>
+        <quantity_in_stock>16.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>8011963759039</vendorCode>
         <vendorprice>160.0</vendorprice>
@@ -11675,7 +11622,7 @@
         <price>122</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунаерозоль універсальний NEW TON 400 мл</name>
-        <quantity_in_stock>24.0</quantity_in_stock>
+        <quantity_in_stock>19.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT G</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11702,7 +11649,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл</name>
-        <quantity_in_stock>45.0</quantity_in_stock>
+        <quantity_in_stock>85.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9010 m</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11711,7 +11658,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл</name>
-        <quantity_in_stock>48.0</quantity_in_stock>
+        <quantity_in_stock>93.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9010</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11720,7 +11667,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль універсальна NEW TON матова 400 мл</name>
-        <quantity_in_stock>16.0</quantity_in_stock>
+        <quantity_in_stock>14.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9006</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11729,7 +11676,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл RAL 9005 Чорний</name>
-        <quantity_in_stock>44.0</quantity_in_stock>
+        <quantity_in_stock>82.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9005 m</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11738,7 +11685,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 9005 Чорний</name>
-        <quantity_in_stock>39.0</quantity_in_stock>
+        <quantity_in_stock>77.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9005</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11765,7 +11712,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 8011 Коричневий</name>
-        <quantity_in_stock>23.0</quantity_in_stock>
+        <quantity_in_stock>18.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 8011</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11828,7 +11775,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль універсальна NEW TON матова 400 мл</name>
-        <quantity_in_stock>17.0</quantity_in_stock>
+        <quantity_in_stock>15.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 6006</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11837,7 +11784,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 6005 Темно-зелений</name>
-        <quantity_in_stock>18.0</quantity_in_stock>
+        <quantity_in_stock>15.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 6005</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11873,7 +11820,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 5010</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 5010</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -11900,7 +11847,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль універсальна NEW TON матова 400 мл</name>
-        <quantity_in_stock>17.0</quantity_in_stock>
+        <quantity_in_stock>14.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 4005</vendorCode>
         <vendorprice>84.0</vendorprice>
@@ -11909,7 +11856,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль універсальна NEW TON матова 400 мл</name>
-        <quantity_in_stock>7.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 4003</vendorCode>
         <vendorprice>84.0</vendorprice>
@@ -11945,7 +11892,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 3002</name>
-        <quantity_in_stock>24.0</quantity_in_stock>
+        <quantity_in_stock>22.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 3002</vendorCode>
         <vendorprice>80.0</vendorprice>
@@ -12008,7 +11955,7 @@
         <price>1580</price>
         <currencyId>UAH</currencyId>
         <name>Шпаклівка акрилова фінішна Caparol Glattspchtel 25 кг</name>
-        <quantity_in_stock>38.0</quantity_in_stock>
+        <quantity_in_stock>21.0</quantity_in_stock>
         <categoryId>85666663</categoryId>
         <vendorCode>7311020063470</vendorCode>
         <vendorprice>1150.0</vendorprice>
@@ -12017,10 +11964,10 @@
         <price>120</price>
         <currencyId>UAH</currencyId>
         <name>Розчинник органічний Сольвент 0.8</name>
-        <quantity_in_stock>20.0</quantity_in_stock>
+        <quantity_in_stock>17.0</quantity_in_stock>
         <categoryId>67126675</categoryId>
         <vendorCode>ЗАБХ.С.0.8</vendorCode>
-        <vendorprice>44.0</vendorprice>
+        <vendorprice>42.0</vendorprice>
       </offer>
       <offer id="4820108150799" available="true">
         <price>85</price>
@@ -12035,10 +11982,10 @@
         <price>250</price>
         <currencyId>UAH</currencyId>
         <name>Розчинник органічний Сольвент</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>63.0</quantity_in_stock>
         <categoryId>67126675</categoryId>
         <vendorCode>ЗАБХ.С.4</vendorCode>
-        <vendorprice>245.0</vendorprice>
+        <vendorprice>215.59</vendorprice>
       </offer>
       <offer id="4820085745049" available="false">
         <price>351</price>
@@ -12093,11 +12040,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="4740381006999" available="false">
-        <price>3618.45</price>
+        <price>4257</price>
         <currencyId>UAH</currencyId>
         <name>Глибокоматова фарба для стель із уповільненим часом висихання Sympatia 9 5л Eskaro</name>
         <quantity_in_stock>0.0</quantity_in_stock>
-        <oldprice>4257</oldprice>
         <categoryId>67126675</categoryId>
         <vendorCode>Sympatia9.5</vendorCode>
         <vendorprice>3135.74</vendorprice>
@@ -12592,7 +12538,7 @@
         <price>170</price>
         <currencyId>UAH</currencyId>
         <name>Ролик ДЗС 12см х 30мм мікрофібра 9мм 3К ручка (чорно/зелена смуга)</name>
-        <quantity_in_stock>8.0</quantity_in_stock>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <categoryId>105856664</categoryId>
         <vendorCode>86523102</vendorCode>
         <vendorprice>92.51</vendorprice>
@@ -12628,7 +12574,7 @@
         <price>175</price>
         <currencyId>UAH</currencyId>
         <name>Валик ЛАК філт бежевий (поліестер)</name>
-        <quantity_in_stock>34.0</quantity_in_stock>
+        <quantity_in_stock>31.0</quantity_in_stock>
         <categoryId>105856664</categoryId>
         <vendorCode>86612502</vendorCode>
         <vendorprice>114.0</vendorprice>
@@ -13042,7 +12988,7 @@
         <price>62</price>
         <currencyId>UAH</currencyId>
         <name>Пензель ЛАК флейцева жовта пластикова ручка 50мм х 14 мм</name>
-        <quantity_in_stock>14.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>105856995</categoryId>
         <vendorCode>81345002</vendorCode>
         <vendorprice>49.93</vendorprice>
@@ -13060,7 +13006,7 @@
         <price>35</price>
         <currencyId>UAH</currencyId>
         <name>Пензель ЛАК флейцевий жовта пластикова ручка</name>
-        <quantity_in_stock>14.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>105856995</categoryId>
         <vendorCode>81343002</vendorCode>
         <vendorprice>38.02</vendorprice>
@@ -13303,7 +13249,7 @@
         <price>34</price>
         <currencyId>UAH</currencyId>
         <name>Пензель ФСФ флейцевий Стандарт 50мм х 11 мм</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105856995</categoryId>
         <vendorCode>81265012</vendorCode>
         <vendorprice>21.26</vendorprice>
@@ -13348,7 +13294,7 @@
         <price>70</price>
         <currencyId>UAH</currencyId>
         <name>Клей шпалерний Pufas EURO 3000 Експрес 200г</name>
-        <quantity_in_stock>20.0</quantity_in_stock>
+        <quantity_in_stock>19.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>Express 200</vendorCode>
         <vendorprice>66.0</vendorprice>
@@ -13357,7 +13303,7 @@
         <price>240</price>
         <currencyId>UAH</currencyId>
         <name>Клей шпалерний флізеліновий Ювілейний Pufas EURO 3000 500г</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>20.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>EURO 3000 500г</vendorCode>
         <vendorprice>165.0</vendorprice>
@@ -13390,21 +13336,19 @@
         <vendorprice>215.0</vendorprice>
       </offer>
       <offer id="4007954047910" available="true">
-        <price>228</price>
+        <price>300</price>
         <currencyId>UAH</currencyId>
         <name>Очищувач Солей та Нітратних Виділень PUFAS Facade-Clean 1л</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
-        <oldprice>300</oldprice>
+        <quantity_in_stock>9.0</quantity_in_stock>
         <categoryId>91858315</categoryId>
         <vendorCode>Facade-Clean</vendorCode>
         <vendorprice>180.0</vendorprice>
       </offer>
       <offer id="4007954017951" available="true">
-        <price>1459.2</price>
+        <price>1824</price>
         <currencyId>UAH</currencyId>
         <name>Готовий клей для настінних покриттів шпалер та склополотна Pufas GF (Пуфас) (18кг)</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
-        <oldprice>1824</oldprice>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>4007954017951</vendorCode>
         <vendorprice>1150.0</vendorprice>
@@ -13419,11 +13363,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="4007954009932" available="true">
-        <price>229.5</price>
+        <price>270</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склошпалер важких та флізелінових Pufas EURO3000 Glass 500г</name>
-        <quantity_in_stock>10.0</quantity_in_stock>
-        <oldprice>270</oldprice>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>PG 500</vendorCode>
         <vendorprice>175.0</vendorprice>
@@ -13436,6 +13379,113 @@
         <categoryId>102090702</categoryId>
         <vendorCode>12006059</vendorCode>
         <vendorprice>118.0</vendorprice>
+      </offer>
+      <offer id="392917" available="false">
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <name>Умные смарт часы Smart Watch I7 PRO MAX с голосовым вызовом тонометр пульсометр оксиметр. Цвет: белый</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <vendorCode>ws52629-1</vendorCode>
+        <vendorprice>260.00</vendorprice>
+      </offer>
+      <offer id="389906" available="false">
+        <price>349</price>
+        <currencyId>UAH</currencyId>
+        <name>Ваги електронні для підлоги Rainberg RB-2003A побутові для зважування тіла ваги для зважування</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113386</categoryId>
+        <vendorCode>ws19743</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388591" available="false">
+        <price>369</price>
+        <currencyId>UAH</currencyId>
+        <name>Бездротовий ігровий геймпад Doubleshock PS3/PC акумуляторний джойстик з функцією вібрації. Колір: білий</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws52595-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388585" available="false">
+        <price>299</price>
+        <currencyId>UAH</currencyId>
+        <name>Монопод-трипод та штатив з пультом Bluetooth L01 Black Тримач для Телефону селфі палиця. Колір: білий</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113386</categoryId>
+        <vendorCode>ws59857-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388578" available="false">
+        <price>299</price>
+        <currencyId>UAH</currencyId>
+        <name>Монопод-трипод та штатив з пультом Bluetooth L01 Black Тримач для Телефону селфі палиця. Колір: чорний</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113386</categoryId>
+        <vendorCode>ws59857</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388555" available="false">
+        <price>649</price>
+        <currencyId>UAH</currencyId>
+        <name>Джойстик DOUBLESHOCK для PS 4, бездротовий ігровий геймпад PS4/PC акумуляторний джойстик. Колір білий</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws62479-3</vendorCode>
+        <vendorprice>480.00</vendorprice>
+      </offer>
+      <offer id="388554" available="false">
+        <price>649</price>
+        <currencyId>UAH</currencyId>
+        <name>Джойстик DOUBLESHOCK для PS 4, бездротовий ігровий геймпад PS4/PC акумуляторний джойстик. Колір синій</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws62479-2</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388553" available="false">
+        <price>649</price>
+        <currencyId>UAH</currencyId>
+        <name>Джойстик DOUBLESHOCK для PS 4, бездротовий ігровий геймпад PS4/PC акумуляторний джойстик. Колір: червоний</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws62479-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388551" available="false">
+        <price>649</price>
+        <currencyId>UAH</currencyId>
+        <name>Джойстик DOUBLESHOCK для PS 4, бездротовий ігровий геймпад PS4/PC акумуляторний джойстик. Колір чорний</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws62479</vendorCode>
+        <vendorprice>480.00</vendorprice>
+      </offer>
+      <offer id="388542" available="false">
+        <price>1599</price>
+        <currencyId>UAH</currencyId>
+        <name>Ігрова консоль приставка для телевізора 4K система Android TV 10 4G Wi-Fi HD з двома бездротовими джойстиками</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws59446</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="388531" available="false">
+        <price>779</price>
+        <currencyId>UAH</currencyId>
+        <name>Ігра консоль ретро приставка для телевізора Dendy Game Station GS5 200 ігор 8 Bit</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws62292</vendorCode>
+        <vendorprice>590.00</vendorprice>
+      </offer>
+      <offer id="388518" available="false">
+        <price>999</price>
+        <currencyId>UAH</currencyId>
+        <name>Ігрова приставка M8 64G, 4К, + 2 бездротові джойстики / Консоль для телевізора</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113387</categoryId>
+        <vendorCode>ws98236</vendorCode>
+        <vendorprice>755.00</vendorprice>
       </offer>
       <offer id="388506" available="false">
         <price>699</price>
@@ -13480,7 +13530,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113384</categoryId>
         <vendorCode>ws52629</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>260.00</vendorprice>
       </offer>
       <offer id="382806" available="false">
         <price>599</price>
@@ -13774,7 +13824,7 @@
         <price>999</price>
         <currencyId>UAH</currencyId>
         <name>Настольная смарт лампа-ночник G-Smart BT-3401 с беспроводной зарядкой, колонкой и часами</name>
-        <quantity_in_stock>28</quantity_in_stock>
+        <quantity_in_stock>29</quantity_in_stock>
         <categoryId>126113386</categoryId>
         <vendorCode>ws32476</vendorCode>
         <vendorprice>685.00</vendorprice>
@@ -14197,27 +14247,25 @@
         <price>98</price>
         <currencyId>UAH</currencyId>
         <name>Клей для паперових шпалер Quelyd Super Express 250г</name>
-        <quantity_in_stock>464.0</quantity_in_stock>
+        <quantity_in_stock>401.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>Super Express</vendorCode>
         <vendorprice>76.0</vendorprice>
       </offer>
       <offer id="3549210022831" available="true">
-        <price>108.8</price>
+        <price>128</price>
         <currencyId>UAH</currencyId>
         <name>Клей для вінілових шпалер Quelyd Вініл Vinyl 300г</name>
-        <quantity_in_stock>616.0</quantity_in_stock>
-        <oldprice>128</oldprice>
+        <quantity_in_stock>491.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>QV 300</vendorCode>
         <vendorprice>83.0</vendorprice>
       </offer>
-      <offer id="3549210022824" available="true">
-        <price>124</price>
+      <offer id="3549210022824" available="false">
+        <price>155</price>
         <currencyId>UAH</currencyId>
         <name>Клей для шпалер Флізеліновий Quelyd Fliz Спец Флізелін 300г</name>
-        <quantity_in_stock>237.0</quantity_in_stock>
-        <oldprice>155</oldprice>
+        <quantity_in_stock>118.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>30080942</vendorCode>
         <vendorprice>85.0</vendorprice>
@@ -14847,10 +14895,10 @@
         <price>1049</price>
         <currencyId>UAH</currencyId>
         <name>Профессиональная электробритва Шейвер VGR V-335 Shaver с тремя ножевыми блоками</name>
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <categoryId>126113392</categoryId>
         <vendorCode>ws15946</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>778.00</vendorprice>
       </offer>
       <offer id="344190" available="true">
         <price>699</price>
@@ -16008,10 +16056,10 @@
         <price>799</price>
         <currencyId>UAH</currencyId>
         <name>Роликовый массажер для спины и шеи massager of neck kneading</name>
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <categoryId>126113392</categoryId>
         <vendorCode>ws25204</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>483.00</vendorprice>
       </offer>
       <offer id="3348" available="true">
         <price>399</price>
@@ -17001,7 +17049,7 @@
         <quantity_in_stock>2</quantity_in_stock>
         <categoryId>126113386</categoryId>
         <vendorCode>ws64642-1</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>363.00</vendorprice>
       </offer>
       <offer id="32915" available="true">
         <price>329</price>
@@ -17748,7 +17796,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113384</categoryId>
         <vendorCode>ws85387</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>351.00</vendorprice>
       </offer>
       <offer id="316748" available="true">
         <price>449</price>
@@ -18222,10 +18270,10 @@
         <price>299</price>
         <currencyId>UAH</currencyId>
         <name>Фитнес браслет FitPro Smart Band M6 (смарт часы, пульсоксиметр, пульс). Цвет: черный</name>
-        <quantity_in_stock>103</quantity_in_stock>
+        <quantity_in_stock>102</quantity_in_stock>
         <categoryId>126113383</categoryId>
         <vendorCode>ws83387</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>169.00</vendorprice>
       </offer>
       <offer id="31234" available="false">
         <price>299</price>
@@ -19074,7 +19122,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="302465" available="false">
-        <price>399</price>
+        <price>379</price>
         <currencyId>UAH</currencyId>
         <name>Ліхтар налобний BL-W690-LTS+SMD white+red сенсорний (з датчиком руху), світлодіодний налобний ліхтарик</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -19191,7 +19239,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="301982" available="false">
-        <price>949</price>
+        <price>849</price>
         <currencyId>UAH</currencyId>
         <name>Ліхтар тактичний Police Q2800-T6 18650 х 2, заряджається від мережі 220В та авто ЗУ 12В, виносна кнопка</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -19254,7 +19302,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="301931" available="false">
-        <price>799</price>
+        <price>599</price>
         <currencyId>UAH</currencyId>
         <name>Ліхтар кемпінг переносний T100A-10W+2COB з бічними LED white/red/blue, Акумуляторна лампа для кемпінгу</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -19425,7 +19473,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="301755" available="false">
-        <price>379</price>
+        <price>349</price>
         <currencyId>UAH</currencyId>
         <name>Світлодіодний ліхтар Power Bank кемпінг WL-08 XPE+COB, червоний+білий+жовтий, магніт, гачок</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -19470,7 +19518,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="301324" available="false">
-        <price>949</price>
+        <price>819</price>
         <currencyId>UAH</currencyId>
         <name>Ліхтарик Bailong BL-G200-P360, 5 режимів, Zoom, алюмінієвий корпус, режим павербанку, ліхтар ручний потужний</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -19488,7 +19536,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="301309" available="true">
-        <price>399</price>
+        <price>369</price>
         <currencyId>UAH</currencyId>
         <name>Игровой беспроводной геймпад Doubleshock PS3/PC аккумуляторный джойстик с функцией вибрации</name>
         <quantity_in_stock>8</quantity_in_stock>
@@ -19599,10 +19647,10 @@
         <price>479</price>
         <currencyId>UAH</currencyId>
         <name>Мультиметр цифровой Digital UT 61 профессиональный тестер вольтметр, качественный мультиметр, цифровой</name>
-        <quantity_in_stock>20</quantity_in_stock>
+        <quantity_in_stock>18</quantity_in_stock>
         <categoryId>126113384</categoryId>
         <vendorCode>ws86726</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>326.00</vendorprice>
       </offer>
       <offer id="299994" available="false">
         <price>1449</price>
@@ -19968,7 +20016,7 @@
         <price>449</price>
         <currencyId>UAH</currencyId>
         <name>Мини GPS трекер через SIM карту А8 со встроенным микрофоном</name>
-        <quantity_in_stock>25</quantity_in_stock>
+        <quantity_in_stock>26</quantity_in_stock>
         <categoryId>126113384</categoryId>
         <vendorCode>ws25672</vendorCode>
         <vendorprice>299.00</vendorprice>
@@ -24140,14 +24188,14 @@
         <vendorCode>ws48923</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="268534" available="true">
+      <offer id="268534" available="false">
         <price>699</price>
         <currencyId>UAH</currencyId>
         <name>Рюкзак тактический чорний 4в1 70 л + Подсумок Водонепроницаемый туристический рюкзак. Цвет: черный</name>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113389</categoryId>
         <vendorCode>ws67524</vendorCode>
-        <vendorprice>532.00</vendorprice>
+        <vendorprice>497.00</vendorprice>
       </offer>
       <offer id="26850" available="false">
         <price>299</price>
@@ -24752,14 +24800,14 @@
         <vendorCode>ws61567</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="266244" available="true">
+      <offer id="266244" available="false">
         <price>699</price>
         <currencyId>UAH</currencyId>
         <name>Мощная электрическая кофемолка измельчитель Rainberg RB-2207 1000 Вт, кофемолка ручная портативная</name>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113394</categoryId>
         <vendorCode>ws78165</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>522.00</vendorprice>
       </offer>
       <offer id="266239" available="false">
         <price>479</price>
@@ -24768,7 +24816,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113394</categoryId>
         <vendorCode>ws98472</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>334.00</vendorprice>
       </offer>
       <offer id="266234" available="false">
         <price>499</price>
@@ -25245,7 +25293,7 @@
         <quantity_in_stock>8</quantity_in_stock>
         <categoryId>126113394</categoryId>
         <vendorCode>ws51217</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>522.00</vendorprice>
       </offer>
       <offer id="255342" available="false">
         <price>699</price>
@@ -26232,10 +26280,10 @@
         <price>1049</price>
         <currencyId>UAH</currencyId>
         <name>Кофемолка MAGIO MG-208, многофункциональная кофемолка, электрическая кофемолка измельчитель</name>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <categoryId>126113394</categoryId>
         <vendorCode>ws48554</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>797.00</vendorprice>
       </offer>
       <offer id="254301" available="true">
         <price>859</price>
@@ -27717,7 +27765,7 @@
         <price>999</price>
         <currencyId>UAH</currencyId>
         <name>Рюкзак тактический 50 л, с подсумками Военный штурмовой рюкзак на MOLLE большой</name>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <categoryId>126113389</categoryId>
         <vendorCode>ws45611</vendorCode>
         <vendorprice>775.00</vendorprice>
@@ -28866,25 +28914,25 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="2250131643012" available="true">
-        <price>1950</price>
+        <price>2050</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25 кг Чорна</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>2250131643012</vendorCode>
         <vendorprice>1750.0</vendorprice>
       </offer>
       <offer id="2250131640011" available="true">
-        <price>1950</price>
+        <price>2150</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25 кг Темно-сіра</name>
-        <quantity_in_stock>4.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>2250131640011</vendorCode>
         <vendorprice>1850.0</vendorprice>
       </offer>
       <offer id="2250131638018" available="true">
-        <price>1950</price>
+        <price>2100</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25кг Сіра</name>
         <quantity_in_stock>1.0</quantity_in_stock>
@@ -28893,7 +28941,7 @@
         <vendorprice>1800.0</vendorprice>
       </offer>
       <offer id="2250131636014" available="true">
-        <price>1999</price>
+        <price>2100</price>
         <currencyId>UAH</currencyId>
         <name>Краска Эмаль ПФ-115 25 кг Світло-сіра</name>
         <quantity_in_stock>3.0</quantity_in_stock>
@@ -28902,7 +28950,7 @@
         <vendorprice>1800.0</vendorprice>
       </offer>
       <offer id="2250131632016" available="false">
-        <price>1999</price>
+        <price>2100</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25 кг Зелена</name>
         <quantity_in_stock>0.0</quantity_in_stock>
@@ -28914,13 +28962,13 @@
         <price>2249</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25 кг Жовта</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>2250131630012</vendorCode>
         <vendorprice>1900.0</vendorprice>
       </offer>
       <offer id="2250131626015" available="true">
-        <price>2299</price>
+        <price>2499</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25кг Біла</name>
         <quantity_in_stock>4.0</quantity_in_stock>
@@ -33689,14 +33737,14 @@
         <vendorCode>ws57668-1</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="205609" available="true">
+      <offer id="205609" available="false">
         <price>699</price>
         <currencyId>UAH</currencyId>
         <name>Тактический рюкзак на 70л больший армейский баул, походная сумка / Военный рюкзак</name>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113389</categoryId>
         <vendorCode>ws98912</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>497.00</vendorprice>
       </offer>
       <offer id="205551" available="true">
         <price>599</price>
@@ -34299,7 +34347,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>105733817</categoryId>
         <vendorCode>Oli wood DP 9</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>3516.00</vendorprice>
       </offer>
       <offer id="2009752133" available="false">
         <price>1553</price>
@@ -34521,7 +34569,7 @@
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сонома, 67.5см</name>
-        <quantity_in_stock>58.0</quantity_in_stock>
+        <quantity_in_stock>55.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2008433</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -34557,7 +34605,7 @@
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Мармур Ромео білий, 67.5см</name>
-        <quantity_in_stock>45.0</quantity_in_stock>
+        <quantity_in_stock>44.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2008295</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -34620,7 +34668,7 @@
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Бук червоний, 67.5см</name>
-        <quantity_in_stock>45.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2008184</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -34647,7 +34695,7 @@
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Бежевий каррарський мармур, 67.5см</name>
-        <quantity_in_stock>45.0</quantity_in_stock>
+        <quantity_in_stock>40.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2008131</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -34665,7 +34713,7 @@
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Сірий мармур, 67.5см</name>
-        <quantity_in_stock>43.0</quantity_in_stock>
+        <quantity_in_stock>57.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2008095</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -34692,7 +34740,7 @@
         <price>86</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур білий із чорним, 67.5см</name>
-        <quantity_in_stock>45.0</quantity_in_stock>
+        <quantity_in_stock>57.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2008064</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -34845,7 +34893,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сонома, 90см</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005595</vendorCode>
         <vendorprice>82.0</vendorprice>
@@ -34854,7 +34902,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сонома трюфель, 90см</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005593</vendorCode>
         <vendorprice>82.0</vendorprice>
@@ -34926,7 +34974,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дачна сосна, 90см</name>
-        <quantity_in_stock>30.0</quantity_in_stock>
+        <quantity_in_stock>19.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005315</vendorCode>
         <vendorprice>82.0</vendorprice>
@@ -34935,7 +34983,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Сірий мармур, 90см</name>
-        <quantity_in_stock>60.0</quantity_in_stock>
+        <quantity_in_stock>57.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005312</vendorCode>
         <vendorprice>82.0</vendorprice>
@@ -34944,7 +34992,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур білий із чорним, 90см</name>
-        <quantity_in_stock>75.0</quantity_in_stock>
+        <quantity_in_stock>73.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005277</vendorCode>
         <vendorprice>82.0</vendorprice>
@@ -34998,7 +35046,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Волоський горіх, 90см</name>
-        <quantity_in_stock>28.0</quantity_in_stock>
+        <quantity_in_stock>43.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005176</vendorCode>
         <vendorprice>82.0</vendorprice>
@@ -35034,7 +35082,7 @@
         <price>119</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Білий, Матова, 90см</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>6.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005001</vendorCode>
         <vendorprice>62.0</vendorprice>
@@ -35093,11 +35141,11 @@
         <vendorCode>2003237</vendorCode>
         <vendorprice>41.0</vendorprice>
       </offer>
-      <offer id="2003218" available="true">
+      <offer id="2003218" available="false">
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дуб сонома, 45см</name>
-        <quantity_in_stock>38.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2003218</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35133,7 +35181,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Сіра, 45см</name>
-        <quantity_in_stock>71.0</quantity_in_stock>
+        <quantity_in_stock>50.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2002885</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35286,7 +35334,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Мармур білий із чорним, 45см</name>
-        <quantity_in_stock>60.0</quantity_in_stock>
+        <quantity_in_stock>57.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2002254</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35304,7 +35352,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Махагон темний, 45см</name>
-        <quantity_in_stock>30.0</quantity_in_stock>
+        <quantity_in_stock>26.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2002227</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35331,7 +35379,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Світлий дуб, 45см</name>
-        <quantity_in_stock>43.0</quantity_in_stock>
+        <quantity_in_stock>36.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2002163</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35340,7 +35388,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Салатова, 45см</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>15.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2001995</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35358,7 +35406,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Блакитна, 45см</name>
-        <quantity_in_stock>12.0</quantity_in_stock>
+        <quantity_in_stock>14.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2001993</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35385,7 +35433,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Дерево біле, 45см</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2001899</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35394,7 +35442,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Королівська синя, 45см</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>26.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2001687</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35430,7 +35478,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Жовта, 45см</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2001276</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35439,7 +35487,7 @@
         <price>57</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Глянець, Сигнально червона, 45см</name>
-        <quantity_in_stock>42.0</quantity_in_stock>
+        <quantity_in_stock>27.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2001274</vendorCode>
         <vendorprice>44.0</vendorprice>
@@ -35481,11 +35529,10 @@
         <vendorprice>1787.13</vendorprice>
       </offer>
       <offer id="2000129424303" available="true">
-        <price>172.8</price>
+        <price>216</price>
         <currencyId>UAH</currencyId>
         <name>Герметик каучуковий для покрівлі та фасадів GROVER R100 прозорий 300 мл</name>
         <quantity_in_stock>111.0</quantity_in_stock>
-        <oldprice>216</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>R100</vendorCode>
         <vendorprice>115.0</vendorprice>
@@ -35500,21 +35547,19 @@
         <vendorprice>118.0</vendorprice>
       </offer>
       <offer id="2000129400550" available="true">
-        <price>165.71</price>
+        <price>227</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий універсальний GROVER U100 Білий 300 мл</name>
         <quantity_in_stock>42.0</quantity_in_stock>
-        <oldprice>227</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>U100 Б</vendorCode>
         <vendorprice>110.0</vendorprice>
       </offer>
       <offer id="2000129388629" available="false">
-        <price>4770.2</price>
+        <price>5185</price>
         <currencyId>UAH</currencyId>
         <name>Глибокоматова інтер'єрна фарба що миється Mattilda 9 5л Eskaro</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5185</oldprice>
         <categoryId>67126675</categoryId>
         <vendorCode>Mattilda9.5</vendorCode>
         <vendorprice>4370.76</vendorprice>
@@ -35541,10 +35586,10 @@
         <price>1119</price>
         <currencyId>UAH</currencyId>
         <name>Просочення для вагонки лазні та сауни Teknos Satu Saunasuoja Фінляндія 2.7</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>105733903</categoryId>
         <vendorCode>Saunasuoja 2.7л</vendorCode>
-        <vendorprice>900.0</vendorprice>
+        <vendorprice>880.0</vendorprice>
       </offer>
       <offer id="2000000081236" available="false">
         <price>1488</price>
@@ -35583,11 +35628,10 @@
         <vendorprice>412.0</vendorprice>
       </offer>
       <offer id="2000000068817" available="false">
-        <price>921.6</price>
+        <price>1024</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка для швів і кутів гіпсокартону Американка Strait Flex Tuff Tape 57 мм*0 41 мм*30 м Червона</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1024</oldprice>
         <categoryId>67375323</categoryId>
         <vendorCode>8011963759335</vendorCode>
         <vendorprice>700.00</vendorprice>
@@ -35611,21 +35655,19 @@
         <vendorprice>441.0</vendorprice>
       </offer>
       <offer id="2000000062112" available="false">
-        <price>1602.25</price>
+        <price>1885</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка універсальна латексна Bostik Primer-6000 (концентрат) 5 л / Швеція Бостик</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1885</oldprice>
         <categoryId>67485156</categoryId>
         <vendorCode>Primer 6000</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1999118150" available="false">
-        <price>199.66</price>
+        <price>298</price>
         <currencyId>UAH</currencyId>
         <name>Рюкзак-мішок на зав'язках водостійкий Black Bag Чорний</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>298</oldprice>
         <categoryId>84233811</categoryId>
         <vendorCode>610167122</vendorCode>
         <vendorprice>87.00</vendorprice>
@@ -36406,7 +36448,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113387</categoryId>
         <vendorCode>ws46227</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>309.00</vendorprice>
       </offer>
       <offer id="190062" available="false">
         <price>299</price>
@@ -38884,11 +38926,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1765298346" available="false">
-        <price>1025</price>
+        <price>1250</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка паперова для швів KNAUF Kurt 50 мм*75 м (Кнауф Курт)</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1250</oldprice>
         <categoryId>85666663</categoryId>
         <vendorCode>Knauf Kurt75</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -39221,10 +39262,10 @@
         <price>1199</price>
         <currencyId>UAH</currencyId>
         <name>Тактический флисовый плед 150х175см – одеяло для военных с чехлом. Цвет: хаки</name>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <categoryId>126113389</categoryId>
         <vendorCode>ws59418-1</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>900.00</vendorprice>
       </offer>
       <offer id="168917" available="true">
         <price>1199</price>
@@ -39308,11 +39349,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1656098931" available="false">
-        <price>6760</price>
+        <price>8450</price>
         <currencyId>UAH</currencyId>
         <name>Тканина кордура 420D PVC-F 1.5*40м (Нейлон 100%) Чорна 400г/м2</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>8450</oldprice>
         <categoryId>109607058</categoryId>
         <vendorCode>NY-420D-PVC-580-DY-A</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -39336,21 +39376,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1656095959" available="false">
-        <price>7920</price>
+        <price>9900</price>
         <currencyId>UAH</currencyId>
         <name>Тканина Оксфорд 1.5*100м OXFORD 400D PU Чорна 116г/м2</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9900</oldprice>
         <categoryId>109607058</categoryId>
         <vendorCode>TP-400-OXF-PU-580</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1656094585" available="false">
-        <price>4960</price>
+        <price>6200</price>
         <currencyId>UAH</currencyId>
         <name>Тканина оксфорд 420D PVC-D 1.5*50м Чорна 350г/м2</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6200</oldprice>
         <categoryId>109607058</categoryId>
         <vendorCode>TP-420D-PVC-580</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -40139,11 +40177,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1585340728" available="false">
-        <price>1755</price>
+        <price>2340</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна у вологих приміщеннях Бостік 78 Вет рум / Bostik Wet Room Швеція 15л</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2340</oldprice>
         <categoryId>103245991</categoryId>
         <vendorCode>4410</vendorCode>
         <vendorprice>1540.00</vendorprice>
@@ -40167,11 +40204,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1585225674" available="false">
-        <price>1584</price>
+        <price>1980</price>
         <currencyId>UAH</currencyId>
         <name>Клей готовий для склополотна та шпалер Bostik 76 Wall Super 15л</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1980</oldprice>
         <categoryId>103245991</categoryId>
         <vendorCode>83009</vendorCode>
         <vendorprice>1387.50</vendorprice>
@@ -40231,11 +40267,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1585168049" available="false">
-        <price>1373.4</price>
+        <price>1526</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart 15л</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1526</oldprice>
         <categoryId>103245991</categoryId>
         <vendorCode>7311020063320</vendorCode>
         <vendorprice>1087.00</vendorprice>
@@ -40689,21 +40724,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1575296831" available="false">
-        <price>1439.25</price>
+        <price>1919</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор програмований Castle з функцією Wi-Fi AC603H Чорний</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1919</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>AC603H черный</vendorCode>
         <vendorprice>1150.00</vendorprice>
       </offer>
       <offer id="1575289099" available="false">
-        <price>1439.25</price>
+        <price>1919</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор програмований Castle з функцією Wi-Fi AC603H</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1919</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>AC603H бел</vendorCode>
         <vendorprice>1150.00</vendorprice>
@@ -41726,11 +41759,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1574396726" available="false">
-        <price>756.5</price>
+        <price>890</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор програмований для теплої підлоги Castle М 6.716</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>890</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>М 6.716 белый</vendorCode>
         <vendorprice>600.00</vendorprice>
@@ -41745,31 +41777,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1574345936" available="false">
-        <price>441.98</price>
+        <price>539</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор механічний для теплої підлоги Castle М5.16 (RTC-70) Слонова кістка</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>539</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>RTC-70 Слоновая кость</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1574345935" available="false">
-        <price>441.98</price>
+        <price>539</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор механічний для теплої підлоги Castle М5.16 (RTC-70) Чорний</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>539</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>RTC-70 черный</vendorCode>
         <vendorprice>290.00</vendorprice>
       </offer>
       <offer id="1574337571" available="false">
-        <price>391.14</price>
+        <price>477</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор механічний для теплої підлоги Castle М5.16 (RTC-70)</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>477</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>RTC-70 бел.</vendorCode>
         <vendorprice>290.00</vendorprice>
@@ -43557,11 +43586,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529651" available="false">
-        <price>10882.55</price>
+        <price>12803</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 12.0 м2/2050 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>12803</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 2050</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -43585,21 +43613,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529648" available="false">
-        <price>8012.95</price>
+        <price>9427</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 8.8 м2/1500 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9427</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 1500</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529647" available="false">
-        <price>7655.95</price>
+        <price>9007</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 7.9 м2/1350 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9007</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 1350</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -43650,31 +43676,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529641" available="false">
-        <price>3676.25</price>
+        <price>4325</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 3.3 м2/550 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4325</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 550</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529640" available="false">
-        <price>3319.25</price>
+        <price>3905</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 2.8 м2/480 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3905</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 480</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529639" available="false">
-        <price>2836.45</price>
+        <price>3337</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 2.3 м2/400 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3337</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 400</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -43689,31 +43712,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529637" available="false">
-        <price>2186.2</price>
+        <price>2572</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 1.3 м2/210 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2572</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 210</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565529636" available="false">
-        <price>1827.5</price>
+        <price>2150</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога в стяжку та під плитку Hot Mat 1.0 м2/180 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2150</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 180</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565508832" available="false">
-        <price>1639.65</price>
+        <price>1929</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний мат Volterm тепла підлога у стяжку та під плитку Hot Mat</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1929</oldprice>
         <categoryId>105730103</categoryId>
         <vendorCode>Volterm Hot Mat 140</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -43737,11 +43757,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490076" available="false">
-        <price>9583.2</price>
+        <price>10648</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 12.00-21 0м²/2700 Вт /150 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>10648</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 2700</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -43765,61 +43784,55 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490073" available="false">
-        <price>6832.8</price>
+        <price>7592</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 8.32-14 6м²/1900 Вт /104 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>7592</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 1900</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490072" available="false">
-        <price>6284.7</price>
+        <price>6983</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 7.52-13 2м²/1700 Вт /94 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6983</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 1700</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490071" available="false">
-        <price>5733.9</price>
+        <price>6371</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 6.72-11 8м²/1500 Вт /84 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6371</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 1500</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490070" available="false">
-        <price>5428.8</price>
+        <price>6032</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 6.08-10 6м²/1350 Вт /76 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6032</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 1350</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490069" available="false">
-        <price>5003.1</price>
+        <price>5559</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 5.44-9 5м²/1200 Вт /68 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5559</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 1200</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490068" available="false">
-        <price>4399.2</price>
+        <price>4888</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 4.80-8 4м²/1050 Вт /60 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4888</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 1050</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -43843,81 +43856,73 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490065" available="false">
-        <price>2986.2</price>
+        <price>3318</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 3.04-5 3м²/680 Вт /38 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3318</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 680</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490064" available="false">
-        <price>2671.2</price>
+        <price>2968</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 2.56-4 5м²/550 Вт /32 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2968</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 550</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490063" available="false">
-        <price>2353.5</price>
+        <price>2615</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 2.16-3 8м²/480 Вт /27 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2615</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 480</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490062" available="false">
-        <price>2042.1</price>
+        <price>2269</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 1.76-3 1м²/400 Вт /22 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2269</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 400</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490061" available="false">
-        <price>1728.9</price>
+        <price>1921</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 1.28-2 2м²/280 Вт /16 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1921</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 280</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490060" available="false">
-        <price>1534.5</price>
+        <price>1705</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога в стяжку та під плитку 0.96-1 7м²/210 Вт /12 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1705</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 210</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565490059" available="false">
-        <price>1372.5</price>
+        <price>1525</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку 0.80-1 4м²/180 Вт /10 м</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1525</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 180</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1565460805" available="false">
-        <price>1196.1</price>
+        <price>1329</price>
         <currencyId>UAH</currencyId>
         <name>Нагрівальний кабель Volterm тепла підлога у стяжку та під плитку</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1329</oldprice>
         <categoryId>105730227</categoryId>
         <vendorCode>HR18 140</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -44373,21 +44378,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1562264470" available="true">
-        <price>4992.9</price>
+        <price>5874</price>
         <currencyId>UAH</currencyId>
         <name>Декоративна штукатурка перламутрова La Perla Decor ELEMENT 10 кг</name>
         <quantity_in_stock>2</quantity_in_stock>
-        <oldprice>5874</oldprice>
         <categoryId>105704730</categoryId>
         <vendorCode>La Perla</vendorCode>
         <vendorprice>4604.60</vendorprice>
       </offer>
       <offer id="1562258496" available="false">
-        <price>5499</price>
+        <price>6110</price>
         <currencyId>UAH</currencyId>
         <name>Декоративна штукатурка ELEMENT Decor Enigma 10 кг</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6110</oldprice>
         <categoryId>105704730</categoryId>
         <vendorCode>Enigma</vendorCode>
         <vendorprice>5155.00</vendorprice>
@@ -45480,291 +45483,262 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041984" available="false">
-        <price>5939.1</price>
+        <price>6599</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 15 м²/3300 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6599</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 15 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041983" available="false">
-        <price>5756.4</price>
+        <price>6396</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 14.5 м²/3190 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6396</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 14.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041982" available="false">
-        <price>5601.6</price>
+        <price>6224</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 14 м²/3080 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6224</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 14 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041981" available="false">
-        <price>5419.8</price>
+        <price>6022</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 13.5 м²/2970 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6022</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 13.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041980" available="false">
-        <price>5237.1</price>
+        <price>5819</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 13 м²/2860 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5819</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 13 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041979" available="false">
-        <price>5054.4</price>
+        <price>5616</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 12.5 м²/2750 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5616</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 12.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041978" available="false">
-        <price>4871.7</price>
+        <price>5413</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 12 м²/2640 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5413</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 12 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041977" available="false">
-        <price>4689</price>
+        <price>5210</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 11.5 м²/2530 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5210</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 11.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041976" available="false">
-        <price>4507.2</price>
+        <price>5008</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 11 м²/2420 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5008</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 11 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041975" available="false">
-        <price>4324.5</price>
+        <price>4805</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 10.5 м²/2310 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4805</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 10.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041974" available="false">
-        <price>4141.8</price>
+        <price>4602</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 10 м²/2200 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4602</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 10 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041973" available="false">
-        <price>3959.1</price>
+        <price>4399</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 9.5 м²/2090 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4399</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 9.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041972" available="false">
-        <price>3776.4</price>
+        <price>4196</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 9 м²/1980 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4196</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 9 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041971" available="false">
-        <price>3594.6</price>
+        <price>3994</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 8.5 м²/1870 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3994</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 8.5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041970" available="false">
-        <price>3411.9</price>
+        <price>3791</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 8 м²/1760 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3791</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 8 м²</vendorCode>
         <vendorprice>2348</vendorprice>
       </offer>
       <offer id="1519041969" available="false">
-        <price>3229.2</price>
+        <price>3588</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 7.5 м²/1650 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3588</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 7,5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041968" available="false">
-        <price>3046.5</price>
+        <price>3385</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 7 м²/1540 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3385</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 7 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041967" available="false">
-        <price>2863.8</price>
+        <price>3182</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 6.5 м²/1430 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3182</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 6,5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041966" available="false">
-        <price>2682</price>
+        <price>2980</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 6 м²/1320 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2980</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 6 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041965" available="false">
-        <price>2499.3</price>
+        <price>2777</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 5.5 м²/1210 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2777</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 5,5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041964" available="false">
-        <price>2316.6</price>
+        <price>2574</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 5 м²/1100 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2574</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041963" available="false">
-        <price>2133.9</price>
+        <price>2371</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 4.5 м²/990 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2371</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 4,5 м²</vendorCode>
         <vendorprice>1190.5</vendorprice>
       </offer>
       <offer id="1519041962" available="false">
-        <price>1951.2</price>
+        <price>2168</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 4 м²/880 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2168</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 4 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041961" available="false">
-        <price>1769.4</price>
+        <price>1966</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 3.5 м²/770 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1966</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 3,5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041960" available="false">
-        <price>1586.7</price>
+        <price>1763</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 3 м²/660 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1763</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 3 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041959" available="false">
-        <price>1404</price>
+        <price>1560</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 2.5 м²/550 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1560</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 2,5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041958" available="false">
-        <price>1221.3</price>
+        <price>1357</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 2 м²/440 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1357</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 2,0 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519041957" available="false">
-        <price>1038.6</price>
+        <price>1154</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором 1.5 м²/330 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1154</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 1,5 м²</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1519010918" available="false">
-        <price>856.8</price>
+        <price>952</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Enerpia інфрачервона плівка з механічним терморегулятором</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>952</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Enerpia 1м² мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -45833,11 +45807,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463286" available="false">
-        <price>14156.48</price>
+        <price>17056</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 12 0 м²/2050 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>17056</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat2050 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -45861,21 +45834,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463283" available="false">
-        <price>10731.9</price>
+        <price>12930</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 8 8 м²/1500 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>12930</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat1500 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463282" available="false">
-        <price>10304.45</price>
+        <price>12415</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 7 9 м²/1350 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>12415</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat1350 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -45926,31 +45897,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463276" available="false">
-        <price>5554.36</price>
+        <price>6692</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 3 3 м²/550 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6692</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat550 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463275" available="false">
-        <price>5127.74</price>
+        <price>6178</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 2 8 м²/480 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6178</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat480 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463274" available="false">
-        <price>4550.89</price>
+        <price>5483</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 2 3 м²/400 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5483</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat400 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -45965,31 +45933,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463272" available="false">
-        <price>3774.01</price>
+        <price>4547</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 1 3 м²/210 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4547</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat210 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515463271" available="false">
-        <price>3347.39</price>
+        <price>4033</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором 1 0 м²/180 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4033</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat180 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1515441737" available="false">
-        <price>3122.46</price>
+        <price>3762</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з Wi-Fi терморегулятором</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3762</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat140 Wi-Fi</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46031,11 +45996,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971085" available="false">
-        <price>12370.5</price>
+        <price>16494</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з терморегулятором 12 0 м²/2050 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>16494</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat2050 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46059,21 +46023,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971082" available="false">
-        <price>9276</price>
+        <price>12368</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат із програмованим терморегулятором 8 8 м²/1500 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>12368</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat1500 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971081" available="false">
-        <price>8889.75</price>
+        <price>11853</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з терморегулятором 7 9 м²/1350 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>11853</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat1350 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46124,31 +46086,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971075" available="false">
-        <price>4598.25</price>
+        <price>6131</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з терморегулятором 3 3 м²/550 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6131</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat550 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971074" available="false">
-        <price>4212</price>
+        <price>5616</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат із програмованим терморегулятором 2 8 м²/480 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5616</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat480 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971073" available="false">
-        <price>3691.5</price>
+        <price>4922</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат із програмованим терморегулятором 2 3 м²/400 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4922</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat400 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46163,31 +46122,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971071" available="false">
-        <price>2989.5</price>
+        <price>3986</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат із програмованим терморегулятором 1 3 м²/210 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3986</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat210 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514971070" available="false">
-        <price>2603.25</price>
+        <price>3471</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат із програмованим терморегулятором 1 м²/180 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3471</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat180 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514963013" available="false">
-        <price>2400.75</price>
+        <price>3201</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з терморегулятором що програмується.</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3201</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat140 прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46229,11 +46185,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953584" available="false">
-        <price>12019.5</price>
+        <price>16026</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 12 0 м²/2050 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>16026</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комп Mat 2050 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46257,21 +46212,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953581" available="false">
-        <price>8925</price>
+        <price>11900</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 8 8 м²/1500 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>11900</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>КомплектMat 1500 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953580" available="false">
-        <price>8538.75</price>
+        <price>11385</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 7 9 м²/1350 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>11385</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>КомплектMat 1350 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46322,31 +46275,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953574" available="false">
-        <price>4247.25</price>
+        <price>5663</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 3 3 м²/550 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5663</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat 550 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953573" available="false">
-        <price>3861</price>
+        <price>5148</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 2 8 м²/480 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5148</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat 480 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953572" available="false">
-        <price>3340.5</price>
+        <price>4454</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 2 3 м²/400 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4454</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat 400 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46361,31 +46311,28 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953570" available="false">
-        <price>2638.5</price>
+        <price>3518</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 1 3 м²/210 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3518</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat 210 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514953569" available="false">
-        <price>2252.25</price>
+        <price>3003</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором 1 м²/180 W</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3003</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat 180 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514924232" available="false">
-        <price>2049.75</price>
+        <price>2733</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний мат з механічним терморегулятором</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2733</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Комплект Hot Mat 140 мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46409,11 +46356,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799806" available="false">
-        <price>11867.2</price>
+        <price>14834</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 150 м/2700 Вт /15-18 7 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>14834</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 2700Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46437,61 +46383,55 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799803" available="false">
-        <price>8879.2</price>
+        <price>11099</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із Wi-Fi терморегулятором 104 м/1900 Вт /10 4-13м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>11099</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1900Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799802" available="false">
-        <price>8281.6</price>
+        <price>10352</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 94 м/1700 Вт /9 4-11 8 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>10352</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1700Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799801" available="false">
-        <price>7683.2</price>
+        <price>9604</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 84 м/1500 Вт /8 4-10 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9604</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1500Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799800" available="false">
-        <price>7352.8</price>
+        <price>9191</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 76 м/1350 Вт /7 6-9 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9191</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1350Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799799" available="false">
-        <price>6889.6</price>
+        <price>8612</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 68 м/1200 Вт /6 8-8 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>8612</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1200Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799798" available="false">
-        <price>6232.8</price>
+        <price>7791</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 60 м/1050 Вт /6-7 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>7791</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1050Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46515,81 +46455,73 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799795" available="false">
-        <price>4696.8</price>
+        <price>5871</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 38 м/680 Вт /3 8-4 8 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5871</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 680Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799794" available="false">
-        <price>4355.2</price>
+        <price>5444</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 32 м/550 Вт /3 2-4м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5444</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 550Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799793" available="false">
-        <price>4011.2</price>
+        <price>5014</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 27 м/480 Вт /2 7-3 4 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5014</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 480Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799792" available="false">
-        <price>3671.2</price>
+        <price>4589</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 22 м/400 Вт /2 2-2 7 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4589</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 400Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799791" available="false">
-        <price>3331.2</price>
+        <price>4164</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 16 м/280 Вт/1 6-2м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4164</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 280Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799790" available="false">
-        <price>3120.8</price>
+        <price>3901</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 12 м/210 Вт /1 2-1 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3901</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 210Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514799789" available="false">
-        <price>2944</price>
+        <price>3680</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором 10 м/180 Вт/1-1 2 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3680</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 180Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514684089" available="false">
-        <price>2835.2</price>
+        <price>3544</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з Wi-Fi терморегулятором</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3544</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 140Wкомпл.Wi-Fi.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46613,11 +46545,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676440" available="false">
-        <price>10276.56</price>
+        <price>14273</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 150 м/2700 Вт</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>14273</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 2700Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46641,61 +46572,55 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676437" available="false">
-        <price>7587.36</price>
+        <price>10538</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 104 м/1900 Вт</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>10538</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1900Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676436" available="false">
-        <price>7048.8</price>
+        <price>9790</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 94 м/1700 Вт</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9790</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1700Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676435" available="false">
-        <price>6510.96</price>
+        <price>9043</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 84 м/1500 Вт</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9043</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1500Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676434" available="false">
-        <price>6212.88</price>
+        <price>8629</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 76 м/1350 Вт /7 6-9 5м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>8629</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1350Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676433" available="false">
-        <price>5796.72</price>
+        <price>8051</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 68 м/1200 Вт /6 8-8 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>8051</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1200Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676432" available="false">
-        <price>5204.88</price>
+        <price>7229</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 60 м/1050 Вт /6 0-7 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>7229</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1050Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46719,81 +46644,73 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676429" available="false">
-        <price>3822.48</price>
+        <price>5309</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 38 м/680 Вт /3 8-4 8 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>5309</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 680Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676428" available="false">
-        <price>3515.76</price>
+        <price>4883</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 32 м/550 Вт /3 2-4м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4883</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 550Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676427" available="false">
-        <price>3205.44</price>
+        <price>4452</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 27 м/480 Вт /2 7-3 4 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4452</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 480Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676426" available="false">
-        <price>2899.44</price>
+        <price>4027</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 22 м/400 Вт /2 2-2 7 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4027</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 400Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676425" available="false">
-        <price>2593.44</price>
+        <price>3602</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 16 м/280 Вт /1 6-2м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3602</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 280Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676424" available="false">
-        <price>2404.8</price>
+        <price>3340</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 12 м/210 Вт /1 2-1 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3340</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 210Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514676423" available="false">
-        <price>2245.68</price>
+        <price>3119</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором 10 м/180 Вт /1-1 2 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3119</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 180Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514631285" available="false">
-        <price>2147.04</price>
+        <price>2982</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із програмованим терморегулятором</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2982</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 140Wкомпл.Прог.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46817,11 +46734,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100688" available="false">
-        <price>10819.2</price>
+        <price>13524</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 150 м/2700 Вт /15-18 7 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>13524</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 2700Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46845,61 +46761,55 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100683" available="false">
-        <price>7831.2</price>
+        <price>9789</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із механічним терморегулятором 104 м/1900 Вт /10 4-13м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9789</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1900Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100682" available="false">
-        <price>7233.6</price>
+        <price>9042</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 94 м/1700 Вт /9 4-11 8 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>9042</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1700Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100680" available="false">
-        <price>6635.2</price>
+        <price>8294</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 84 м/1500 Вт /8 4-10 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>8294</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1500Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100679" available="false">
-        <price>6304.8</price>
+        <price>7881</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 76 м/1350 Вт /7 6-9 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>7881</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1350Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100677" available="false">
-        <price>5841.6</price>
+        <price>7302</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 68 м/1200 Вт /6 8-8 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>7302</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1200Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100676" available="false">
-        <price>5184</price>
+        <price>6480</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із механічним терморегулятором 60 м/1050 Вт /6-7 5м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>6480</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 1050Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -46923,91 +46833,82 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100673" available="false">
-        <price>3648</price>
+        <price>4560</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із механічним терморегулятором 38 м/680 Вт /3 8-4 8м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4560</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 680Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100672" available="false">
-        <price>3307.2</price>
+        <price>4134</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із механічним терморегулятором 32 м/550 Вт /3 2-4м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>4134</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 550Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100671" available="false">
-        <price>2963.2</price>
+        <price>3704</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 27 м/480 Вт /2 7-3 4 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3704</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 480Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100670" available="false">
-        <price>2623.2</price>
+        <price>3279</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 22 м/400 Вт /2 2-2 7 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>3279</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 400Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100669" available="false">
-        <price>2283.2</price>
+        <price>2854</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із механічним терморегулятором 16 м/280 Вт /1 6-2м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2854</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 280Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100668" available="false">
-        <price>2072.8</price>
+        <price>2591</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором 12 м/210 Вт /1 2-1 5 м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2591</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 210Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1514100667" available="false">
-        <price>1896</price>
+        <price>2370</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель із механічним терморегулятором 10 м/180 Вт /1-1 2м²</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2370</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 180Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1513828254" available="false">
-        <price>1786.4</price>
+        <price>2233</price>
         <currencyId>UAH</currencyId>
         <name>Комплект теплої підлоги Volterm нагрівальний кабель з механічним терморегулятором</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2233</oldprice>
         <categoryId>102514653</categoryId>
         <vendorCode>Volterm 140Wкомпл.мех.</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1508317535" available="false">
-        <price>246.6</price>
+        <price>274</price>
         <currencyId>UAH</currencyId>
         <name>Змащування ланцюгів та високонавантажених механізмів Den Braven Chain Spray (400ml.)</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>274</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>12009743</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -47418,11 +47319,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1504110351" available="false">
-        <price>1682.68</price>
+        <price>1829</price>
         <currencyId>UAH</currencyId>
         <name>Шпаклівка заповнювач швів гіпсокартону Den Braven Plasterboard Filler 5л</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1829</oldprice>
         <categoryId>85666663</categoryId>
         <vendorCode>12002321</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -47698,11 +47598,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1482242071" available="false">
-        <price>394.24</price>
+        <price>448</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор механічний з виносним датчиком 3м EcoReg M5.16</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>448</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>EcoReg M5.16</vendorCode>
         <vendorprice>280.00</vendorprice>
@@ -47797,11 +47696,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1448683662" available="false">
-        <price>1989</price>
+        <price>2210</price>
         <currencyId>UAH</currencyId>
         <name>WiFi Терморегулятор для Теплої Підлоги сенсорний. Термостат Castle TWE02 Чорний</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2210</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>Castle TWE02 Black</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -50373,11 +50271,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1392405904009" available="false">
-        <price>1989</price>
+        <price>2210</price>
         <currencyId>UAH</currencyId>
         <name>WiFi Терморегулятор для Теплої Підлоги сенсорний. Термостат Castle TWE02</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>2210</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>Castle TWE02</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -50782,10 +50679,10 @@
         <price>549</price>
         <currencyId>UAH</currencyId>
         <name>Сапоги мужские резиновые высокие утепленные с подвязкой 44 размер (29см), сапоги резиновые для рыбалки</name>
-        <quantity_in_stock>21</quantity_in_stock>
+        <quantity_in_stock>20</quantity_in_stock>
         <categoryId>126113400</categoryId>
         <vendorCode>ws62929-2</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>376.00</vendorprice>
       </offer>
       <offer id="138009" available="true">
         <price>549</price>
@@ -51334,7 +51231,7 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113389</categoryId>
         <vendorCode>ws13552</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>480.00</vendorprice>
       </offer>
       <offer id="1278635554" available="false">
         <price>152</price>
@@ -51571,11 +51468,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1229394532" available="false">
-        <price>452</price>
+        <price>565</price>
         <currencyId>UAH</currencyId>
         <name>Просочення антисептик для дерева від шкідників шашеля короїду Protector 1л</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>565</oldprice>
         <categoryId>105733949</categoryId>
         <vendorCode>Protector 1l</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -52751,11 +52647,10 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1118110835" available="false">
-        <price>425</price>
+        <price>500</price>
         <currencyId>UAH</currencyId>
         <name>Пістолет для Монтажної Піни Професійний Пневматичний (Тефлон)</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>500</oldprice>
         <categoryId>103247208</categoryId>
         <vendorCode>36-001</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -53412,10 +53307,10 @@
         <price>449</price>
         <currencyId>UAH</currencyId>
         <name>Портативная bluetooth колонка влагостойкая TG-157 Pulse с разноцветной подсветкой. Цвет: бирюзовый</name>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <categoryId>126113393</categoryId>
         <vendorCode>ws93514-1-1</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>276.00</vendorprice>
       </offer>
       <offer id="10338" available="false">
         <price>399</price>
@@ -53619,10 +53514,10 @@
         <price>599</price>
         <currencyId>UAH</currencyId>
         <name>Эпилятор Gemei GM-7006 4в1 - Профеcсиональный беспроводной эпилятор бритва с насадками триммер + пемза. Цвет: розовый</name>
-        <quantity_in_stock>19</quantity_in_stock>
+        <quantity_in_stock>18</quantity_in_stock>
         <categoryId>126113392</categoryId>
         <vendorCode>ws15636</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>445.00</vendorprice>
       </offer>
       <offer id="102147" available="false">
         <price>299</price>
@@ -53643,21 +53538,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1017789396" available="false">
-        <price>171.95</price>
+        <price>181</price>
         <currencyId>UAH</currencyId>
         <name>Очисник монтажної піни GROVER Cleaner 500мл</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>181</oldprice>
         <categoryId>85666846</categoryId>
         <vendorCode>500CG</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="101" available="true">
-        <price>1169.1</price>
+        <price>1299</price>
         <currencyId>UAH</currencyId>
         <name>Стрічка для швів та кутів гіпсокартону еластична. Американка STRAIT FLEX MEDIUM 57 мм * 0 41 мм * 30м / Зелена</name>
-        <quantity_in_stock>15</quantity_in_stock>
-        <oldprice>1299</oldprice>
+        <quantity_in_stock>2</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>80119637593</vendorCode>
         <vendorprice>1040.00</vendorprice>
@@ -53672,21 +53565,19 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="100" available="false">
-        <price>1431</price>
+        <price>1590</price>
         <currencyId>UAH</currencyId>
         <name>Композитна армуюча стрічка для кутів Американка Strait Flex Uno-Bead 57мм (65мкм) синя</name>
         <quantity_in_stock>0</quantity_in_stock>
-        <oldprice>1590</oldprice>
         <categoryId>67375323</categoryId>
         <vendorCode>LK-4</vendorCode>
         <vendorprice>1320.00</vendorprice>
       </offer>
       <offer id="00003367" available="false">
-        <price>1899</price>
+        <price>2110</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка антикорозійна ГФ-021</name>
         <quantity_in_stock>3.0</quantity_in_stock>
-        <oldprice>2110</oldprice>
         <categoryId>105728655</categoryId>
         <vendorCode>00003367</vendorCode>
         <vendorprice>1800.0</vendorprice>
