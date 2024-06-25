@@ -1,4 +1,4 @@
-<yml_catalog date="2024-06-23 21:09">
+<yml_catalog date="2024-06-25 15:09">
   <shop>
     <name>База заявок 1</name>
     <company>База заявок 1</company>
@@ -764,7 +764,7 @@
         <price>444</price>
         <currencyId>UAH</currencyId>
         <name>Силіконовий клей-герметик для акваріумів SOUDAL SILIRUB AQ 310мл</name>
-        <quantity_in_stock>15.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>9000101107966</vendorCode>
         <vendorprice>0.0</vendorprice>
@@ -1215,7 +1215,7 @@
         <price>241.2</price>
         <currencyId>UAH</currencyId>
         <name>Універсальний технічний аерозоль Den Braven 6 in 1 Multi-Oil 400 мл</name>
-        <quantity_in_stock>23.0</quantity_in_stock>
+        <quantity_in_stock>22.0</quantity_in_stock>
         <oldprice>268</oldprice>
         <categoryId>102090702</categoryId>
         <vendorCode>12009741</vendorCode>
@@ -1482,7 +1482,7 @@
         <price>115.2</price>
         <currencyId>UAH</currencyId>
         <name>Клей ціаноакрилатний Den Braven Super Adhesive 20г що швидко схоплюється.</name>
-        <quantity_in_stock>31.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <oldprice>128</oldprice>
         <categoryId>67369292</categoryId>
         <vendorCode>200862</vendorCode>
@@ -1804,6 +1804,60 @@
         <vendorCode>ws78948</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
+      <offer id="84863" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Вишня</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-16</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="84860" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Крижана гуаява</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-15</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="84851" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Енергетичний сік</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-13</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="84838" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Ягідний рай</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-12</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="84837" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Полуниця та лічі</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-11</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="84836" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Чорничний рай</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-10-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
       <offer id="84603" available="true">
         <price>1100</price>
         <currencyId>UAH</currencyId>
@@ -1826,7 +1880,7 @@
         <price>880</price>
         <currencyId>UAH</currencyId>
         <name>Флізелін малярний під фарбування Spektrum Fliz SF 120 Premium</name>
-        <quantity_in_stock>0.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>83301</vendorCode>
         <vendorprice>9.0</vendorprice>
@@ -1835,7 +1889,7 @@
         <price>890</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Spektrum Premium SN 50</name>
-        <quantity_in_stock>12.0</quantity_in_stock>
+        <quantity_in_stock>11.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>SN50-50</vendorCode>
         <vendorprice>9.75</vendorprice>
@@ -1853,7 +1907,7 @@
         <price>983</price>
         <currencyId>UAH</currencyId>
         <name>Склополотно під шпаклівку Spektrum Premium SN 45 (Нідерланди) рулон 50м.п.</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>8.0</quantity_in_stock>
         <categoryId>67375323</categoryId>
         <vendorCode>SN45-50</vendorCode>
         <vendorprice>9.0</vendorprice>
@@ -1960,7 +2014,7 @@
         <price>2166</price>
         <currencyId>UAH</currencyId>
         <name>Декоративна лазур Alpina Effekt Lasur Silber (з ефектом срібла) 2,2 л</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>-1.0</quantity_in_stock>
         <categoryId>105705265</categoryId>
         <vendorCode>Alpina Effekt Lasur Silbe</vendorCode>
         <vendorprice>15.918</vendorprice>
@@ -2050,7 +2104,7 @@
         <price>504</price>
         <currencyId>UAH</currencyId>
         <name>Клей для склополотна Бостик 70 стандарт Bostik Wall Standart</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <oldprice>560</oldprice>
         <categoryId>103245991</categoryId>
         <vendorCode>7311020063337</vendorCode>
@@ -2129,6 +2183,78 @@
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws84836</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71392" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Дыня и алоэ вера</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-8</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71391" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Ананасовий лід</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-7</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71390" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Манговий лід</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-6</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71389" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Лимон і маракуя</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-5</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71388" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Крижана м'ята</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-4</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71386" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Виноградний рай</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-2</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71385" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Персиковий рай</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="71381" available="false">
+        <price>199</price>
+        <currencyId>UAH</currencyId>
+        <name>MaskKing High Pro 2% на 1000 раз. Кавуновий вибух</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113385</categoryId>
+        <vendorCode>ws91862</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="71374" available="false">
@@ -2252,7 +2378,7 @@
         <price>199</price>
         <currencyId>UAH</currencyId>
         <name>Запальничка електрична, акумуляторна запальничка, запальничка із зарядкою від usb. Колір: платиновий</name>
-        <quantity_in_stock>21.0</quantity_in_stock>
+        <quantity_in_stock>11.0</quantity_in_stock>
         <categoryId>126113385</categoryId>
         <vendorCode>ws68391-4</vendorCode>
         <vendorprice>0.47</vendorprice>
@@ -3407,11 +3533,11 @@
         <vendorCode>33898</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="6411513560013" available="false">
+      <offer id="6411513560013" available="true">
         <price>165</price>
         <currencyId>UAH</currencyId>
         <name>Затирка для швів плитки та мозаїки фуга Kiilto Saumalaasti</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>105704464</categoryId>
         <vendorCode>33892</vendorCode>
         <vendorprice>0.0</vendorprice>
@@ -3591,7 +3717,7 @@
         <price>221</price>
         <currencyId>UAH</currencyId>
         <name>Бітумна стрічка покрівельна герметизуюча алюмінієва AquaTape ALU 100, 3</name>
-        <quantity_in_stock>16.0</quantity_in_stock>
+        <quantity_in_stock>11.0</quantity_in_stock>
         <categoryId>105704350</categoryId>
         <vendorCode>62763</vendorCode>
         <vendorprice>1.25</vendorprice>
@@ -3735,7 +3861,7 @@
         <price>376.55</price>
         <currencyId>UAH</currencyId>
         <name>Піна монтажна Вогнестійка Протипожежна Den Braven PU Foam GG B1 750мл</name>
-        <quantity_in_stock>123.0</quantity_in_stock>
+        <quantity_in_stock>121.0</quantity_in_stock>
         <oldprice>443</oldprice>
         <categoryId>85666846</categoryId>
         <vendorCode>8011963759301</vendorCode>
@@ -5819,7 +5945,7 @@
         <price>40</price>
         <currencyId>UAH</currencyId>
         <name>Кювета ванночка для фарби 250-350 kolor "WoffMann"</name>
-        <quantity_in_stock>47.0</quantity_in_stock>
+        <quantity_in_stock>44.0</quantity_in_stock>
         <vendorprice>0.28</vendorprice>
       </offer>
       <offer id="5905669372121" available="true">
@@ -5842,10 +5968,10 @@
         <price>1098</price>
         <currencyId>UAH</currencyId>
         <name>Праймер гідроізоляція для фундаментів Grover Dysperbit 20</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>3.0</quantity_in_stock>
         <categoryId>85667100</categoryId>
         <vendorCode>Grover Dysperbit20</vendorCode>
-        <vendorprice>11.7</vendorprice>
+        <vendorprice>10.671500000000002</vendorprice>
       </offer>
       <offer id="5903899978328" available="true">
         <price>685</price>
@@ -5878,7 +6004,7 @@
         <price>170.25</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий санітарний GROVER S100 Прозорий 300 мл</name>
-        <quantity_in_stock>35.0</quantity_in_stock>
+        <quantity_in_stock>33.0</quantity_in_stock>
         <oldprice>227</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>S100 П</vendorCode>
@@ -5888,7 +6014,7 @@
         <price>170.25</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий санітарний GROVER S100 Білий 300 мл</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>1.0</quantity_in_stock>
         <oldprice>227</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>S100 Б</vendorCode>
@@ -5898,7 +6024,7 @@
         <price>246.6</price>
         <currencyId>UAH</currencyId>
         <name>Клей-піна поліуретанова всесезонна для монтажу теплоізоляції GROVER FX 45 Біла 718 мл</name>
-        <quantity_in_stock>129.0</quantity_in_stock>
+        <quantity_in_stock>123.0</quantity_in_stock>
         <oldprice>274</oldprice>
         <categoryId>85666846</categoryId>
         <vendorCode>FX45</vendorCode>
@@ -5937,7 +6063,7 @@
         <price>104.4</price>
         <currencyId>UAH</currencyId>
         <name>Герметик акриловий універсальний для внутрішніх та зовнішніх робіт GROVER Білий A100</name>
-        <quantity_in_stock>247.0</quantity_in_stock>
+        <quantity_in_stock>244.0</quantity_in_stock>
         <oldprice>116</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>A100</vendorCode>
@@ -5967,7 +6093,7 @@
         <price>136</price>
         <currencyId>UAH</currencyId>
         <name>Клей рідкі цвяхи GROVER GR100 багатоцільовий для важких конструкцій та дзеркал бежевий 300мл</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <oldprice>160</oldprice>
         <categoryId>103244794</categoryId>
         <vendorCode>GR100</vendorCode>
@@ -6113,7 +6239,7 @@
         <price>265.2</price>
         <currencyId>UAH</currencyId>
         <name>Герметик силіконовий високотемпературний 315° GROVER FS100 червоний 300 мл</name>
-        <quantity_in_stock>108.0</quantity_in_stock>
+        <quantity_in_stock>105.0</quantity_in_stock>
         <oldprice>312</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>FS100</vendorCode>
@@ -6188,7 +6314,7 @@
         <price>135.85</price>
         <currencyId>UAH</currencyId>
         <name>Герметик жаростійкий силікатний для печей та камінів чорний GROVER F100 300 мл</name>
-        <quantity_in_stock>51.0</quantity_in_stock>
+        <quantity_in_stock>47.0</quantity_in_stock>
         <oldprice>143</oldprice>
         <categoryId>105704350</categoryId>
         <vendorCode>5902012930625</vendorCode>
@@ -6695,7 +6821,7 @@
         <price>852</price>
         <currencyId>UAH</currencyId>
         <name>Олія для дерева ALTAX Дуб 0.75</name>
-        <quantity_in_stock>22.0</quantity_in_stock>
+        <quantity_in_stock>21.0</quantity_in_stock>
         <categoryId>105733817</categoryId>
         <vendorCode>5900172800758</vendorCode>
         <vendorprice>5.810599999999999</vendorprice>
@@ -8276,7 +8402,7 @@
         <price>264</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунтовка для металу антикорозійна 2в1 PRIMER Bayris</name>
-        <quantity_in_stock>14.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>67485156</categoryId>
         <vendorCode>4841498016755</vendorCode>
         <vendorprice>1.8295</vendorprice>
@@ -8402,7 +8528,7 @@
         <price>336</price>
         <currencyId>UAH</currencyId>
         <name>Емаль-грунт антикорозійна 3в1 Korrosionsshutz Bayris</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>4841498016601</vendorCode>
         <vendorprice>2.3285</vendorprice>
@@ -9208,7 +9334,7 @@
         <price>259</price>
         <currencyId>UAH</currencyId>
         <name>Клей-піна монтажна 60 секунд професійна LACRYSIL 800мл</name>
-        <quantity_in_stock>28.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>85666846</categoryId>
         <vendorCode>4820224950426</vendorCode>
         <vendorprice>1.8</vendorprice>
@@ -9517,7 +9643,7 @@
         <price>137.7</price>
         <currencyId>UAH</currencyId>
         <name>Біозахист для деревини концентрат 1:9 Безбарвний BAYRIS</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>5.0</quantity_in_stock>
         <oldprice>162</oldprice>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193824322</vendorCode>
@@ -9527,7 +9653,7 @@
         <price>720</price>
         <currencyId>UAH</currencyId>
         <name>Біозахист для деревини концентрат 1:9 Зелений BAYRIS 5</name>
-        <quantity_in_stock>82.0</quantity_in_stock>
+        <quantity_in_stock>81.0</quantity_in_stock>
         <categoryId>105733909</categoryId>
         <vendorCode>4820193824315</vendorCode>
         <vendorprice>4.9104</vendorprice>
@@ -10406,7 +10532,7 @@
         <price>1278</price>
         <currencyId>UAH</currencyId>
         <name>Фасадна фарба FACADE WECO водно-дисперсійна біла матова 14</name>
-        <quantity_in_stock>26.55</quantity_in_stock>
+        <quantity_in_stock>26.0</quantity_in_stock>
         <categoryId>67131755</categoryId>
         <vendorprice>11.0</vendorprice>
       </offer>
@@ -10584,11 +10710,11 @@
         <categoryId>105733909</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="4820193822298" available="false">
+      <offer id="4820193822298" available="true">
         <price>546</price>
         <currencyId>UAH</currencyId>
         <name>Грунтівка Біозахист Concentrat 1:6 WECO зелений 5</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <categoryId>105733909</categoryId>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -10772,7 +10898,7 @@
         <price>480</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавки в бетон для теплої підлоги BAYRIS 10</name>
-        <quantity_in_stock>68.0</quantity_in_stock>
+        <quantity_in_stock>65.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820515</vendorCode>
         <vendorprice>3.36</vendorprice>
@@ -10862,7 +10988,7 @@
         <price>444</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавки для всіх типів бетону BAYRIS 10</name>
-        <quantity_in_stock>192.0</quantity_in_stock>
+        <quantity_in_stock>159.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820416</vendorCode>
         <vendorprice>3.108</vendorprice>
@@ -10871,7 +10997,7 @@
         <price>234</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавки для всіх типів бетону BAYRIS 5</name>
-        <quantity_in_stock>182.0</quantity_in_stock>
+        <quantity_in_stock>168.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820409</vendorCode>
         <vendorprice>1.6380000000000001</vendorprice>
@@ -10880,7 +11006,7 @@
         <price>60</price>
         <currencyId>UAH</currencyId>
         <name>Пластифікатор добавка для всіх видів бетону BAYRIS</name>
-        <quantity_in_stock>636.0</quantity_in_stock>
+        <quantity_in_stock>516.0</quantity_in_stock>
         <categoryId>67375694</categoryId>
         <vendorCode>4820193820393</vendorCode>
         <vendorprice>0.42</vendorprice>
@@ -11241,7 +11367,7 @@
         <price>909.75</price>
         <currencyId>UAH</currencyId>
         <name>Мастика гідроізоляційна Grover MW 301 7 кг / Польща</name>
-        <quantity_in_stock>25.0</quantity_in_stock>
+        <quantity_in_stock>23.0</quantity_in_stock>
         <oldprice>1213</oldprice>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 7</vendorCode>
@@ -11261,7 +11387,7 @@
         <price>194.25</price>
         <currencyId>UAH</currencyId>
         <name>Мастика гідроізоляційна Grover MW 301 1 кг</name>
-        <quantity_in_stock>52.0</quantity_in_stock>
+        <quantity_in_stock>50.0</quantity_in_stock>
         <oldprice>259</oldprice>
         <categoryId>85667100</categoryId>
         <vendorCode>MW 301 - 1</vendorCode>
@@ -11334,7 +11460,7 @@
         <price>350</price>
         <currencyId>UAH</currencyId>
         <name>Водорозчинний зміцнюючий ґрунт-концентрат Eskaro Aquastop facade</name>
-        <quantity_in_stock>3.0</quantity_in_stock>
+        <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>67485156</categoryId>
         <vendorCode>Aquastop facade 1</vendorCode>
         <vendorprice>2.23</vendorprice>
@@ -11388,7 +11514,7 @@
         <price>82</price>
         <currencyId>UAH</currencyId>
         <name>Розчинник синтетичний Biodur Synthetic Thinner</name>
-        <quantity_in_stock>27.0</quantity_in_stock>
+        <quantity_in_stock>26.0</quantity_in_stock>
         <categoryId>105851603</categoryId>
         <vendorCode>B-02</vendorCode>
         <vendorprice>0.5</vendorprice>
@@ -11487,7 +11613,7 @@
         <price>696</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt 2.1, Білий</name>
-        <quantity_in_stock>5.0</quantity_in_stock>
+        <quantity_in_stock>4.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorprice>5.0</vendorprice>
       </offer>
@@ -11495,7 +11621,7 @@
         <price>696</price>
         <currencyId>UAH</currencyId>
         <name>Ґрунт-Емаль матова 3 в 1 Biodur Durable matt 2.1, Коричневий 217</name>
-        <quantity_in_stock>9.0</quantity_in_stock>
+        <quantity_in_stock>7.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>Biodur 217-21</vendorCode>
         <vendorprice>5.65</vendorprice>
@@ -11576,7 +11702,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл RAL 8017 Темно-коричневий</name>
-        <quantity_in_stock>2.0</quantity_in_stock>
+        <quantity_in_stock>14.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 8017 m</vendorCode>
         <vendorprice>0.84</vendorprice>
@@ -11585,7 +11711,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл RAL 7016</name>
-        <quantity_in_stock>11.0</quantity_in_stock>
+        <quantity_in_stock>23.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 7016 m</vendorCode>
         <vendorprice>0.84</vendorprice>
@@ -11702,7 +11828,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 7016 Сірий Антрацит</name>
-        <quantity_in_stock>13.0</quantity_in_stock>
+        <quantity_in_stock>25.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 7016</vendorCode>
         <vendorprice>0.84</vendorprice>
@@ -11849,7 +11975,7 @@
         <price>216.9</price>
         <currencyId>UAH</currencyId>
         <name>Емаль флуоресцентна аерозоль New Ton 400 мл RAL 1026 Жовтий</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>13.0</quantity_in_stock>
         <oldprice>241</oldprice>
         <categoryId>105705116</categoryId>
         <vendorCode>NTF 1026</vendorCode>
@@ -11959,7 +12085,7 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл</name>
-        <quantity_in_stock>63.0</quantity_in_stock>
+        <quantity_in_stock>60.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9010 m</vendorCode>
         <vendorprice>0.84</vendorprice>
@@ -11986,16 +12112,16 @@
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна матова NEW TON 400 мл RAL 9005 Чорний</name>
-        <quantity_in_stock>6.0</quantity_in_stock>
+        <quantity_in_stock>30.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9005 m</vendorCode>
-        <vendorprice>0.86</vendorprice>
+        <vendorprice>0.84</vendorprice>
       </offer>
       <offer id="4820155680409" available="true">
         <price>121</price>
         <currencyId>UAH</currencyId>
         <name>Емаль аерозоль універсальна глянсова NEW TON 400 мл RAL 9005 Чорний</name>
-        <quantity_in_stock>23.0</quantity_in_stock>
+        <quantity_in_stock>47.0</quantity_in_stock>
         <categoryId>105705116</categoryId>
         <vendorCode>NT 9005</vendorCode>
         <vendorprice>0.84</vendorprice>
@@ -12357,6 +12483,33 @@
         <vendorCode>03.03.0006</vendorCode>
         <vendorprice>0.0</vendorprice>
       </offer>
+      <offer id="476215" available="false">
+        <price>449</price>
+        <currencyId>UAH</currencyId>
+        <name>Тактична сумка через плече – водонепроникна сумка слінг із кордури на 4 кишені. Колір: чорний</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113389</categoryId>
+        <vendorCode>ws74249-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="475777" available="false">
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <name>УМБ павербанк батарея powerbank 50000 mAh 22.5W Fast charge швидка зарядка, зарядний пристрій Білий</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113384</categoryId>
+        <vendorCode>ws88142-1</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="475763" available="false">
+        <price>1499</price>
+        <currencyId>UAH</currencyId>
+        <name>Пускозарядний пристрій на 50800 мАг для автомобільного акумулятора з індикацією заряду в кейсі</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <categoryId>126113395</categoryId>
+        <vendorCode>ws71652</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
       <offer id="4740381006999" available="false">
         <price>4257</price>
         <currencyId>UAH</currencyId>
@@ -12502,7 +12655,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="466478" available="false">
-        <price>499</price>
+        <price>449</price>
         <currencyId>UAH</currencyId>
         <name>Полиця для взуття стелаж Shoe RACK 5 ярусів металева. Колір: чорний</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -13564,7 +13717,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="460154" available="false">
-        <price>499</price>
+        <price>449</price>
         <currencyId>UAH</currencyId>
         <name>Полиця для взуття стелаж Shoe RACK 5 ярусів металева. Колір: білий</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -14392,7 +14545,7 @@
         <vendorprice>1600.00</vendorprice>
       </offer>
       <offer id="453315" available="false">
-        <price>599</price>
+        <price>649</price>
         <currencyId>UAH</currencyId>
         <name>Надійний тактичний - Військовий Рюкзак з Кордури чоловічий туристичний</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -15453,11 +15606,11 @@
         <vendorCode>ws37444</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="433904" available="false">
+      <offer id="433904" available="true">
         <price>579</price>
         <currencyId>UAH</currencyId>
         <name>Ваги підлогові MAGIO MG-832, побутові підлогові ваги, ваги підлогові 150 кг</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <categoryId>126113386</categoryId>
         <vendorCode>ws41233</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -16758,11 +16911,11 @@
         <vendorCode>ws22683</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="419935" available="false">
+      <offer id="419935" available="true">
         <price>349</price>
         <currencyId>UAH</currencyId>
         <name>Смарт Годинник T500+ plus Smart Watch зі змінним ремінцем</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <categoryId>126113383</categoryId>
         <vendorCode>ws29849</vendorCode>
         <vendorprice>211.00</vendorprice>
@@ -16848,11 +17001,11 @@
         <vendorCode>ws28628-1</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="419471" available="false">
+      <offer id="419471" available="true">
         <price>349</price>
         <currencyId>UAH</currencyId>
         <name>Розумний смарт годинник Smart Watch T55 з 2 ремінцями, підтримка дзвінків, спортивні режими, вологозахист ip 67</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <categoryId>126113383</categoryId>
         <vendorCode>ws64124</vendorCode>
         <vendorprice>236.00</vendorprice>
@@ -17866,7 +18019,7 @@
         <price>97</price>
         <currencyId>UAH</currencyId>
         <name>Клей для швів та швидкого ремонту Pufas Uni-Fix 60 г</name>
-        <quantity_in_stock>23.0</quantity_in_stock>
+        <quantity_in_stock>22.0</quantity_in_stock>
         <vendorprice>0.76</vendorprice>
       </offer>
       <offer id="4007954221013" available="true">
@@ -19664,7 +19817,7 @@
         <price>98</price>
         <currencyId>UAH</currencyId>
         <name>Клей для паперових шпалер Quelyd Super Express 250г</name>
-        <quantity_in_stock>88.0</quantity_in_stock>
+        <quantity_in_stock>87.0</quantity_in_stock>
         <categoryId>103245991</categoryId>
         <vendorCode>Super Express</vendorCode>
         <vendorprice>0.76</vendorprice>
@@ -19682,7 +19835,7 @@
         <price>124</price>
         <currencyId>UAH</currencyId>
         <name>Клей для шпалер Флізеліновий Quelyd Fliz Спец Флізелін 300г</name>
-        <quantity_in_stock>55.0</quantity_in_stock>
+        <quantity_in_stock>24.0</quantity_in_stock>
         <oldprice>155</oldprice>
         <categoryId>103245991</categoryId>
         <vendorCode>30080942</vendorCode>
@@ -31857,7 +32010,7 @@
         <price>579</price>
         <currencyId>UAH</currencyId>
         <name>Електробритва MAGIO MG-686, професійна електробритва, бритва для бороди, чоловіча машинка для гоління</name>
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <categoryId>126113392</categoryId>
         <vendorCode>ws26838</vendorCode>
         <vendorprice>0.00</vendorprice>
@@ -33213,7 +33366,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="246020" available="true">
-        <price>999</price>
+        <price>1099</price>
         <currencyId>UAH</currencyId>
         <name>Рюкзак тактичний 50 літрів (+3 підсумками) Якісний штурмовий для походу та подорожей наплічник баул</name>
         <quantity_in_stock>14</quantity_in_stock>
@@ -33222,7 +33375,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="245153" available="true">
-        <price>999</price>
+        <price>1099</price>
         <currencyId>UAH</currencyId>
         <name>Рюкзак тактичний 50 л, з підсумками Військовий штурмовий рюкзак на MOLLE великий</name>
         <quantity_in_stock>3</quantity_in_stock>
@@ -33249,7 +33402,7 @@
         <vendorprice>455.00</vendorprice>
       </offer>
       <offer id="242482" available="true">
-        <price>999</price>
+        <price>1099</price>
         <currencyId>UAH</currencyId>
         <name>Рюкзак тактичний 55л з трьома підсумками! Якісний штурмовий для походу подорожей великий рюкзак баул</name>
         <quantity_in_stock>10</quantity_in_stock>
@@ -34422,7 +34575,7 @@
         <price>2777</price>
         <currencyId>UAH</currencyId>
         <name>Фарба Емаль ПФ-115 25кг Зелений</name>
-        <quantity_in_stock>1.0</quantity_in_stock>
+        <quantity_in_stock>2.0</quantity_in_stock>
         <categoryId>67131757</categoryId>
         <vendorCode>2250131632016</vendorCode>
         <vendorprice>17.5</vendorprice>
@@ -38293,11 +38446,11 @@
         <vendorCode>ws65953-1</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2145024864" available="false">
+      <offer id="2145024864" available="true">
         <price>399</price>
         <currencyId>UAH</currencyId>
         <name>Часы наручные мужские SKMEI 1299BK, часы наручные электронные тактические, часы для военнослужащих</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <vendorCode>ws58242</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -38919,11 +39072,11 @@
         <vendorCode>5906725217707</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2128624022" available="false">
+      <offer id="2128624022" available="true">
         <price>399.6</price>
         <currencyId>UAH</currencyId>
         <name>Силиконовый клей-герметик для аквариумов SOUDAL SILIRUB AQ 310мл Черный (2128624022)</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <vendorCode>9000101107967</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -38943,11 +39096,11 @@
         <vendorCode>4820193823172</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2128622269" available="false">
+      <offer id="2128622269" available="true">
         <price>1439.25</price>
         <currencyId>UAH</currencyId>
         <name>Терморегулятор программируемый Castle с функцией Wi-Fi AC603H Черный (2128622269)</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <vendorCode>AC603H черный</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -39177,7 +39330,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="212628" available="false">
-        <price>699</price>
+        <price>729</price>
         <currencyId>UAH</currencyId>
         <name>Фен Щітка Gemei Gm-4828 Браш Стайлер гребінець Для Брашинга, Фен щітка 3 в 1, Фен браш Gemei</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -44300,7 +44453,7 @@
       <offer id="2122483001" available="false">
         <price>447</price>
         <currencyId>UAH</currencyId>
-        <name>Фарба для дерева FACADE LASUR Bionic-House 1 л Слонова пензель А102</name>
+        <name>Фарба для дерева FACADE LASUR Bionic-House 1 л Слонова кістка А102</name>
         <quantity_in_stock>0.0</quantity_in_stock>
         <categoryId>67481255</categoryId>
         <vendorCode>2122483001</vendorCode>
@@ -53372,7 +53525,7 @@
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="207822" available="false">
-        <price>419</price>
+        <price>399</price>
         <currencyId>UAH</currencyId>
         <name>Подвійна регульована вішалка стійка для одягу телескопічна підлогова Double-Pole</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -53458,11 +53611,19 @@
         <vendorCode>ws98414</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="2069082372" available="false">
+      <offer id="2069082397" available="false">
+        <price>549</price>
+        <currencyId>UAH</currencyId>
+        <name>Часы наручные мужские SKMEI 1290BK с компасом, наручные часы для военных. Цвет: черный</name>
+        <quantity_in_stock>0</quantity_in_stock>
+        <vendorCode>ws35618</vendorCode>
+        <vendorprice>0.00</vendorprice>
+      </offer>
+      <offer id="2069082372" available="true">
         <price>449</price>
         <currencyId>UAH</currencyId>
         <name>Часы наручные мужские SKMEI 1155BKH KHAKI, водостойкие тактические часы, армейские часы. Цвет: хаки</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <vendorCode>ws94636-5</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -53767,7 +53928,7 @@
         <vendorprice>497.00</vendorprice>
       </offer>
       <offer id="205551" available="true">
-        <price>599</price>
+        <price>649</price>
         <currencyId>UAH</currencyId>
         <name>Тактичний рюкзак Tactic 1000D для військових, полювання, риболовлі, походів, подорожей та спорту. Колір чорний</name>
         <quantity_in_stock>9</quantity_in_stock>
@@ -54997,7 +55158,7 @@
         <price>131</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Дачна сосна, 90см</name>
-        <quantity_in_stock>34.0</quantity_in_stock>
+        <quantity_in_stock>19.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005315</vendorCode>
         <vendorprice>0.82</vendorprice>
@@ -55051,7 +55212,7 @@
         <price>131</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Світлий дуб, 90см</name>
-        <quantity_in_stock>49.0</quantity_in_stock>
+        <quantity_in_stock>34.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005249</vendorCode>
         <vendorprice>0.82</vendorprice>
@@ -55069,7 +55230,7 @@
         <price>131</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Волоський горіх, 90см</name>
-        <quantity_in_stock>48.0</quantity_in_stock>
+        <quantity_in_stock>47.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005176</vendorCode>
         <vendorprice>0.82</vendorprice>
@@ -55096,7 +55257,7 @@
         <price>131</price>
         <currencyId>UAH</currencyId>
         <name>Самоклеюча ПВХ плівка D-C-Fix Матова, Горіх золотий, 90см</name>
-        <quantity_in_stock>27.0</quantity_in_stock>
+        <quantity_in_stock>12.0</quantity_in_stock>
         <categoryId>84233811</categoryId>
         <vendorCode>2005093</vendorCode>
         <vendorprice>0.82</vendorprice>
@@ -64784,7 +64945,7 @@
         <vendorprice>78.00</vendorprice>
       </offer>
       <offer id="1542669236" available="false">
-        <price>86</price>
+        <price>120</price>
         <currencyId>UAH</currencyId>
         <name>Клей шпалерний флізеліновий Pufas EURO 3000 200г</name>
         <quantity_in_stock>0</quantity_in_stock>
@@ -65025,11 +65186,11 @@
         <vendorCode>ws66629</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="1537544804" available="false">
+      <offer id="1537544804" available="true">
         <price>98</price>
         <currencyId>UAH</currencyId>
         <name>Клей для бумажных обоев Quelyd Super Express 250г</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <vendorCode>Super Express</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -67615,11 +67776,11 @@
         <vendorCode>86501002</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="1504626687" available="false">
+      <offer id="1504626687" available="true">
         <price>115</price>
         <currencyId>UAH</currencyId>
         <name>Клей цианоакрилатный быстросхватывающийся Den Braven Super Adhesive 20г</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <vendorCode>200862</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
@@ -68019,7 +68180,7 @@
         <oldprice>2210</oldprice>
         <categoryId>90503378</categoryId>
         <vendorCode>Castle TWE02 Black</vendorCode>
-        <vendorprice>0.00</vendorprice>
+        <vendorprice>1150.00</vendorprice>
       </offer>
       <offer id="14484" available="false">
         <price>579</price>
@@ -68282,6 +68443,7 @@
         <name>Фінішна шпаклівка для внутрішніх робіт Д 60 Ельф 27</name>
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>85666663</categoryId>
+        <vendorCode>4820024420082</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1445587516" available="false">
@@ -68290,6 +68452,7 @@
         <name>Фінішна шпаклівка для внутрішніх робіт Д 60 Ельф 17</name>
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>85666663</categoryId>
+        <vendorCode>4820024420075</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1445587515" available="false">
@@ -68298,6 +68461,7 @@
         <name>Фінішна шпаклівка для внутрішніх робіт Д 60 Ельф 8</name>
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>85666663</categoryId>
+        <vendorCode>4820024420068</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1445587514" available="false">
@@ -68306,6 +68470,7 @@
         <name>Фінішна шпаклівка для внутрішніх робіт Д 60 Ельф 4</name>
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>85666663</categoryId>
+        <vendorCode>4820024420051</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1445582263" available="false">
@@ -68314,6 +68479,7 @@
         <name>Фінішна шпаклівка для внутрішніх робіт Д 60 Ельф</name>
         <quantity_in_stock>0</quantity_in_stock>
         <categoryId>85666663</categoryId>
+        <vendorCode>4820024427562</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
       <offer id="1443947794" available="false">
@@ -68324,11 +68490,11 @@
         <vendorCode>4820193824308</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
-      <offer id="1443944952" available="false">
+      <offer id="1443944952" available="true">
         <price>138</price>
         <currencyId>UAH</currencyId>
         <name>Биозащита для древесины концентрат 1:9 Бесцветный BAYRIS</name>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <vendorCode>4820193824322</vendorCode>
         <vendorprice>0.00</vendorprice>
       </offer>
